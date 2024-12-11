@@ -1,0 +1,72 @@
+Afonso
+
+Size: 0
+Age: 28
+Apparent age: 28
+Decrepitude: 0
+Warping Score: 0
+Reputations: None
+Encumbrance: 4 (14) - 3 = 1
+Confidence Score: 1
+Confidence Points: 5
+
+Characteristics:
+    Int: -1
+    Per: -1
+    Str: +3
+    Sta: +2
+    Prs: 0
+    Com: -1
+    Dex: +1
+    Qik: +2
+
+Personality Traits:
+    Optimistic +6
+    Committing +3
+    Adventurous +2
+
+Virtues:
+    Common Sense, Improved Characteristics, Puissant Single Weapon, Tough, Mercenary Captain, Warrior
+
+Flaws:
+    Ability Block (Academic), Optimistic (Major), Poor Concentration, Unlucky
+
+Abilities:
+    Catalonian (Slang): 5
+    Catalonia Lore (Politics): 2
+    Athletics (Running): 2
+    Awareness (Keeping watch): 2
+    Brawl (Grapple): 3
+    Folk Ken (Townsfolk): 2
+    Leadership (Group combat): 3 (7)
+    Ride (Battle): 1
+    Single Weapon (Heater shield): 5 (5)
+    Survival (Camping): 2
+    Thrown Weapon (Javelin): 5
+
+Combat:
+    Longsword and heater shield: Init +3, Atk +13, Dfn +14, Dmg +9
+    Longsword: Init +3, Atk +12, Dfn +10, Dmg +9
+    Javelin and heater shield: Init +1, Atk +10, Dfn +13, Dmg +8, Range 10
+
+Soak: 14
+
+Equipments:
+    Chain mail
+    Longsword
+    Heater shield
+    Javelin * 5
+
+Description:
+    Afonso was raised as a mercenary from youth. Compare to his extraordinary capability to fight, his capability to choose the losing side is also extraordinary. Moving from one group to another, Afonso gradually earned his name and became a captain. Accepting his bad luck, Afonso became more and more attracted to strange or risky jobs, which in the end, even landed him a job serving magi.
+
+Life:
+    Year 1192:
+        Born
+    Year 1192-1202:
+        Early childhood (15 yrs)
+    Year 1205-1219:
+        Later life (13 yrs)
+    Year 1220:
+        Spring: Adventure, 5exp in Leadership, 5exp in Single Weapon
+        Summer: Help setting up covenant, 4exp in Leadership

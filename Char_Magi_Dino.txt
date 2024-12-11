@@ -1,0 +1,399 @@
+Dino of Verditius
+
+Size: 0
+Age: 30
+Apparent age: 30
+Decrepitude: 0
+Warping Score: 0
+Reputations: None
+Encumbrance: 0
+Confidence Score: 1
+Confidence Points: 5
+
+Characteristics:
+    Int: +5
+    Per: +3
+    Str: 0
+    Sta: +3
+    Prs: -1
+    Com: -1
+    Dex: -2
+    Qik: -3
+
+Personality Traits:
+    Proud: +6
+    Calculating: +3
+    Proactive: -2
+
+Virtues:
+    The Gift, Hermetic Magus, Verditius Magic
+    Great Int, Great Int, Inventive Genius,
+    Masterpiece, Craft Guild Training, Skilled Parens
+    Affinity with Ability (Magic Theory), Puissant Ability (Magic Theory)
+    Affinity with Ability (Craft Jewelry), Puissant Ability (Craft Jewelry)
+
+Flaws:
+    Weak Spontaneous Magic, Difficult Spontaneous Magic
+    Proud (Major), Flawed Parma Magica (Ig), Motion Sickness, Obese
+
+Abilities:
+    Lombard (Milanese): 5
+    Guile (Fast talk): 2
+    Awareness (Searching): 3
+    Latin (Hermetic): 4
+    Code of Hermes (Tribunal procedures): 1
+    House Verditius Lore (Mystery Initiation): 1
+    Concentration (Spell): 1
+    Finesse (Magical craft): 1
+    Artes Liberales (Ritual magic): 1
+    Philosophiae (Verditius magic): 2
+    Craft Jewelry (Ring): 5 (2)
+    Magic Theory (Enchanting items): 7 (2)
+    Parma Magica (Vim): 1
+
+Arts:
+    Cr: 6
+    In: 6
+    Mu: 6
+    Pe: 6
+    Re: 6
+    An: 0
+    Aq: 1
+    Au: 1
+    Co: 1
+    He: 0
+    Ig: 0
+    Im: 1
+    Me: 1
+    Te: 1
+    Vi: 4 (4)
+
+Sigil:
+    Five concentric rings
+
+Equipments:
+    Collar of Levitation
+    Spell Ring of Arcane Disconnection * 4
+
+Spells:
+    Cloak of the Duck's Feathers (ReAq 5)
+    Chamber of Spring Breezes (CrAu 5)
+    Lamp Without Flame (CrIg 10)
+    Veil of Invisibility (PeIm 20)
+    Touch of Midas (CrTe 20)
+    The Crystal Dart (MuTe 10)
+    The Unseen Porter (ReTe 10)
+    Scales of the Magical Weight (InVi 5)
+    Sense the Nature of Vis (InVi 5)
+    Aegis of the Hearth (ReVi 20)
+    Maintaining the Demanding Spell (ReVi 20)
+    Opening the Intangible Tunnel (ReVi 20)
+
+Description:
+    Dino is a large fat man who wears as much decoration as possible and always look down apon everyone. Born as the youngest son of an Milano craftsman family, Dino's Gift made him misery and lonely. At the age of 15, Dino was picked up by an old Verditius magus in an old and reclusive covenant and became an apprentice. Although his parens did tought him well, being the only magus younger than a centry in the covenant, Dino still felt lonely and restricted. All the magus in the covenant had retreated into their own secrets and ignored Dino as much as possible, even his parens. After the gauntlet, Dino left the covenant and decide to find a new foundation to finally prove his worth to the world.
+
+Life:
+    Year 1190:
+        Born
+    Year 1190-1204:
+        Early childhood (15 yrs)
+    Year 1205-1219:
+        Apprenticeship (15 yrs)
+    Year 1220:
+        Spring: Study from raw Vis, 13exp in Vi; Setup basic lab.
+        Summer: Build 5 Spell Ring of Arcane Disconnection, 2 exp in Craft Jewelry, 2exp in Magic Theory.
+
+Creations:
+    Collar of Levitation
+        Type:
+            Lesser enchantment
+        Description:
+            An collar embellished with silver threads and small crystals.
+        Effect:
+            ReCo, R: Touch, D: Sun, T: Ind
+            Move the wearer slowly in any direction with concentration.
+        Trigger:
+            Gently twist both the corners.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 5, +1' Touch, +2' Sun = 20, +1 Frequency = 21
+        Shape and Material Bonuses:
+            Collar (+6 control wearer)
+        Lab total at creation:
+            Re 6 + Co 1 + Int 5 + Magic Theory 10 + Craft Jewelry 7 + S.M.B. 6 + Philosophiae 3 + Inventive Genius 3 + Aura 3 = 44
+        Notes:
+            Created and gifted as Dino's gauntlet.
+
+    Spell Ring of Arcane Disconnection
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a gray liquid sitting on a red gold ring.
+        Effect:
+            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Reduce the duration of any Arcane Connections put inside the circle by six steps.
+            With side effect of etching Dino's sigil onto anything affected.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
+        Lab total at creation:
+            Pe 6 + Vi 4 + Int 5 + Magic Theory 10 + Craft Jewelry 7 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 = 66
+
+Planned creations:
+    Spell Ring of Wizard's Respite
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a dark liquid sitting on a magnet ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            The circle will sustain all spells of level (X+25)/2 or lower that are concentrated by Magi inside until they leave.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base X, +1' Touch, +2' Ring = X+15
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+
+    Spell Ring of Shortcut
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a clear liquid sitting on a magnet ring.
+        Effect:
+            ReCo, R: Touch, D: Ring, T: Circle (Dynamic)
+            Instantly transport any people entering the circle to a fixed point within seven leagues.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Apple Wood (+1 Corpus), Amber (+3 Corpus), Yew Wood (+2 Corpus), Magnet (+4 Rego Corpus), Ring (+2 constant effect)
+
+    Spell Ring of Magic Revealed
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a glowing liquid sitting on a silver ring.
+        Effect:
+            In(Cr)Vi(Im), R: Touch, D: Ring, T: Circle (Dynamic)
+            Any active magic in the circle will create a visible aura. The color indicates the Form and the shape indicates the Technique.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 5, +1' Touch, +2' Ring, +2' Techniques and Forms, +2' requisite = 40
+        Shape and Material Bonuses:
+            Cinnamon (+4 Imaginem), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Silver (+2 Intellego), Ring (+2 constant effect)
+
+    Spell Ring of Arcane Connection
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a white liquid sitting on a gold ring.
+        Effect:
+            CrVi, R: Touch, D: Sun, T: Ind
+            Create a temporary Arcane Connection to the target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration.
+        Trigger:
+            Command word.
+        Penetration:
+            60
+        Level:
+            Base 4, +1' Touch, +2' Sun = 10, +30 Penetration = 45
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Birch Wood (+1 Creo), Ink of Hermes (+3 Vim)
+
+    Spell Ring of Wizard's Privacy
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a black liquid sitting on a red gold ring.
+        Effect:
+            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Dispel any Hermetic scrying effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance. The circle can't prevent a magical sensor outside from perceiving within, but will dispel it once it enters.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
+
+    Spell Ring of Wizard's Solitary
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a yellow liquid sitting on a red gold ring.
+        Effect:
+            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Dispel any Hermetic transportation effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
+
+    Scrying Trinket
+        Type:
+            Spell
+        Effect:
+            InTe(Im), R: Touch, D: Conc, T: Ind
+            This spell lets you see and hear the touched tiny solid object (e.g., a pebble, a coin) and its surroundings within a 100 paces for the duration. You can only sense what you can normally get if you're at the object's position. So if the object is in a small container, you can't see outside of it.
+        Level:
+            Base 4, +1' Touch, +1' Concentration, +1' requisite, +1' additional sense, +2' size = 30
+
+    Indestructible Object
+        Type:
+            Spell
+        Effect:
+            MuTe, R: Touch, D: Moon, T: Ind
+            Magically strengthen an inanimate object so that it can't be damaged by mundane methods or environments.
+        Level:
+            Base 4, +1' Touch, +3' Moon, +2' metal = 30
+
+    Wizard's Delivery
+        Type:
+            Spell
+        Effect:
+            ReTe, R: Touch, D: Mom, T: Ind
+            Teleport a touched object to a place up to seven leagues or which you have an Arcane Connection.
+        Level:
+            Base 4, +1' Touch, +5' distance = 30
+
+    Ring of Here and There
+        Type:
+            Invested item
+        Description:
+            Three slender rings, two wooden and one magnet, bounded together by gold, with magical runes inscribed around.
+        Effect 1:
+            ReVi, R: Touch, D: Sun, T: Ind
+            Creates a magical channel on a target. The channel is a mystical extension of this item, so the item can cast spells with Touch range on the target, and a magus can cast spells on this item by targeting the channel. The channel only allows spells of level 50 or lower to be cast through. The channel is constant.
+        Trigger:
+            Command word and environmental.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 25, +1' Touch, +2' Sun = 40, +3 environmental trigger (sunrise and sunset), +3 effect use (only creator), +1 Frequency = 47
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Effect 2:
+            ReVi, R: Voice, D: Diam, T: Spec
+            Creates a magical channel between a target in range and the target of effect 1. A magus can cast spells targeting one end of the channel to affect the target on the other end. The channel only allows spells of level 10 or lower to be cast through.
+        Trigger:
+            Specific movement.
+        Frequency:
+            24 uses per day.
+        Penetration:
+            60
+        Level:
+            Base 1, +2' Voice, +1' Diam, +3' Special target = 25, +5 Frequency, +30 Penetration = 50
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+        Vis cost:
+            10 Vi + 10 Re/Vi
+
+    Ring of Magic Circle
+        Type:
+            Invested item
+        Description:
+            Two electrum rings with a glass torus containing mercury in between held together with bronze binding.
+        Effect 1:
+            MuTe, R: Per, D: Sun, T: Ind
+            Magically enlarge this ring's diameter to 10 paces while retaining its thickness.
+        Trigger:
+            Command word or environmental.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 4, +2' Sun, +2' size, +2' metal = 30, +3 environmental trigger (sunrise and sunset), +1 Frequency = 34
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Terram), Ring (+2 constant effect)
+        Effect 2:
+            MuTe, R: Per, D: Sun, T: Ind
+            Magically strengthen this ring so that it can't be damaged by mundane methods or environments.
+        Trigger:
+            Environmental.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 4, +2' Sun, +2' size, +2' metal = 30, +3 environmental trigger (sunrise and sunset), +1 Frequency = 34
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Terram), Ring (+2 constant effect)
+        Vis cost:
+            10 Vi + 8 Mu/Te
+
+    Ring of Arcane Debt
+        Type:
+            Lesser enchantment
+        Description:
+            A bronze ring with magical runes inscribed around.
+        Effect:
+            Cr(Mu)Vi(Te), R: Touch, D: Ring, T: Circle (Static)
+            When this spell is cast, for each target in the circle, create a temporary Arcane Connection to it in the form of a silver coin. These coins can only exist within the circle, cannot be fixed in a laboratory, and do not themselves give a bonus to Penetration. To create an Arcane Connection, this spell must first Penetrate the target's Magic Resistance.
+        Trigger:
+            Command word.
+        Frequency:
+            24 use per day.
+        Level:
+            Base 4, +1' Touch, +2' Ring, +2 requisites = 25, +5 Frequency = 30
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Birch Wood (+1 Creo), Ink of Hermes (+3 Vim), Bronze (+3 Terram), Ring (+2 constant effect)
+
+    Sword of the Mundane
+        Type:
+            Lesser enchantment
+        Description:
+            A longsword with runes giving a dark red hue lining on both sides.
+        Effect:
+            PeVi, R: Touch, D: Mom, T: Ind
+            Reduce the Might Score of anyone hit by 20 if its Magic Resistance is penetrated.
+        Penetration:
+            24
+        Trigger:
+            Command word and swing.
+        Frequency:
+            6 uses per day.
+        Level:
+            Base 10, +1' Touch = 15, +12 Penetration, +3 Frequency = 30
+        Shape and Material Bonuses:
+            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo)
+        Vis cost:
+            3 Pe/Vi
+            Magnet (+4 Rego Corpus), Ring (+2 constant effect)
+
+    Ring of Dart Master
+        Type:
+            Lesser enchantment
+        Description:
+            Two magnet rings with a glass torus containing mercury in between held together with bronze binding.
+        Effect:
+            ReTe, R: Voice, D: Mom, T: Group
+            Up to ten identical objects the size of about an arrowhead or smaller fly towards a target with enough speed to cause damage. The objects will always hit their target but must penetrate Magic Resistance to actually cause damage. The damage caused by each object depends upon its shape and material, typically from +2 to +6.
+        Trigger:
+            Command word.
+        Frequency:
+            Unlimited
+        Level:
+            Base 3, +2' Voice, +3' Group = 20, +10 Frequency = 30
+        Shape and Material Bonuses:
+            Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
+        Vis cost:
+            3 Re/Te
+
+    Dino's Needle
+        Type:
+            Charged item
+        Description:
+            A 5-inch long, half-inch thick glass tube, with a thick steel needle held in its center with a bronze ring and a magnet ring. Mercury fills the inbetween of the two rings.
+        Effect:
+            ReTe, R: Per, D: Mom, T: Ind
+            Propel the item forward with enough force to do +60 damage (range increment of 20 paces). This applies the force instantly and the item then moves naturally. Magic Resistance offers no protection aginst this.
+        Trigger:
+            Breaking the glass.
+        Level:
+            Base 60 = 60
+        Shape and Material Bonuses:
+            Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
