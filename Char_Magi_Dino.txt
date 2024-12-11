@@ -255,28 +255,15 @@ Planned creations:
             ReVi, R: Touch, D: Sun, T: Ind
             Creates a magical channel on a target. The channel is a mystical extension of this item, so the item can cast spells with Touch range on the target, and a magus can cast spells on this item by targeting the channel. The channel only allows spells of level 50 or lower to be cast through. The channel is constant.
         Trigger:
-            Command word and environmental.
+            Command word or environmental.
         Frequency:
             2 uses per day.
         Level:
             Base 25, +1' Touch, +2' Sun = 40, +3 environmental trigger (sunrise and sunset), +3 effect use (only creator), +1 Frequency = 47
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-        Effect 2:
-            ReVi, R: Voice, D: Diam, T: Spec
-            Creates a magical channel between a target in range and the target of effect 1. A magus can cast spells targeting one end of the channel to affect the target on the other end. The channel only allows spells of level 10 or lower to be cast through.
-        Trigger:
-            Specific movement.
-        Frequency:
-            24 uses per day.
-        Penetration:
-            60
-        Level:
-            Base 1, +2' Voice, +1' Diam, +3' Special target = 25, +5 Frequency, +30 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Vis cost:
-            10 Vi + 10 Re/Vi
+            10 Vi + 5 Re/Vi
 
     Ring of Magic Circle
         Type:
