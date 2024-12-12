@@ -225,7 +225,7 @@ Planned creations:
         Description:
             A small glass orb containing a crimson liquid sitting on a magnet ring.
         Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Infernal Might equal to or less than or equal to 30 are unable to enter the circle or harm those within it.
         Penetration:
             40
@@ -242,7 +242,7 @@ Planned creations:
         Description:
             A small glass orb containing a green liquid sitting on a magnet ring.
         Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Faerie Might equal to or less than or equal to 30 are unable to enter the circle or harm those within it.
         Penetration:
             40
@@ -259,7 +259,7 @@ Planned creations:
         Description:
             A small glass orb containing a white liquid sitting on a magnet ring.
         Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Divine Might equal to or less than or equal to 30 are unable to enter the circle or harm those within it.
         Penetration:
             40
@@ -276,7 +276,7 @@ Planned creations:
         Description:
             A small glass orb containing a silvery liquid sitting on a magnet ring.
         Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Magic Might equal to or less than or equal to 30 are unable to enter the circle or harm those within it.
         Penetration:
             40
