@@ -246,25 +246,6 @@ Planned creations:
         Level:
             Base 4, +1' Touch, +5' distance = 30
 
-    Ring of Here and There
-        Type:
-            Invested item
-        Description:
-            Three slender rings, two wooden and one magnet, bounded together by gold, with magical runes inscribed around.
-        Effect 1:
-            ReVi, R: Touch, D: Sun, T: Ind
-            Creates a magical channel on a target. The channel is a mystical extension of this item, so the item can cast spells with Touch range on the target, and a magus can cast spells on this item by targeting the channel. The channel only allows spells of level 50 or lower to be cast through. The channel is constant.
-        Trigger:
-            Command word or environmental.
-        Frequency:
-            2 uses per day.
-        Level:
-            Base 25, +1' Touch, +2' Sun = 40, +3 environmental trigger (sunrise and sunset), +3 effect use (only creator), +1 Frequency = 47
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-        Vis cost:
-            10 Vi + 5 Re/Vi
-
     Ring of Magic Circle
         Type:
             Invested item
