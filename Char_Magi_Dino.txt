@@ -295,23 +295,6 @@ Planned creations:
         Vis cost:
             10 Vi + 8 Mu/Te
 
-    Ring of Arcane Debt
-        Type:
-            Lesser enchantment
-        Description:
-            A bronze ring with magical runes inscribed around.
-        Effect:
-            Cr(Mu)Vi(Te), R: Touch, D: Ring, T: Circle (Static)
-            When this spell is cast, for each target in the circle, create a temporary Arcane Connection to it in the form of a silver coin. These coins can only exist within the circle, cannot be fixed in a laboratory, and do not themselves give a bonus to Penetration. To create an Arcane Connection, this spell must first Penetrate the target's Magic Resistance.
-        Trigger:
-            Command word.
-        Frequency:
-            24 use per day.
-        Level:
-            Base 4, +1' Touch, +2' Ring, +2 requisites = 25, +5 Frequency = 30
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Birch Wood (+1 Creo), Ink of Hermes (+3 Vim), Bronze (+3 Terram), Ring (+2 constant effect)
-
     Sword of the Mundane
         Type:
             Lesser enchantment
