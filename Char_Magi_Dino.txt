@@ -352,16 +352,24 @@ Planned creations:
             InTe(Im), R: Touch, D: Conc, T: Ind
             This spell lets you see and hear the touched tiny solid object (e.g., a pebble, a coin) and its surroundings within a 100 paces for the duration. You can only sense what you can normally get if you're at the object's position. So if the object is in a small container, you can't see outside of it.
         Level:
-            Base 4, +1' Touch, +1' Concentration, +1' requisite, +1' additional sense, +2' size = 30
+            Base 4, +1' Touch, +1' Conc, +1' requisite, +1' additional sense, +2' size = 30
 
-    Indestructible Object
+    Ring of Indestructibility
         Type:
-            Spell
+            Lesser enchantment
+        Description:
+            An bronze ring with a small glass orb containing mercury held together by electrum.
         Effect:
             MuTe, R: Touch, D: Moon, T: Ind
             Magically strengthen an inanimate object so that it can't be damaged by mundane methods or environments.
+        Trigger:
+            Command word.
+        Frequency:
+            1 use per day
         Level:
             Base 4, +1' Touch, +3' Moon, +2' metal = 30
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
 
     Wizard's Delivery
         Type:
