@@ -371,15 +371,6 @@ Planned creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
 
-    Wizard's Delivery
-        Type:
-            Spell
-        Effect:
-            ReTe, R: Touch, D: Mom, T: Ind
-            Teleport a touched object to a place up to seven leagues or which you have an Arcane Connection.
-        Level:
-            Base 4, +1' Touch, +5' distance = 30
-
     Ring of Magic Circle
         Type:
             Invested item
