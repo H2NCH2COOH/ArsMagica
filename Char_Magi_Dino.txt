@@ -144,21 +144,6 @@ Creations:
             Pe 6 + Vi 4 + Int 5 + Magic Theory 10 + Craft Jewelry 7 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 = 66
 
 Planned creations:
-    Spell Ring of Wizard's Respite
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a dark liquid sitting on a magnet ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            The circle will sustain all spells of level (X+25)/2 or lower that are concentrated by Magi inside until they leave.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base X, +1' Touch, +2' Ring = X+15
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
     Spell Ring of Shortcut
         Type:
             Charged item
@@ -286,6 +271,79 @@ Planned creations:
             Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+
+    Spell Ring of Maintaining the Structure of Vim
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnet ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic Vim effects up to level 50 within the circle.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 40, +1' Touch, +2' Ring = 55
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+
+    Spell Ring of Arcane Tunnel
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnet ring.
+        Effect:
+            ReVi, R: Touch, D: Conc, T: Ind
+            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to Penetrate Magic Resistance normally.
+        Penetration:
+            50
+        Trigger:
+            Command word and touching the target with the glass orb while holding the ring.
+        Level:
+            Base 25, +1' Touch, +1' Conc = 35, +25 Penetration = 60
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+
+    Ring of The Arcane Gate
+        Type:
+            Invested item
+        Description:
+            Two magnets embedded in a ring made of two interlocking wooden rings with runes inscribed around.
+        Effect 1:
+            ReVi, R: Touch, D: Mom, T: Ind
+            Create a container that last but a second for a spell up to level 50 the wielder casts in conjunction with the activation of this effect. Requiring an Intelligence + Concentration roll against an Ease Factor of 9 for the wielder.
+        Trigger:
+            Specific movement.
+        Frequency:
+            Unlimited uses per day.
+        Level:
+            Base 25, +1' Touch = 30, +10 Frequency = 40
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+        Effect 2:
+            ReVi, R: Touch, D: Mom, T: Ind
+            Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 ends and allows a suppressed tunnel to open for a tiny moment so that a spell may pass through.
+        Trigger:
+            Linked to effect 1.
+        Frequency:
+            Unlimited uses per day.
+        Level:
+            Base 25, +1' Touch = 30, +3 linked trigger, +10 Frequency = 43
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+        Effect 3:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Suppress all Intangible Tunnel effects up to level 35 within the circle.
+        Trigger:
+            Command word.
+        Frequency:
+            1 use per day.
+        Level:
+            Base 25, +1' Touch, +2' Ring = 40
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Vis cost:
+            13 Vi + 13 Re/Vi
 
     Scrying Trinket
         Type:
