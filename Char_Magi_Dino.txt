@@ -470,7 +470,6 @@ Planned creations:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo)
         Vis cost:
             3 Pe/Vi
-            Magnet (+4 Rego Corpus), Ring (+2 constant effect)
 
     Ring of Dart Master
         Type:
