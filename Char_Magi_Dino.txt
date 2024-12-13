@@ -384,7 +384,24 @@ Planned creations:
             InTm, R: Touch, D: Sun, T: Ind
             You can see and hear as if you're at target's position. This effect uses a special Target in the form of a dynamic container extending outwards from the target for an inch, enough to affect all images and sounds that reach the target.
         Level:
-            Base 2, +1' Touch, +2' Sun, +4' Special target = 25
+            Base 2, +1' Touch, +2' Sun, +4' Special Target (based on Room) = 25
+
+    Ring of Inscription
+        Type:
+            Lesser enchantment
+        Description:
+            A bronze ring with a small glass orb containing mercury and a small magnet held together by silver.
+        Effect:
+            ReTe, R: Touch, D: Mon, T: Ind
+            Harmlessly inscribe any words or shapes onto an inanimate object.
+        Trigger:
+            Command word.
+        Frequency:
+            Unlimited uses per day
+        Level:
+            Base 2, +1' Touch, +2' metal, +1' intricacy = 10, +10 Frequency = 20
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
 
     Ring of Indestructibility
         Type:
