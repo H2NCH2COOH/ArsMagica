@@ -443,36 +443,6 @@ Planned creations:
         Vis cost:
             3 Re/Te
 
-    Ring of Magic Circle
-        Type:
-            Invested item
-        Description:
-            Two electrum rings with a glass torus containing mercury in between held together with bronze binding.
-        Effect 1:
-            MuTe, R: Per, D: Sun, T: Ind
-            Magically enlarge this ring's diameter to 10 paces while retaining its thickness.
-        Trigger:
-            Environmental.
-        Frequency:
-            2 uses per day.
-        Level:
-            Base 4, +2' Sun, +2' size, +2' metal = 30, +3 environmental trigger (sunrise and sunset), +1 Frequency = 34
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Terram), Ring (+2 constant effect)
-        Effect 2:
-            MuTe, R: Per, D: Sun, T: Ind
-            Magically strengthen this ring so that it can't be damaged by mundane methods or environments.
-        Trigger:
-            Environmental.
-        Frequency:
-            2 uses per day.
-        Level:
-            Base 4, +2' Sun, +2' size, +2' metal = 30, +3 environmental trigger (sunrise and sunset), +1 Frequency = 34
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Terram), Ring (+2 constant effect)
-        Vis cost:
-            10 Vi + 8 Mu/Te
-
     Sword of the Mundane
         Type:
             Lesser enchantment
