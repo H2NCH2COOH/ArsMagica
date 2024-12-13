@@ -402,6 +402,8 @@ Planned creations:
             Base 2, +1' Touch, +2' metal, +1' intricacy = 10, +10 Frequency = 20
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
+        Vis cost:
+            2 Re/Te
 
     Ring of Indestructibility
         Type:
@@ -419,6 +421,27 @@ Planned creations:
             Base 4, +1' Touch, +3' Moon, +2' metal = 30
         Shape and Material Bonuses:
             Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
+        Vis cost:
+            3 Mu/Te
+
+    Ring of Mystical Manipulation
+        Type:
+            Lesser enchantment
+        Description:
+            Two bronze rings with a magnet ring in between held together with silver binding.
+        Effect:
+            ReTe, R: Arc, D: Conc, T: Ind
+            Move an inanimate object the wielder has an Arcane Connection to at will. The heavier the object, the slower it moves. This effect can hold the object in the air at a great height.
+        Trigger:
+            Command word.
+        Frequency:
+            Unlimited uses per day
+        Level:
+            Base 3, +4' Arc, +1' Conc = 20, +10 Frequency = 30
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
+        Vis cost:
+            3 Re/Te
 
     Ring of Magic Circle
         Type:
@@ -429,7 +452,7 @@ Planned creations:
             MuTe, R: Per, D: Sun, T: Ind
             Magically enlarge this ring's diameter to 10 paces while retaining its thickness.
         Trigger:
-            Command word or environmental.
+            Environmental.
         Frequency:
             2 uses per day.
         Level:
