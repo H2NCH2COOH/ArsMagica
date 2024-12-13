@@ -272,6 +272,21 @@ Planned creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
+    Spell Ring of Lifting Wizard's Chores
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnet ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic magic effects that requires concentration up to level 25 within the circle.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 25, +1' Touch, +2' Ring = 40
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+
     Spell Ring of Maintaining the Structure of Vim
         Type:
             Charged item
@@ -294,7 +309,7 @@ Planned creations:
             A small glass orb containing a silvery liquid sitting on a magnet ring.
         Effect:
             ReVi, R: Touch, D: Conc, T: Ind
-            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to Penetrate Magic Resistance normally.
+            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
         Penetration:
             50
         Trigger:
@@ -303,6 +318,23 @@ Planned creations:
             Base 25, +1' Touch, +1' Conc = 35, +25 Penetration = 60
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+
+    Spell Ring of Arcane Connection
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a blue liquid sitting on a steel ring.
+        Effect:
+            CrVi, R: Touch, D: Conc, T: Ind
+            This item becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must first penetrate target's Magic Resistance but there's no active magic left on the target afterwards.
+        Penetration:
+            60
+        Trigger:
+            Command word.
+        Level:
+            Base 4, +3' Sight, +1' Conc = 20, +30 Penetration = 50
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim)
 
     Ring of The Arcane Gate
         Type:
