@@ -311,7 +311,7 @@ Planned creations:
             Two magnets embedded in a ring made of two interlocking wooden rings with runes inscribed around.
         Effect 1:
             ReVi, R: Touch, D: Mom, T: Ind
-            Create a magical container that last but a second for a spell up to level 50 the wielder casts in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, the spell is not cast and this effect is not activated. If it botches, the spell botches and this effect is not activated.
+            Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
         Trigger:
             Specific movement.
         Frequency:
