@@ -345,14 +345,14 @@ Planned creations:
         Vis cost:
             13 Vi + 13 Re/Vi
 
-    Scrying Trinket
+    Overseer's Touch
         Type:
             Spell
         Effect:
-            InTe(Im), R: Touch, D: Conc, T: Ind
-            This spell lets you see and hear the touched tiny solid object (e.g., a pebble, a coin) and its surroundings within a 100 paces for the duration. You can only sense what you can normally get if you're at the object's position. So if the object is in a small container, you can't see outside of it.
+            InTm, R: Touch, D: Sun, T: Ind
+            You can see and hear as if you're at target's position. This effect uses a special Target in the form of a dynamic container extending outwards from the target for an inch, enough to affect all images and sounds that reach the target.
         Level:
-            Base 4, +1' Touch, +1' Conc, +1' requisite, +1' additional sense, +2' size = 30
+            Base 2, +1' Touch, +2' Sun, +4' Special target = 25
 
     Ring of Indestructibility
         Type:
