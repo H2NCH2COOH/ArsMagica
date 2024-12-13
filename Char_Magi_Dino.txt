@@ -386,6 +386,25 @@ Planned creations:
         Level:
             Base 2, +1' Touch, +2' Sun, +4' Special Target (based on Room) = 25
 
+    Ring of Circle
+        Type:
+            Lesser enchantment
+        Description:
+            An bronze ring with a small glass orb containing mercury held together by electrum.
+        Effect:
+            MuTe, R: Touch, D: Conc, T: Part
+            A part of the ground in the shape of a ring that is 1-inch wide, 1-inch deep, and has a diameter up to 10 paces, is transformed into a form of smooth red stone that can't be damaged by mundane methods or environments.
+        Trigger:
+            Command word.
+        Frequency:
+            24 uses per day
+        Level:
+            Base 4, +1' Touch, +1' Conc, +1' Part, +1' stone = 20, +5 device maintain concentration, +5 Frequency = 30
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
+        Vis cost:
+            3 Mu/Te
+
     Ring of Inscription
         Type:
             Lesser enchantment
