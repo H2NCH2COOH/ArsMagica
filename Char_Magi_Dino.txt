@@ -151,7 +151,7 @@ Planned creations:
             A small glass orb containing a clear liquid sitting on a magnet ring.
         Effect:
             ReCo, R: Touch, D: Ring, T: Circle (Dynamic)
-            Instantly transport any people entering the circle to a fixed point within seven leagues.
+            Instantly transport any people entering the circle to a fixed point within seven leagues. An Arcane Connection to the destination is required for setting up the circle but not for its usage.
         Trigger:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
