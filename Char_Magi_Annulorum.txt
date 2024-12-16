@@ -1,4 +1,4 @@
-Dino of Verditius
+Annulorum of Verditius
 
 Size: 0
 Age: 30
@@ -73,7 +73,7 @@ Sigil:
 
 Equipments:
     Collar of Levitation
-    Spell Ring of Arcane Disconnection * 4
+    Spell Ring of Arcane Disconnection * 2
 
 Spells:
     Cloak of the Duck's Feathers (ReAq 5)
@@ -90,7 +90,7 @@ Spells:
     Opening the Intangible Tunnel (ReVi 20)
 
 Description:
-    Dino is a large fat man who wears as much decoration as possible and always look down apon everyone. Born as the youngest son of an Milano craftsman family, Dino's Gift made him misery and lonely. At the age of 15, Dino was picked up by an old Verditius magus in an old and reclusive covenant and became an apprentice. Although his parens did tought him well, being the only magus younger than a centry in the covenant, Dino still felt lonely and restricted. All the magus in the covenant had retreated into their own secrets and ignored Dino as much as possible, even his parens. After the gauntlet, Dino left the covenant and decide to find a new foundation to finally prove his worth to the world.
+    Annulorum is a large fat man who wears as much decoration as possible and always look down apon everyone. Born as the youngest son of an Milano craftsman family and christened as Dino, his's Gift made him misery and lonely. At the age of 15, Dino was picked up by an old Verditius magus in an old and reclusive covenant and became an apprentice. Although his parens did tought him well, being the only magus younger than a centry in the covenant, Dino still felt lonely and restricted. All the magus in the covenant had retreated into their own secrets and ignored Dino as much as possible, even his parens. After the gauntlet, given the new name Annulorum, he left the covenant and decide to find a new foundation to finally prove his worth to the world.
 
 Life:
     Year 1190:
@@ -101,7 +101,7 @@ Life:
         Apprenticeship (15 yrs)
     Year 1220:
         Spring: Study from raw Vis, 13exp in Vi; Setup basic lab.
-        Summer: Build 5 Spell Ring of Arcane Disconnection, 2 exp in Craft Jewelry, 2exp in Magic Theory.
+        Summer: Build 5 Spell Ring of Arcane Disconnection, 1 used, 2 sold, 2 exp in Craft Jewelry, 2exp in Magic Theory.
 
 Creations:
     Collar of Levitation
@@ -123,7 +123,7 @@ Creations:
         Lab total at creation:
             Re 6 + Co 1 + Int 5 + Magic Theory 10 + Craft Jewelry 7 + S.M.B. 6 + Philosophiae 3 + Inventive Genius 3 + Aura 3 = 44
         Notes:
-            Created and gifted as Dino's gauntlet.
+            Created and gifted as Annulorum's gauntlet.
 
     Spell Ring of Arcane Disconnection
         Type:
@@ -133,7 +133,7 @@ Creations:
         Effect:
             PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
             Reduce the duration of any Arcane Connections put inside the circle by six steps.
-            With side effect of etching Dino's sigil onto anything affected.
+            With side effect of etching Annulorum's sigil onto anything affected.
         Trigger:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
@@ -502,7 +502,7 @@ Planned creations:
         Vis cost:
             3 Re/Te
 
-    Dino's Needle
+    Annulorum's Needle
         Type:
             Charged item
         Description:
