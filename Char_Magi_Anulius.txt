@@ -166,7 +166,7 @@ Planned creations:
             A small glass orb containing a glowing liquid sitting on a silver ring.
         Effect:
             In(Cr)Vi(Im), R: Touch, D: Ring, T: Circle (Dynamic)
-            Any active magic in the circle will create a visible aura. The color indicates the Form and the shape indicates the Technique.
+            Any active magic except this effect itself in the circle will create a visible aura. The color indicates the Form and the shape indicates the Technique.
         Trigger:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
@@ -354,7 +354,7 @@ Planned creations:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Effect 2:
             ReVi, R: Touch, D: Mom, T: Ind
-            Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 ends and allows a suppressed tunnel to open for a tiny moment so that a spell may pass through.
+            Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 releases an effect and allows a suppressed tunnel to open for a tiny moment so that the released effect may pass through.
         Trigger:
             Linked to effect 1.
         Frequency:
