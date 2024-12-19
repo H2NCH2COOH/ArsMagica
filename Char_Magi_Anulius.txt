@@ -279,26 +279,11 @@ Planned creations:
             A small glass orb containing a silvery liquid sitting on a magnet ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Sustain all Hermetic magic effects that requires concentration up to level 25 within the circle.
+            Sustain all Hermetic magic effects that requires concentration up to level 35 within the circle.
         Trigger:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
-            Base 25, +1' Touch, +2' Ring = 40
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Maintaining the Structure of Vim
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a silvery liquid sitting on a magnet ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Sustain all Hermetic Vim effects up to level 50 within the circle.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 40, +1' Touch, +2' Ring = 55
+            Base 45, +1' Touch, +2' Ring = 60
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
