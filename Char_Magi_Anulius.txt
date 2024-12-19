@@ -75,6 +75,8 @@ Equipments:
     Collar of Levitation
     Spell Ring of Arcane Disconnection * 2
 
+Soak: +3
+
 Spells:
     Cloak of the Duck's Feathers (ReAq 5)
     Chamber of Spring Breezes (CrAu 5)
