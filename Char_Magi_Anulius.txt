@@ -462,27 +462,6 @@ Planned creations:
         Vis cost:
             3 Re/Te
 
-    Sword of the Mundane
-        Type:
-            Lesser enchantment
-        Description:
-            A longsword with runes giving a dark red hue lining on both sides.
-        Effect:
-            PeVi, R: Touch, D: Mom, T: Ind
-            Reduce the Might Score of anyone hit by 20 if its Magic Resistance is penetrated.
-        Penetration:
-            24
-        Trigger:
-            Command word and swing.
-        Frequency:
-            6 uses per day.
-        Level:
-            Base 10, +1' Touch = 15, +12 Penetration, +3 Frequency = 30
-        Shape and Material Bonuses:
-            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo)
-        Vis cost:
-            3 Pe/Vi
-
     Ring of Dart Master
         Type:
             Lesser enchantment
