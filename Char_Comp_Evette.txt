@@ -26,15 +26,15 @@ Personality Traits:
     Compassionate -1
 
 Virtues:
-    Personal Power, Personal Power, Personal Power, Venditor, Unaffected by The Gift, Hermetic Experience, Well-Traveled
+    Personal Power, Personal Power, Personal Power, Venditor, Unaffected by The Gift, Hermetic Experience
 
 Flaws:
-    Wanderlust, Craving for Travel, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power, Ability Block (Martial)
+    Wanderlust, Craving for Travel, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power
 
 Abilities:
     Occitan (Mercantile): 5
     Catalonian (Mercantile): 3
-    Latin (Hermetic): 4
+    Latin (Hermetic): 3
     Marseille Lore (Mercantile): 2
     Catalonia Lore (Mercantile): 2
     Artes Liberales (Arithmetic): 1
@@ -42,8 +42,7 @@ Abilities:
     Magic Lore (Creatures): 1
     Order of Hermes Lore (Trading with Mundanes): 2
     Awareness (Searching): 2
-    Bargain (Raw Vis): 5
-    Etiquette (Hermetic Magi): 1
+    Bargain (Downplaying value): 4
     Folk Ken (Hermetic Magi): 3
     Guile (Bargain): 3
     Profession Merchant (Hermetic Magi): 4
