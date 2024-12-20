@@ -34,15 +34,15 @@ Flaws:
 Abilities:
     Occitan (Mercantile): 5
     Catalonian (Mercantile): 3
-    Latin (Hermetic): 3
+    Latin (Hermetic): 4
     Marseille Lore (Mercantile): 2
-    Catalonia Lore (Mercantile): 2
+    Catalonia Lore (Mercantile): 1
     Artes Liberales (Arithmetic): 1
     Civil and Canon Law (Mercantile): 1
     Magic Lore (Creatures): 1
-    Order of Hermes Lore (Trading with Mundanes): 2
+    Order of Hermes Lore (Trading with Mundanes): 1
     Awareness (Searching): 2
-    Bargain (Downplaying value): 4
+    Bargain (Hermetic Magi): 4
     Folk Ken (Hermetic Magi): 3
     Guile (Bargain): 3
     Profession Merchant (Hermetic Magi): 4
