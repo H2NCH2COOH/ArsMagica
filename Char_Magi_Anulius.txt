@@ -323,7 +323,7 @@ Planned creations:
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim)
 
-    Ring of The Arcane Gate
+    Ring of the Arcane Gate
         Type:
             Invested item
         Description:
