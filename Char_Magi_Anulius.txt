@@ -364,14 +364,23 @@ Planned creations:
         Vis cost:
             13 Vi + 13 Re/Vi
 
-    Overseer's Touch
+    Overseer's Eye
         Type:
             Spell
         Effect:
-            InTm, R: Touch, D: Sun, T: Ind
-            You can see and hear as if you're at target's position. This effect uses a special Target in the form of a dynamic container extending outwards from the target for an inch, enough to affect all images and sounds that reach the target.
+            InTm, R: Touch, D: Sun, T: Vision
+            You can see as if you're at target's position.
         Level:
-            Base 2, +1' Touch, +2' Sun, +4' Special Target (based on Room) = 25
+            Base 1, +1' Touch, +2' Sun, +4' Vision = 20
+
+    Overseer's Ear
+        Type:
+            Spell
+        Effect:
+            InTm, R: Touch, D: Sun, T: Vision
+            You can hear as if you're at target's position.
+        Level:
+            Base 1, +1' Touch, +2' Sun, +3' Hearing = 15
 
     Ring of Circle
         Type:
