@@ -83,7 +83,6 @@ Spells:
     Chamber of Spring Breezes (CrAu 5)
     Lamp Without Flame (CrIg 10)
     Veil of Invisibility (PeIm 20)
-    Touch of Midas (CrTe 20)
     The Crystal Dart (MuTe 10)
     The Unseen Porter (ReTe 10)
     Scales of the Magical Weight (InVi 5)
@@ -91,6 +90,7 @@ Spells:
     Aegis of the Hearth (ReVi 20)
     Maintaining the Demanding Spell (ReVi 20)
     Opening the Intangible Tunnel (ReVi 20)
+    Suppressing the Wizard's Handiwork (ReVi 20)
 
 Description:
     Anulius is a large fat man who wears as much decoration as possible and always look down apon everyone. Born as the youngest son of an Milano craftsman family and christened as Dino, his's Gift made him misery and lonely. At the age of 15, Dino was picked up by an old Verditius magus in an old and reclusive covenant and became an apprentice. Although his parens did tought him well, being the only magus younger than a centry in the covenant, Dino still felt lonely and restricted. All the magus in the covenant had retreated into their own secrets and ignored Dino as much as possible, even his parens. After the gauntlet, given the new name Anulius, he left the covenant and decide to find a new foundation to finally prove his worth to the world.
