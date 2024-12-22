@@ -151,7 +151,7 @@ Creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a silvery liquid sitting on a magnet ring.
+            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             Sustain all Hermetic magic effects that requires concentration up to level 35 within the circle.
@@ -169,7 +169,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a clear liquid sitting on a magnet ring.
+            A small glass orb containing a clear liquid sitting on a magnetized iron ring.
         Effect:
             ReCo, R: Touch, D: Ring, T: Circle (Dynamic)
             Instantly transport any people entering the circle to a fixed point within seven leagues. An Arcane Connection to the destination is required for setting up the circle but not for its usage.
@@ -229,7 +229,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a crimson liquid sitting on a magnet ring.
+            A small glass orb containing a crimson liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Infernal Might less than or equal to 30 are unable to enter the circle or harm those within it.
@@ -246,7 +246,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a green liquid sitting on a magnet ring.
+            A small glass orb containing a green liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Faerie Might less than or equal to 30 are unable to enter the circle or harm those within it.
@@ -263,7 +263,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a white liquid sitting on a magnet ring.
+            A small glass orb containing a white liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Divine Might less than or equal to 30 are unable to enter the circle or harm those within it.
@@ -280,7 +280,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a silvery liquid sitting on a magnet ring.
+            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Magic Might less than or equal to 30 are unable to enter the circle or harm those within it.
@@ -297,7 +297,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a silvery liquid sitting on a magnet ring.
+            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Conc, T: Ind
             Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
@@ -331,7 +331,7 @@ Planned creations:
         Type:
             Invested item
         Description:
-            Two magnets embedded in a ring made of two interlocking wooden rings with runes inscribed around.
+            A tiny wooden miniture of a gate with runes inscribed on it sitting on a magnetized iron ring.
         Effect 1:
             ReVi, R: Touch, D: Mom, T: Ind
             Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
@@ -366,7 +366,7 @@ Planned creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
         Vis cost:
-            13 Vi + 13 Re/Vi
+            15 Vi + 13 Re/Vi
 
     Overseer's Eye
         Type:
@@ -447,7 +447,7 @@ Planned creations:
         Type:
             Lesser enchantment
         Description:
-            Two bronze rings with a magnet ring in between held together with silver binding.
+            Two bronze rings with a magnetized iron ring in between held together with silver binding.
         Effect:
             ReTe, R: Arc, D: Conc, T: Ind
             Move an inanimate object the wielder has an Arcane Connection to at will. The heavier the object, the slower it moves. This effect can hold the object in the air at a great height.
@@ -466,7 +466,7 @@ Planned creations:
         Type:
             Lesser enchantment
         Description:
-            Two magnet rings with a glass torus containing mercury in between held together with bronze binding.
+            Two magnetized iron rings with a glass torus containing mercury in between held together with bronze binding.
         Effect:
             ReTe, R: Voice, D: Mom, T: Group
             Up to ten identical objects the size of about an arrowhead or smaller fly towards a target with enough speed to cause damage. The objects will always hit their target but must penetrate Magic Resistance to actually cause damage. The damage caused by each object depends upon its shape and material, typically from +2 to +6.
@@ -485,7 +485,7 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A 5-inch long, half-inch thick glass tube, with a thick steel needle held in its center with a bronze ring and a magnet ring. Mercury fills the inbetween of the two rings.
+            A 5-inch long, half-inch thick glass tube, with a thick steel needle held in its center by a bronze ring and a magnetized iron ring. Mercury fills the inbetween of the two rings.
         Effect:
             ReTe, R: Per, D: Mom, T: Ind
             Propel this item forward with enough force to do +60 damage (range increment of 20 paces). This applies the force instantly and the item then moves naturally. Magic Resistance offers no protection aginst this.
