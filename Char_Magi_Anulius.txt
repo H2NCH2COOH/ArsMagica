@@ -47,8 +47,8 @@ Abilities:
     Finesse (Magical craft): 1
     Artes Liberales (Ritual magic): 1
     Philosophiae (Verditius magic): 2
-    Craft Jewelry (Ring): 5 (2)
-    Magic Theory (Enchanting items): 7 (2)
+    Craft Jewelry (Ring): 5 (4)
+    Magic Theory (Enchanting items): 7 (4)
     Parma Magica (Vim): 1
 
 Arts:
@@ -74,6 +74,7 @@ Sigil:
 Equipments:
     Collar of Levitation
     Spell Ring of Arcane Disconnection * 2
+    Spell Ring of Lifting Wizard's Chores * 2
 
 Soak: +3
 
@@ -104,6 +105,7 @@ Life:
     Year 1220:
         Spring: Study from raw Vis, 13exp in Vi; Setup basic lab.
         Summer: Build 5 Spell Ring of Arcane Disconnection, 1 used, 2 sold, 2 exp in Craft Jewelry, 2exp in Magic Theory.
+        Autumn: Build 2 Spell Ring of Lifting Wizard's Chores, 2 exp in Craft Jewelry, 2exp in Magic Theory.
 
 Creations:
     Collar of Levitation
@@ -143,7 +145,24 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 6 + Vi 4 + Int 5 + Magic Theory 10 + Craft Jewelry 7 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 = 66
+            Pe 6 + Vi 4 + Int 5 + Magic Theory 10 + Craft Jewelry 8 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 (side effect) = 67
+
+    Spell Ring of Lifting Wizard's Chores
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnet ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic magic effects that requires concentration up to level 35 within the circle.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 45, +1' Touch, +2' Ring = 60
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Lab total at creation:
+            Pe 6 + Vi 4 + Int 5 + Magic Theory 10 + Craft Jewelry 8 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 66
 
 Planned creations:
     Spell Ring of Shortcut
@@ -271,21 +290,6 @@ Planned creations:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
             Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Lifting Wizard's Chores
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a silvery liquid sitting on a magnet ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Sustain all Hermetic magic effects that requires concentration up to level 35 within the circle.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 45, +1' Touch, +2' Ring = 60
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
