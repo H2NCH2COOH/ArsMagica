@@ -386,24 +386,24 @@ Planned creations:
         Level:
             Base 1, +1' Touch, +2' Sun, +3' Hearing = 15
 
-    Ring of Circle
+    Ring of Disk
         Type:
             Lesser enchantment
         Description:
-            An bronze ring with a small glass orb containing mercury held together by electrum.
+            A small disk made of wood, bronze and granite floating on mercury in a small glass orb sitting on a silver ring.
         Effect:
-            MuTe, R: Touch, D: Conc, T: Part
-            A part of the ground in the shape of a ring that is 1-inch wide, 1-inch deep, and has a diameter up to 10 paces, is transformed into a form of smooth red stone that can't be damaged by mundane methods or environments.
+            Cr(Mu)Te, R: Touch, D: Conc, T: Ind
+            Create a half-inch thick, 10 paces across steel disk that is magically strengthened so that it can't be damaged by mundane methods or environments.
         Trigger:
             Command word.
         Frequency:
-            24 uses per day
+            1 use per day
         Level:
-            Base 4, +1' Touch, +1' Conc, +1' Part, +1' stone = 20, +5 device maintain concentration, +5 Frequency = 30
+            Base 5, +1' Touch, +1' Conc, +1' requisite = 20, +5 device maintain concentration = 25
         Shape and Material Bonuses:
-            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
+            Birch Wood (+1 Creo), Bronze (+3 Terram), Granite (+3 Terram), Mercury (+3 Terram), Silver (+1 Terram)
         Vis cost:
-            3 Mu/Te
+            3 Cr/Te
 
     Ring of Inscription
         Type:
