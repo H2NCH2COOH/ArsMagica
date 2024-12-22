@@ -484,7 +484,7 @@ Planned creations:
             A 5-inch long, half-inch thick glass tube, with a thick steel needle held in its center with a bronze ring and a magnet ring. Mercury fills the inbetween of the two rings.
         Effect:
             ReTe, R: Per, D: Mom, T: Ind
-            Propel the item forward with enough force to do +60 damage (range increment of 20 paces). This applies the force instantly and the item then moves naturally. Magic Resistance offers no protection aginst this.
+            Propel this item forward with enough force to do +60 damage (range increment of 20 paces). This applies the force instantly and the item then moves naturally. Magic Resistance offers no protection aginst this.
         Trigger:
             Breaking the glass.
         Level:
