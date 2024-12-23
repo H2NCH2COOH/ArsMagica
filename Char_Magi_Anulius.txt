@@ -242,57 +242,6 @@ Planned creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
-    Spell Ring of Ward Against Faeries
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a green liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            All creatures with Faerie Might less than or equal to 30 are unable to enter the circle or harm those within it.
-        Penetration:
-            40
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Ward Against Divines
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a white liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            All creatures with Divine Might less than or equal to 30 are unable to enter the circle or harm those within it.
-        Penetration:
-            40
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Ward Against Magical Creatures
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            All creatures with Magic Might less than or equal to 30 are unable to enter the circle or harm those within it.
-        Penetration:
-            40
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
     Spell Ring of Arcane Tunnel
         Type:
             Charged item
