@@ -265,14 +265,14 @@ Planned creations:
         Description:
             A small glass orb containing a blue liquid sitting on a steel ring.
         Effect:
-            CrVi, R: Touch, D: Conc, T: Ind
+            CrVi, R: Sight, D: Conc, T: Ind
             This item becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must first penetrate target's Magic Resistance but there's no active magic left on the target afterwards.
         Penetration:
-            60
+            80
         Trigger:
             Command word.
         Level:
-            Base 4, +3' Sight, +1' Conc = 20, +30 Penetration = 50
+            Base 4, +3' Sight, +1' Conc = 20, +40 Penetration = 60
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim)
 
