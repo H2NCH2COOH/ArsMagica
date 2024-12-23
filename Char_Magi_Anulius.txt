@@ -393,7 +393,7 @@ Planned creations:
             A small disk made of wood, bronze and granite floating on mercury in a small glass orb sitting on a silver ring.
         Effect:
             Cr(Mu)Te, R: Touch, D: Conc, T: Ind
-            Create a half-inch thick, 10 paces across steel disk that is magically strengthened so that it can't be damaged by mundane methods or environments.
+            Create a half-inch thick, 10 paces across steel disk that is magically strengthened so that it can't be damaged by mundane methods or environments. Anulius's sigil is cleary etched on the surface of the disk as five concentric circles spaced evenly from the outermost rim to the center.
         Trigger:
             Command word.
         Frequency:
