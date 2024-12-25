@@ -433,13 +433,13 @@ Planned creations:
         Type:
             Charged item
         Description:
-            A 5-inch long, half-inch thick glass tube, with a thick steel needle held in its center by a bronze ring and a magnetized iron ring. Mercury fills the inbetween of the two rings.
+            A 2-inch long magnetized steel needle with a small glass orb containing mercury held in an intricate cage made of silver and bronze on the butt.
         Effect:
             ReTe, R: Per, D: Mom, T: Ind
-            Propel this item forward with enough force to do +60 damage (range increment of 20 paces). This applies the force instantly and the item then moves naturally. Magic Resistance offers no protection aginst this.
+            Propel this item forward with enough force to do +60 damage. This applies the force instantly and the item then moves naturally, thus not affected by Magic Resistance. Not being designed to be used at range, when activated, this item automatically hits anything the point is touching, if not touching anything, it has a range increment of one pace.
         Trigger:
-            Breaking the glass.
+            When this item stops abruptly while moving very quickly.
         Level:
             Base 60 = 60
         Shape and Material Bonuses:
-            Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
+            Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
