@@ -1,0 +1,91 @@
+Garrulus of Bonisagus
+
+Size: 0
+Age: 28
+Apparent age: 28
+Decrepitude: 0
+Warping Score: 0
+Reputations: None
+Encumbrance: 0
+Confidence Score: 1
+Confidence Points: 3
+
+Characteristics:
+    Int: +3
+    Per: 0
+    Str: -1
+    Sta: +3
+    Prs: -2
+    Com: 0
+    Dex: -1
+    Qik: 0
+
+Personality Traits:
+    Driven: +6
+    Trustful +3
+    Talktive -3
+
+Virtues:
+    The Gift, Hermetic Magus
+    Minor Magical Focus (Dispel Magic), Inventive Genius
+    Affinity with Perdo, Puissant Perdo, Affinity with Vim, Puissant Vim
+    Affinity with Magic Theory, Puissant Magic Theory
+    Cautious Sorcerer, Cautious with Magic Theory, Skilled Parens
+
+Flaws:
+    Blatant Gift, Driven (Major), Covenant Upbringing, Gullible
+    Difficult Spontaneous Magic, Magical Cat Companion
+
+Abilities:
+    Vulgar Latin (Hermetic): 5
+    Latin (Hermetic): 4
+    Order of Hermes Lore (Bonisagus): 1
+    Artes Liberales (Ritual magic): 1
+    Philosophiae (Ritual magic): 1
+    Magic Theory (Vim): 7
+    Concentration (Spells): 1
+    Penetration (Vim): 1
+    Parma Magica (Vim): 1
+
+Arts:
+    Cr: 2
+    In: 2
+    Mu: 2
+    Pe: 15
+    Re: 2
+    An: 0
+    Aq: 0
+    Au: 0
+    Co: 0
+    He: 0
+    Ig: 0
+    Im: 0
+    Me: 0
+    Te: 0
+    Vi: 15
+
+Sigil:
+    Three stars with silvery light.
+
+Equipments:
+
+Soak: +3
+
+Spells:
+    Chamber of Spring Breezes (CrAu 5)
+    The Unseen Arm (ReTe 5)
+    See the Light of Magic (InVi 30)
+    Disenchant (PeVi 50)
+    Wind of Mundane Silence (PeVi 50)
+
+Description:
+    Garrulus is a man with a small frame and a reclusive atmosphere. Born in a small and old covenant in the Alps. Having a blatant Gift, he was raised up to become a magus without being tought anything unrelated. Everything went well until the third year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Left the only place he knew, Garrulus was taken to an alien place with unfamiliar people with only the companionship of the magical black cat Mimi. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place for himself soon afterwards.
+
+Life:
+    Year 1192:
+        Born
+    Year 1192-1204:
+        Early childhood (13 yrs)
+    Year 1205-1219:
+        Apprenticeship (15 yrs)
+    Year 1220:
