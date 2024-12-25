@@ -443,3 +443,20 @@ Planned creations:
             Base 60 = 60
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
+
+    Spell Orb of the Mundane
+        Type:
+            Charged item
+        Description:
+            A small glass orb with a red gold band containing a gray liquid.
+        Effect:
+            PeVi, R: Touch, D: Mom, T: Ind
+            Reduce target's Might Score by 15 if its Magic Resistance is penetrated.
+        Penetration:
+            100
+        Trigger:
+            Breaking the glass orb on the target.
+        Level:
+            Base 5, +1' Touch = 10, +50 Penetration = 60
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Frankincense (+3 Perdo Vim), Red gold (+1 Perdo)
