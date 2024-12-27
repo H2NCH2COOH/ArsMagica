@@ -345,7 +345,7 @@ Planned creations:
         Trigger:
             Command word.
         Frequency:
-            1 use per day
+            1 use per day.
         Level:
             Base 5, +1' Touch, +1' Conc, +1' requisite = 20, +5 device maintain concentration = 25
         Shape and Material Bonuses:
@@ -364,7 +364,7 @@ Planned creations:
         Trigger:
             Command word.
         Frequency:
-            Unlimited uses per day
+            Unlimited uses per day.
         Level:
             Base 2, +1' Touch, +2' metal, +1' intricacy = 10, +10 Frequency = 20
         Shape and Material Bonuses:
@@ -383,7 +383,7 @@ Planned creations:
         Trigger:
             Command word.
         Frequency:
-            1 use per day
+            1 use per day.
         Level:
             Base 4, +1' Touch, +3' Moon, +2' metal = 30
         Shape and Material Bonuses:
@@ -402,7 +402,7 @@ Planned creations:
         Trigger:
             Command word.
         Frequency:
-            Unlimited uses per day
+            Unlimited uses per day.
         Level:
             Base 3, +4' Arc, +1' Conc = 20, +10 Frequency = 30
         Shape and Material Bonuses:
