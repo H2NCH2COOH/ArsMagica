@@ -460,3 +460,22 @@ Planned creations:
             Base 5, +1' Touch = 10, +50 Penetration = 60
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Frankincense (+3 Perdo Vim), Red gold (+1 Perdo)
+
+    Ring of Visages
+        Type:
+            Lesser enchantment
+        Description:
+            An opal sitting on a silver ring.
+        Effect:
+            MuIm, R: Touch, D: Sun, T: Ind
+            Make the wielder look and sound like a different person of roughly the same size and shape. Reproducing specific deails (e.g., the look or sound of a specific person) requires a Perception + Finesse stress roll. The wielder can concentrate to change the effect anytime but a new roll might be required.
+        Trigger:
+            Command word or environmental.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 2, +1' Touch, +2' Sun, +2' change under command = 15, +1 Frequency, +3 environmental trigger (sunrise or sunset) = 19
+        Shape and Material Bonuses:
+            Opal (+2 images), Ring (+2 constant effect)
+        Vis cost:
+            2 Mu/Im
