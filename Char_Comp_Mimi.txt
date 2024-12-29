@@ -67,7 +67,7 @@ Description:
 Powers:
     0 points, Init -3, Vi, Greater
     Pe(MuRe)Vi, R: Sight, D: Mom, T: Ind
-    Drain up to 20 Might Score from target and restore a number of Might Points equal to one fifth (round up) of the amount drained.
+    Drain up to 10 Might Score from target and restore an equal number of Might Points.
     Level: Base 10, +3' Sight, +2' requisites = 35, +15 reduce cost = 50
 
     2 points, Init -3, Vi, Personal, Slow
