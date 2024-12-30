@@ -7,11 +7,11 @@ Decrepitude: 0
 Warping Score: 0
 Reputations: None
 Encumbrance: 0
-Confidence Score: 1
-Confidence Points: 3
+Confidence Score: 2
+Confidence Points: 5
 
 Characteristics:
-    Int: +3
+    Int: +5
     Per: 0
     Str: -1
     Sta: +3
@@ -26,11 +26,10 @@ Personality Traits:
     Talktive -3
 
 Virtues:
-    The Gift, Hermetic Magus
-    Minor Magical Focus (Dispel Magic), Inventive Genius
+    The Gift, Hermetic Magus, Great Int x2, Inventive Genius
     Affinity with Perdo, Puissant Perdo, Affinity with Vim, Puissant Vim
     Affinity with Magic Theory, Puissant Magic Theory
-    Cautious Sorcerer, Cautious with Magic Theory, Skilled Parens
+    Self-Confident, Skilled Parens
 
 Flaws:
     Blatant Gift, Driven (Major), Covenant Upbringing, Gullible
@@ -79,7 +78,7 @@ Spells:
     Wind of Mundane Silence (PeVi 50)
 
 Description:
-    Garrulus is a man with a small frame and a reclusive atmosphere. Born in a small and old covenant in the Alps. Having a blatant Gift, he was raised up to become a magus without being tought anything unrelated. Everything went well until the third year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Left the only place he knew, Garrulus was taken to an alien place with unfamiliar people with only the companionship of the magical black cat Mimi. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place for himself soon afterwards.
+    Garrulus is a man with a small frame and a reclusive atmosphere. Born in a small and old covenant in the Alps. Having a blatant Gift, he was raised up to become a magus without being tought anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Left the only place he knew, Garrulus was taken to an alien place with unfamiliar people with only the companionship of the magical black cat Mimi. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place for himself soon afterwards.
 
 Life:
     Year 1192:
