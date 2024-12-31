@@ -71,10 +71,11 @@ Equipments:
 Soak: +3
 
 Spells:
-    Chamber of Spring Breezes (CrAu 5)
+    Wizard's Leap (ReCo 15)
+    Wizard's Icy Grip (PeIg 30)
+    Veil of Invisibility (PeIm 20)
     The Unseen Arm (ReTe 5)
     See the Light of Magic (InVi 30)
-    Disenchant (PeVi 50)
     Wind of Mundane Silence (PeVi 50)
 
 Description:
