@@ -91,6 +91,21 @@ Life:
     Year 1220:
 
 Planned creations:
+    Wand of Nil
+        Type:
+            Charged item
+        Description:
+            An elder wood wand with a frankincense core, a red gold tip, and inscribed runes.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel any supernatural effect of the Magic Realm up to level (85 + a stress die (no botch))/2.
+        Trigger:
+            Command word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Wand (+4 destroy things at a distance)
+
     Naturalitas Ritual
         Type:
             Arcane Ability
