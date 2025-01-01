@@ -89,3 +89,12 @@ Life:
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:
+
+Planned creations:
+    Naturalitas Ritual
+        Type:
+            Arcane Ability
+        Description:
+            The capability to perform a special ritual that protects from Warping. A Naturalitas Ritual requires a season of work in a lab and raw vis. A magus can perform a Naturalitas Ritual on himself or another and the subject of the ritual must be present for the whole of that season. If appropriate, he may help the magus creating the ritual with his lab work.
+            When finished, a Naturalitas Ritual has a strength equal to the score of this ability, plus one for every five points or fraction of the Perdo Vim Lab Total. Each point of strength costs one pawn of Perdo or Vim vis, and can prevent the gaining of one Warping Point. Each Warping Point prevented reduces the strength of a Naturalitas Ritual by one. A Naturalitas Ritual ends if its strength is reduced to zero.
+            A Naturalitas Ritual itself doesn't cause Warping and can't be performed on anyone with a Might Score. A Naturalitas Ritual has an effective spell level equal to five times its current strength and can only be dispelled by Ritual spells specifically designed to do that. When a new Naturalitas Ritual is performed, any existing one on the subject is removed at the start of the season. Only an individual with The Gift and a score of at least one in this ability can perform a Naturalitas Ritual. This ability doesn't have specialization.
