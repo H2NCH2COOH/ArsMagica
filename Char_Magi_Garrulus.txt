@@ -42,7 +42,7 @@ Abilities:
     Artes Liberales (Ritual magic): 1
     Philosophiae (Ritual magic): 1
     Magic Theory (Vim): 7
-    Concentration (Spells): 1
+    Concentration (Casting spells): 1
     Penetration (Vim): 1
     Parma Magica (Vim): 1
 
