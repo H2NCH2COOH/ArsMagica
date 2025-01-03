@@ -106,6 +106,23 @@ Planned creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Wand (+4 destroy things at a distance)
 
+    Wand of Null
+        Type:
+            Charged item
+        Description:
+            An rowan wood wand with a frankincense core, a red gold tip, and inscribed runes.
+        Effect:
+            PeVi, R: Sight, D: Mom, T: Ind
+            Reduce target's Magic Might Score by 20.
+        Penetration:
+            100
+        Trigger:
+            Motion.
+        Level:
+            Base 10, +3' Sight = 25, +50 Penetration = 75
+        Shape and Material Bonuses:
+            Rowan Wood (+1 Vim), Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Wand (+4 destroy things at a distance)
+
     Naturalitas Ritual
         Type:
             Arcane Ability
