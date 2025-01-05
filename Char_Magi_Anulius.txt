@@ -416,14 +416,14 @@ Planned creations:
         Description:
             Two magnetized iron rings with a glass torus containing mercury in between held together with bronze binding.
         Effect:
-            ReTe, R: Voice, D: Mom, T: Group
-            Up to ten identical objects the size of about an arrowhead or smaller fly towards a target with enough speed to cause damage. The objects will always hit their target but must penetrate Magic Resistance to actually cause damage. The damage caused by each object depends upon its shape and material, typically from +2 to +6.
+            ReTe, R: Sight, D: Mom, T: Group
+            A handful of identical objects the size of about an arrowhead or smaller fly towards a target with enough speed to cause damage. The objects will always hit their target but must penetrate Magic Resistance to actually cause damage. The damage caused by each object depends upon its shape and material, typically from +2 to +6.
         Trigger:
             Command word.
         Frequency:
             Unlimited
         Level:
-            Base 3, +2' Voice, +3' Group = 20, +10 Frequency = 30
+            Base 3, +3' Sight, +2' Group = 20, +10 Frequency = 30
         Shape and Material Bonuses:
             Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
         Vis cost:
