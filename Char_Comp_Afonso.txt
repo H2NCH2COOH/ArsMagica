@@ -38,7 +38,7 @@ Abilities:
     Awareness (Keeping watch): 2
     Brawl (Grapple): 3
     Folk Ken (Townsfolk): 2
-    Leadership (Group combat): 3 (7)
+    Leadership (Group combat): 3 (13)
     Ride (Battle): 1
     Single Weapon (Heater shield): 5 (5)
     Survival (Camping): 2
@@ -69,4 +69,5 @@ Life:
         Later life (13 yrs)
     Year 1220:
         Spring: Adventure, 5exp in Leadership, 5exp in Single Weapon
-        Summer: Help setting up covenant, 4exp in Leadership
+        Summer: Practice, 4exp in Leadership
+        Autumn: Practice, 4exp in Leadership

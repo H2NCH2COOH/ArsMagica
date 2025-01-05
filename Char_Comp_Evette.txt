@@ -43,7 +43,7 @@ Abilities:
     Order of Hermes Lore (Trading with Mundanes): 1
     Awareness (Searching): 2
     Bargain (Hermetic Magi): 4
-    Folk Ken (Hermetic Magi): 3
+    Folk Ken (Hermetic Magi): 3 (4)
     Guile (Bargain): 3
     Profession Merchant (Hermetic Magi): 4
 
@@ -80,4 +80,5 @@ Life:
     Year 1210-1219:
         Later life (10 yrs)
     Year 1220:
-        Summer: Entered the service of Anulius as a Venditor.
+        Summer: Entered the service of Anulius as a Venditor, 2xp in Folk Ken.
+        Autumn: Traveling around, 2xp in Folk Ken
