@@ -38,11 +38,14 @@ Flaws:
 Abilities:
     Vulgar Latin (Hermetic): 5
     Latin (Hermetic): 4
+    Awareness (Searching): 2
+    Folk Ken (Magi): 3
+    Teaching (Hermetic megi): 1
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ritual magic): 1
     Philosophiae (Ritual magic): 1
     Magic Theory (Vim): 7
-    Concentration (Casting spells): 1
+    Concentration (Casting spells): 5
     Penetration (Vim): 1
     Parma Magica (Vim): 1
 
@@ -84,11 +87,14 @@ Description:
 Life:
     Year 1192:
         Born
-    Year 1192-1204:
-        Early childhood (13 yrs)
+    Year 1192-1206:
+        Early childhood (5 yrs)
+    Year 1207-1204:
+        Later life (8 yrs)
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:
+        ???
 
 Planned creations:
     Wand of Nil

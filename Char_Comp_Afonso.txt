@@ -34,12 +34,12 @@ Flaws:
 Abilities:
     Catalonian (Slang): 5
     Catalonia Lore (Politics): 2
-    Athletics (Running): 2
-    Awareness (Keeping watch): 2
-    Brawl (Grapple): 3
-    Folk Ken (Townsfolk): 2
-    Leadership (Group combat): 3 (13)
-    Ride (Battle): 1
+    Athletics (Running): 3
+    Awareness (Keeping watch): 3
+    Brawl (Grapple): 4
+    Folk Ken (Townsfolk): 4
+    Leadership (Group combat): 4 (13)
+    Ride (Battle): 4
     Single Weapon (Heater shield): 5 (5)
     Survival (Camping): 2
     Thrown Weapon (Javelin): 5
@@ -63,10 +63,10 @@ Description:
 Life:
     Year 1192:
         Born
-    Year 1192-1202:
-        Early childhood (15 yrs)
-    Year 1205-1219:
-        Later life (13 yrs)
+    Year 1192-1196:
+        Early childhood (5 yrs)
+    Year 1197-1219:
+        Later life (23 yrs)
     Year 1220:
         Spring: Adventure, 5exp in Leadership, 5exp in Single Weapon
         Summer: Practice, 4exp in Leadership

@@ -38,27 +38,28 @@ Flaws:
 
 Abilities:
     Vulgar Latin (Hermetic): 5
-    Awareness (Alertness): 1
+    Athletics (Running): 3
+    Awareness (Alertness): 3
     Latin (Hermetic): 4
     Order of Hermes Lore (Legislation): 1
     Code of Hermes (Tribunal procedures): 2
     Artes Liberales (Ceremonial casting): 1
     Philosophiae (Ceremonial casting): 1
     Magic Theory (Terram): 3
-    Concentration (Casting spells): 1
+    Concentration (Casting spells): 3
     Finesse (Aiming spells): 7
     Parma Magica (Vim): 1
 
 Arts:
-    Cr: 1
-    In: 0
-    Mu: 0
+    Cr: 0
+    In: 1
+    Mu: 1
     Pe: 0
     Re: 10
     An: 0
     Aq: 0
     Au: 0
-    Co: 3
+    Co: 0
     He: 0
     Ig: 0
     Im: 0
@@ -90,8 +91,10 @@ Description:
 Life:
     Year 1195:
         Born
-    Year 1195-1204:
-        Early childhood (10 yrs)
+    Year 1195-1199:
+        Early childhood (5 yrs)
+    Year 1200-1204:
+        Later life (5 yrs)
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:

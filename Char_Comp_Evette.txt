@@ -33,18 +33,20 @@ Flaws:
 
 Abilities:
     Occitan (Mercantile): 5
-    Catalonian (Mercantile): 3
+    Catalonian (Mercantile): 4
     Latin (Hermetic): 4
-    Marseille Lore (Mercantile): 2
     Catalonia Lore (Mercantile): 1
+    Lombardy Lore (Mercantile): 1
+    Provence Lore (Mercantile): 1
+    Tuscany Lore (Mercantile): 1
     Artes Liberales (Arithmetic): 1
     Civil and Canon Law (Mercantile): 1
     Magic Lore (Creatures): 1
     Order of Hermes Lore (Trading with Mundanes): 1
-    Awareness (Searching): 2
+    Awareness (Searching): 3
     Bargain (Hermetic Magi): 4
-    Folk Ken (Hermetic Magi): 3 (4)
-    Guile (Bargain): 3
+    Folk Ken (Hermetic Magi): 4 (4)
+    Guile (Bargain): 4
     Profession Merchant (Hermetic Magi): 4
 
 Soak: -2
@@ -75,10 +77,10 @@ Personal Power:
 Life:
     Year 1200:
         Born
-    Year 1200-1209:
-        Early childhood (10 yrs)
-    Year 1210-1219:
-        Later life (10 yrs)
+    Year 1200-1204:
+        Early childhood (5 yrs)
+    Year 1205-1219:
+        Later life (15 yrs)
     Year 1220:
         Summer: Entered the service of Anulius as a Venditor, 2xp in Folk Ken.
         Autumn: Traveling around, 2xp in Folk Ken

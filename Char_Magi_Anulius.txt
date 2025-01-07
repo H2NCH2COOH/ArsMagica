@@ -28,9 +28,9 @@ Personality Traits:
 Virtues:
     The Gift, Hermetic Magus, Verditius Magic
     Great Int, Great Int, Inventive Genius,
-    Masterpiece, Arcane Lore, Craft Guild Training, Skilled Parens
-    Affinity with Ability (Magic Theory), Puissant Ability (Magic Theory)
-    Puissant Ability (Craft Jewelry)
+    Masterpiece, Craft Guild Training, Skilled Parens
+    Affinity with Magic Theory, Puissant Magic Theory
+    Affinity with Craft Jewelry, Puissant Craft Jewelry
 
 Flaws:
     Weak Spontaneous Magic, Difficult Spontaneous Magic
@@ -40,22 +40,24 @@ Abilities:
     Lombard (Milanese): 5
     Guile (Fast talk): 2
     Awareness (Searching): 3
+    Bargain (Bulk buy): 1
     Latin (Hermetic): 4
     Code of Hermes (Tribunal procedures): 1
-    House Verditius Lore (Mystery Initiation): 1
+    House Verditius Lore (Mystery initiation): 2
+    Concentration (Casting spells): 4 (2)
     Finesse (Magical craft): 1
     Artes Liberales (Ritual magic): 1
-    Philosophiae (Verditius magic): 4
-    Craft Jewelry (Ring): 4
-    Magic Theory (Enchanting items): 9 (3)
+    Philosophiae (Verditius magic): 3
+    Craft Jewelry (Ring): 7 (4)
+    Magic Theory (Enchanting items): 7 (4)
     Parma Magica (Vim): 1
 
 Arts:
-    Cr: 5
-    In: 5
-    Mu: 5
-    Pe: 5
-    Re: 5
+    Cr: 7
+    In: 7
+    Mu: 7
+    Pe: 7
+    Re: 7
     An: 0
     Aq: 0
     Au: 0
@@ -97,14 +99,16 @@ Description:
 Life:
     Year 1190:
         Born
-    Year 1190-1204:
-        Early childhood (15 yrs)
+    Year 1190-1194:
+        Early childhood (5 yrs)
+    Year 1195-1204:
+        Later life (10 yrs)
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:
         Spring: Study from raw Vis, 13exp in Vi; Setup basic lab.
-        Summer: Build 5 Spell Ring of Arcane Disconnection, 1 used, 2 sold, 3exp in Magic Theory.
-        Autumn: Build 2 Spell Ring of Lifting Wizard's Chores, 2exp in Vi
+        Summer: Build 6 Spell Ring of Arcane Disconnection, 1 used, 3 sold, 2exp in Craft Jewelry, 2exp in Magic Theory.
+        Autumn: Build 2 Spell Ring of Lifting Wizard's Chores, 2exp in Craft Jewelry, 2exp in Magic Theory.
 
 Creations:
     Collar of Levitation
@@ -124,7 +128,7 @@ Creations:
         Shape and Material Bonuses:
             Collar (+6 control wearer)
         Lab total at creation:
-            Re 5 + Co 0 + Int 5 + Magic Theory 12 + Craft Jewelry 7 + S.M.B. 6 + Philosophiae 5 + Inventive Genius 3 + Aura 3 = 46
+            Re 7 + Co 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 48
         Notes:
             Created and gifted as Anulius's gauntlet.
 
@@ -144,7 +148,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 5 + Vi 4 + Int 5 + Magic Theory 12 + Craft Jewelry 7 + S.M.B. 9 + Philosophiae 3 + Inventive Genius 6 + Aura 8 + experimentation 10 (side effect) = 69
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 (side effect) = 71
 
     Spell Ring of Lifting Wizard's Chores
         Type:
@@ -161,7 +165,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
         Lab total at creation:
-            Re 5 + Vi 4 + Int 5 + Magic Theory 12 + Craft Jewelry 7 + S.M.B. 9 + Philosophiae 3 + Inventive Genius 6 + Aura 8 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 68
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 70
 
 Planned creations:
     Spell Ring of Shortcut
