@@ -1,0 +1,106 @@
+Charles of Jerbiton
+
+Size: 0
+Age: 25
+Apparent age: 25
+Decrepitude: 0
+Warping Score: 0
+Reputations: Academic 1
+Encumbrance: 0
+Confidence Score: 0
+Confidence Points: 0
+
+Characteristics:
+    Int: +3
+    Per: +2
+    Str:  0
+    Sta: +2
+    Prs: +1
+    Com: +3
+    Dex: -3
+    Qik: -3
+
+Personality Traits:
+    Academic +3
+    Brave -3
+    Helpful +3
+
+Virtues:
+    The Gift, Hermetic Magus, Baccalaureus
+    Puissant Artes Liberales, Puissant Philosophiae
+    Educated, Privileged Upbringing, Skilled Parens
+    Gentle Gift, Mystical Choreography, Cyclic Magic (day)
+
+Flaws:
+    Low Self-Esteem, Noncombatant, No Sense of Direction
+    Rigid Magic, Poor Formulaic Magic, Weak Enchanter
+
+Abilities:
+    Old French (Burgundy): 5
+    Athletics (Carrying): 2
+    Awareness (Searching): 2
+    Folk Ken (Clergy): 2
+    Latin (Philosophiae): 5
+    Artes Liberales (Ceremonial magic): 5
+    Philosophiae (Ceremonial magic): 5
+    Theology: Christian (History): 1
+    Concentration (Casting spells): 2
+    Finesse (Magical craft): 3
+    Magic Theory (Rego): 3
+    Parma Magica (Vim): 1
+
+Arts:
+    Cr: 5
+    In: 5
+    Mu: 5
+    Pe: 5
+    Re: 5
+    An: 4
+    Aq: 4
+    Au: 4
+    Co: 4
+    He: 4
+    Ig: 4
+    Im: 4
+    Me: 4
+    Te: 4
+    Vi: 9
+
+Sigil:
+    A circle within a triangle within a circle within a triangle.
+
+Equipments:
+    A pair of medium ceremonial props for Re and Vi.
+
+Soak: 1
+
+Spells:
+    Doublet of Impenetrable Silk (MuAn 15)
+    Cloak of the Duck's Feathers (ReAq 5)
+    Chamber of Summer Breezes (CrAu(Ig) 10)
+    Bind Wound (CrCo 10)
+    Rise of the Feathery Body (ReCo 10)
+    Coat of Prometheus (CrIg 5)
+    Mien of Helios (CrIg 15)
+    The Welcome Addition of False Sunlight (CrIg 15)
+    Wizard's Sidestep (ReIm 10)
+    By His Works (CrMe 5)
+    Saving the Apprentice's Time (PeTe 10)
+    The Unseen Porter (ReTe 10)
+    The Instant Ring Fort (ReTe 15)
+    Bitter Taste of Betrayal (InVi 15)
+
+Description:
+    Charles was born as the second son of a minor noble in Burgundy and received very good education in a monastery. His Gentle Gift was discovered by a visiting Jerbiton magus named Luc and was taken as an apprentice. Luc, being a Jerbiton who focused more on academic world than magical, was a doctor in the newly formed University of Paris, and took Charles in as both his apprentice and master student. Studying both Hermetic and liberal arts, Charles worked towards his gauntlet and master's degree at the same time. After 18 years of study, Charles took the oath and became a magus. Luc, satisfied with Charles's academic capabilities, ordered him to travel and experience the wide world before finishing his master's degree. Thus, begins Charles's adventures.
+
+Life:
+    Year 1193:
+        Born
+    Year 1193-1197:
+        Early childhood (5 yrs)
+    Year 1200-1201:
+        Later life (2 yrs)
+    Year 1202-1219:
+        Apprenticeship & frist three years of master's degree (18 yrs)
+    Year 1220:
+        ???
