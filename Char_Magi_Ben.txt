@@ -1,4 +1,4 @@
-Emile of Ex Miscellanea
+Ben of Ex Miscellanea
 
 Size: 0
 Age: 20
@@ -38,7 +38,7 @@ Flaws:
     Hedge Wizard, Secretive, Missing Eye, Jinxed
 
 Abilities:
-    Old French (Huntsman): 5
+    Middle English (Huntsman): 5
     Athletics (Running): 2
     Stealth (Hiding): 2
     Survival (Woods): 2
@@ -85,7 +85,7 @@ Spells:
     Sword Ward (ReTe 20)
 
 Description:
-    Emile is a tall, thin, one-eyed man that avoids any human interaction as much as possible. He claims to be of a very small hedge lineage that was absorbed into House Ex Miscellanea not long ago, but provides no details. In truth, Emile was taken by a hedge witch at the age of five as a hunter's son. The witch, despite being a member of House Ex Miscellanea, lived alone in the Forest of Ardennes and made no contact with rest of the Order. Emile took a seemingly normal training for a Hermetic magus, except his master was deep into diabolic studies, and concealed its illicit nature. On his final step as an apprentice, Emile participated in a ritual which took one of his eyes as sacrifice. As the ritual went on, fear took over Emile and he panicked and ran. Occupied by the awry ritual, the witch had no time to stop Emile as he left the forest. Not knowing what happened to his master and never took the Hermetic oath, Emile heard of a covenant in the Alps that welcomes anyone, and went hoping to find his final refuge.
+    Ben is a tall, thin, one-eyed man that avoids any human interaction as much as possible. He claims to be of a very small hedge lineage that was absorbed into House Ex Miscellanea not long ago, but provides no details. In truth, Ben was taken by a hedge witch at the age of five as a hunter's son. The witch, despite being a member of House Ex Miscellanea, lived alone in the Wychwood and made no contact with rest of the Order. Ben took a seemingly normal training for a Hermetic magus, except his master was deep into diabolic studies, and concealed its illicit nature. On his final step as an apprentice, Ben participated in a ritual which took one of his eyes as sacrifice. As the ritual went on, fear took over Ben and he panicked and ran. Occupied by the awry ritual, the witch had no time to stop Ben as he left the forest. Not knowing what happened to his master and never took the Hermetic oath, Ben ran to content europe hoping to find his final refuge.
 
 Life:
     Year 1200:
