@@ -1,11 +1,11 @@
 Charles of Jerbiton
 
 Size: 0
-Age: 25
-Apparent age: 25
+Age: 30
+Apparent age: 30
 Decrepitude: 0
 Warping Score: 0
-Reputations: Academic 1
+Reputations: Academic 2
 Encumbrance: 0
 Confidence Score: 0
 Confidence Points: 0
@@ -26,7 +26,7 @@ Personality Traits:
     Helpful +3
 
 Virtues:
-    The Gift, Hermetic Magus, Baccalaureus
+    The Gift, Hermetic Magus, Magister in Artibus
     Puissant Artes Liberales, Puissant Philosophiae
     Educated, Privileged Upbringing, Skilled Parens
     Gentle Gift, Mystical Choreography, Cyclic Magic (day)
@@ -37,14 +37,20 @@ Flaws:
 
 Abilities:
     Old French (Burgundy): 5
-    Athletics (Carrying): 2
     Awareness (Searching): 2
+    Etiquette (Nobility): 2
     Folk Ken (Clergy): 2
     Latin (Philosophiae): 5
     Artes Liberales (Ceremonial magic): 5
     Philosophiae (Ceremonial magic): 5
-    Theology: Christian (History): 1
-    Concentration (Casting spells): 2
+    Civil and Canon Law (Papal laws): 3
+    Code of Hermes (Dealing with mundanes): 1
+    Order of Hermes Lore (Jerbiton): 1
+    Church Lore (History): 2
+    France Lore (Paris): 1
+    Theology: Christian (History): 3
+    Teaching (Philosophiae): 4
+    Concentration (Casting spells): 3
     Finesse (Magical craft): 3
     Magic Theory (Rego): 3
     Parma Magica (Vim): 1
@@ -72,7 +78,7 @@ Sigil:
 Equipments:
     A pair of medium ceremonial props for Re and Vi.
 
-Soak: 1
+Soak: 2
 
 Spells:
     Doublet of Impenetrable Silk (MuAn 15)
@@ -91,16 +97,14 @@ Spells:
     Bitter Taste of Betrayal (InVi 15)
 
 Description:
-    Charles was born as the second son of a minor noble in Burgundy and received very good education in a monastery. His Gentle Gift was discovered by a visiting Jerbiton magus named Luc and was taken as an apprentice. Luc, being a Jerbiton who focused more on academic world than magical, was a doctor in the newly formed University of Paris, and took Charles in as both his apprentice and master student. Studying both Hermetic and liberal arts, Charles worked towards his gauntlet and master's degree at the same time. After 18 years of study, Charles took the oath and became a magus. Luc, satisfied with Charles's academic capabilities, ordered him to travel and experience the wide world before finishing his master's degree. Thus, begins Charles's adventures.
+    Charles was born as the second son of a minor noble in Burgundy and received very good education in a monastery. His Gentle Gift was discovered by a visiting Jerbiton magus named Luc and was taken as an apprentice. Luc, being a Jerbiton who focused more on academic world than magical, was a doctor in the newly formed University of Paris, and took Charles in as both his apprentice and master student. Studying both Hermetic and liberal arts, Charles worked towards his gauntlet and master's degree at the same time. After 23 years of study, Charles became both a magus and a master.
 
 Life:
-    Year 1193:
+    Year 1195:
         Born
-    Year 1193-1197:
+    Year 1195-1199:
         Early childhood (5 yrs)
     Year 1200-1201:
         Later life (2 yrs)
-    Year 1202-1219:
-        Apprenticeship & frist three years of master's degree (18 yrs)
-    Year 1220:
-        ???
+    Year 1202-1224:
+        Apprenticeship & master's degree (23 yrs)
