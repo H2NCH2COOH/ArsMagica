@@ -1,60 +1,58 @@
 Garrulus of Bonisagus
 
 Size: 0
-Age: 28
-Apparent age: 28
+Age: 25
+Apparent age: 25
 Decrepitude: 0
 Warping Score: 0
 Reputations: None
 Encumbrance: 0
-Confidence Score: 2
-Confidence Points: 5
+Confidence Score: 1
+Confidence Points: 3
 
 Characteristics:
     Int: +5
-    Per: 0
+    Per:  0
     Str: -1
     Sta: +3
-    Prs: -2
-    Com: 0
+    Prs: -3
+    Com: +2
     Dex: -1
-    Qik: 0
+    Qik:  0
 
 Personality Traits:
     Driven: +6
-    Trustful +3
-    Talktive -3
+    Talktive +3
+    Academic +3
 
 Virtues:
     The Gift, Hermetic Magus, Great Int x2, Inventive Genius
     Affinity with Perdo, Puissant Perdo, Affinity with Vim, Puissant Vim
     Affinity with Magic Theory, Puissant Magic Theory
-    Self-Confident, Skilled Parens
+    Puissant Concentration, Skilled Parens
 
 Flaws:
-    Blatant Gift, Driven (Major), Covenant Upbringing, Gullible
-    Difficult Spontaneous Magic, Magical Cat Companion
+    Driven (Major), Covenant Upbringing, Gullible, Nocturnal
+    Blatant Gift, Ceremonial Spontaneous Magic
 
 Abilities:
     Vulgar Latin (Hermetic): 5
     Latin (Hermetic): 4
     Awareness (Searching): 2
     Folk Ken (Magi): 3
-    Teaching (Hermetic megi): 1
     Order of Hermes Lore (Bonisagus): 1
-    Artes Liberales (Ritual magic): 1
-    Philosophiae (Ritual magic): 1
+    Artes Liberales (Ceremonial magic): 1
+    Philosophiae (Ceremonial magic): 1
     Magic Theory (Vim): 7
-    Concentration (Casting spells): 5
-    Penetration (Vim): 1
+    Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
 Arts:
-    Cr: 2
-    In: 2
-    Mu: 2
+    Cr: 1
+    In: 0
+    Mu: 0
     Pe: 15
-    Re: 2
+    Re: 1
     An: 0
     Aq: 0
     Au: 0
@@ -74,65 +72,33 @@ Equipments:
 Soak: +3
 
 Spells:
-    Wizard's Leap (ReCo 15)
-    Wizard's Icy Grip (PeIg 30)
-    Veil of Invisibility (PeIm 20)
+    Cloak of the Duck's Feathers (ReAq 5)
+    Wizard's Sidestep (ReIm 10)
+    Saving the Apprentice's Time (PeTe 10)
     The Unseen Arm (ReTe 5)
     See the Light of Magic (InVi 30)
+    Demon's Eternal Oblivion (PeVi 20)
+    Sap the Griffon's Strength (PeVi 20)
     Wind of Mundane Silence (PeVi 50)
 
 Description:
-    Garrulus is a man with a small frame and a reclusive atmosphere. Born in a small and old covenant in the Alps. Having a blatant Gift, he was raised up to become a magus without being tought anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Left the only place he knew, Garrulus was taken to an alien place with unfamiliar people with only the companionship of the magical black cat Mimi. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place for himself soon afterwards.
+    Garrulus is a man with a small frame and a big heart who can't be stopped from talking about magic research. Born in a small and old covenant in the Alps with a blatant Gift, he was raised up to become a magus without being taught anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Leaving the only place he knew, Garrulus was taken to an alien place with unfamiliar people. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place where he is the master.
 
 Life:
-    Year 1192:
+    Year 1195:
         Born
-    Year 1192-1206:
+    Year 1195-1199:
         Early childhood (5 yrs)
-    Year 1207-1204:
-        Later life (8 yrs)
+    Year 1200-1204:
+        Later life (5 yrs)
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:
         ???
 
 Planned creations:
-    Wand of Nil
-        Type:
-            Charged item
-        Description:
-            An elder wood wand with a frankincense core, a red gold tip, and inscribed runes.
-        Effect:
-            PeVi, R: Voice, D: Mom, T: Ind
-            Dispel any supernatural effect of the Magic Realm up to level (85 + a stress die (no botch))/2.
-        Trigger:
-            Command word.
-        Level:
-            Base 65, +2' Voice = 75
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Wand (+4 destroy things at a distance)
-
-    Wand of Null
-        Type:
-            Charged item
-        Description:
-            An rowan wood wand with a frankincense core, a red gold tip, and inscribed runes.
-        Effect:
-            PeVi, R: Sight, D: Mom, T: Ind
-            Reduce target's Magic Might Score by 20.
-        Penetration:
-            100
-        Trigger:
-            Motion.
-        Level:
-            Base 10, +3' Sight = 25, +50 Penetration = 75
-        Shape and Material Bonuses:
-            Rowan Wood (+1 Vim), Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Wand (+4 destroy things at a distance)
-
-    Naturalitas Ritual
+    Parma Depravatio
         Type:
             Arcane Ability
-        Description:
-            The capability to perform a special ritual that protects from Warping. A Naturalitas Ritual requires a season of work in a lab and raw vis. A magus can perform a Naturalitas Ritual on himself or another and the subject of the ritual must be present for the whole of that season. If appropriate, he may help the magus creating the ritual with his lab work.
-            When finished, a Naturalitas Ritual has a strength equal to the score of this ability, plus one for every five points or fraction of the Perdo Vim Lab Total. Each point of strength costs one pawn of Perdo or Vim vis, and can prevent the gaining of one Warping Point. Each Warping Point prevented reduces the strength of a Naturalitas Ritual by one. A Naturalitas Ritual ends if its strength is reduced to zero.
-            A Naturalitas Ritual itself doesn't cause Warping and can't be performed on anyone with a Might Score. A Naturalitas Ritual has an effective spell level equal to five times its current strength and can only be dispelled by Ritual spells specifically designed to do that. When a new Naturalitas Ritual is performed, any existing one on the subject is removed at the start of the season. Only an individual with The Gift and a score of at least one in this ability can perform a Naturalitas Ritual. This ability doesn't have specialization.
+        Descroiption:
+            Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Depravatio, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. One can only protect oneself with Parma Depravatio. Parma Depravatio itself doesn't cause Warping and can't protect anyone with a Might Score. An active Parma Depravatio has an effective spell level equal to five times its score. Only an individual with The Gift can learn Parma Depravatio. Specialties: protection from one supernatural realm.
