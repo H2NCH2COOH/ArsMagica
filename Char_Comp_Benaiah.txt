@@ -1,0 +1,107 @@
+Benaiah ex Venatores
+
+Size: 0
+Age: 30
+Apparent age: 30
+Decrepitude: 0
+Warping Score: 1
+Reputations: None
+Encumbrance: 0
+Confidence Score: 1
+Confidence Points: 3
+
+Characteristics:
+    Int:  0
+    Per: +3
+    Str: +1
+    Sta: +3
+    Prs: -3
+    Com: -2
+    Dex: -2
+    Qik: +3
+
+Personality Traits:
+    Pious +6
+    Humble +3
+    Talkative -3
+
+Virtues:
+    Greater Power, Lesser Power x3
+    Affinity with Finesse, Arcane Lore, Educated, Warrior
+
+Flaws:
+    Pious (Major), Monastic Vows, Church Upbringing, Regular
+    Evil Eye, Warped by Magic (Offensive to Magical Creatures)
+
+Abilities:
+    Old French (Christianity): 5
+    Aragonese (Christianity): 4
+    Latin (Christianity): 4
+    Athletics (Running): 2
+    Awareness (Alertness): 2
+    Chirurgy (Binding Wounds): 1
+    Folk Ken (Clerics): 2
+    Medicine (Physician): 1
+    Survival (Mountains): 1
+    Artes Liberales (Grammar): 1
+    Civil and Canon Law (Papal laws): 1
+    Theology: Christian (Heresy): 1
+    France Lore (Churches): 1
+    Pyrenees Lore (Churches): 1
+    Iberia Lore (Churches): 1
+    Church Lore (Hierarchy): 1
+    Order of Hermes Lore (Hierarchy): 1
+    Dominion Lore (Angels): 2
+    Faerie Lore (Creatures): 2
+    Infernel Lore (Demons): 2
+    Magic Lore (Creatures): 2
+    Finesse (Te): 12
+    Great Weapon (Staff): 4
+
+Combat:
+    Staff: Init +5, Attack +6, Defense +11, Damage +3
+
+Soak: +3
+
+Equipments:
+    Staff
+    Linen robe
+    A bag of large iron nails.
+
+Description:
+    Benaiah is a short man with a stern face. He always wears a rough linen robe, holds a walking staff, and carries a plain bundle. A large iron nail hangs on his neck with a rope. Although looking like a traveling monk, Benaiah is actually one of the Venetores who sworn an oath to fight all supernatural enemies of Christians. Through rigorous training and magical rituals, Benaiah was created by a group of monks and holy magi whom for centuries produced pious warriors with magical power to fight supernatural creatures without the direct blessing of the Divine. The Venetores travel the world, providing help to anyone troubled by supernatural creatures. They excel at physical confrontation and often work alongside with the Church or Hermetic Magi.
+
+Powers:
+    Resilience of the Hunters
+        1 Fatigue, Init -7, Lesser, Divine
+        Purity, Transcendence, R: Per, D: Sabbath, T: Ind
+        You gain +6 Soak.
+        Level: Base 15, +2' Sabbath = 25
+
+    Armor of the Hunters
+        2 Fatigue, Init -11, Lesser, Magic
+        Cr(Pe)Te(An), R: Touch, D: Special, T: Ind
+        Create a full suit of magical chain mail, including straps and padding, that fits you perfectly and already properly donned. The suit has only a Load of 2 while providing protection as a standard suit of chain mail. The suit disappears when doffed.
+        Level: Base 5, +1' Touch, +2' Special (based on Conc), +2' very elaborate shape, +1' requisite = 35
+
+    Light of the Hunters
+        1 Fatigue, Init -3, Lesser, Magic
+        CrIg, R: Per, D: Diam, T: Ind
+        You shine with the brightness of the sun. Anyone within 10 paces who looks at your direction is temporarily blinded, unless he makes a Stamina stress roll against an Ease Factor of 9. If the roll botches, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. Anyone within 50 paces suffer a –3 penalty to all rolls that involves looking at your direction. Anything with Magic Resistance not penetrated is not illuminated, and can be easily identified.
+        Level: Base 5, +1' Diam, +1' intensity = 15
+
+    Act of the Hunters
+        1 Fatigue, Init -2, Greater, Magic
+        ReTe, R: Touch, D: Mom, T: Group
+        Launch a group of large iron nails. Each nail has enough force to do +35 damage, requires aiming, has a range increment of 20 paces, and is not protected by Magic Resistance. Each nail is aimed independently, but for each discrete subject the nails aim, there is a -1 penalty for all the Aiming Rolls (even if all nails are aimed at a single subject, there is still a -1 penalty).
+        Level: Base 35, +1' Touch, +2' Group = 50
+
+Life:
+    Year 1190
+        Born
+    Year 1190-1194
+        Early childhood (5 yrs)
+    Year 1195-1219:
+        Later life (25 yrs)
+    Year 1220:
+        ???
