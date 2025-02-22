@@ -87,7 +87,7 @@ Powers:
     Light of the Hunters
         1 Fatigue, Init -3, Lesser, Magic
         CrIg, R: Per, D: Diam, T: Ind
-        You shine with the brightness of the sun. Anyone within 10 paces who looks at your direction is temporarily blinded, unless he makes a Stamina stress roll against an Ease Factor of 9. If the roll botches, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. Anyone within 50 paces suffer a –3 penalty to all rolls that involves looking at your direction. Anything with Magic Resistance not penetrated is not illuminated, and can be easily identified.
+        You shine with the brightness of the sun. Anyone within 10 paces who looks at your direction is temporarily blinded, unless he makes a Stamina stress roll against an Ease Factor of 9. If the roll botches, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. Anyone within 50 paces suffer a -3 penalty to all rolls that involves looking at your direction. Anything with Magic Resistance not penetrated is not illuminated, and can be easily identified.
         Level: Base 5, +1' Diam, +1' intensity = 15
 
     Act of the Hunters
