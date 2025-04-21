@@ -43,7 +43,7 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 7 (34)
+    Magic Theory (Vim): 8 (11)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
@@ -96,6 +96,7 @@ Life:
     Year 1220:
         Winter: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
+        Autumn: Study Tractatus on Magic Theory, 17exp on Magic Theory.
 
 Planned creations:
     Parma Depravatio
