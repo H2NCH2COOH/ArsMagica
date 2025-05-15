@@ -1,8 +1,8 @@
 Garrulus of Bonisagus
 
 Size: 0
-Age: 25
-Apparent age: 25
+Age: 26
+Apparent age: 26
 Decrepitude: 0
 Warping Score: 0
 Reputations: None
@@ -43,7 +43,7 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 8 (11)
+    Magic Theory (Vim): 8 (28)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
@@ -97,6 +97,8 @@ Life:
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Summer: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Autumn: Study Tractatus on Magic Theory, 17exp on Magic Theory.
+    Year 1221:
+        Winter: Study Tractatus on Magic Theory, 17exp on Magic Theory.
 
 Planned creations:
     Parma Depravatio
