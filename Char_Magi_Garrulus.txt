@@ -22,7 +22,7 @@ Characteristics:
 
 Personality Traits:
     Driven: +6
-    Talktive +3
+    Talkative +3
     Academic +3
 
 Virtues:
@@ -67,7 +67,7 @@ Arts:
 Sigil:
     Three stars with silvery light.
 
-Equipments:
+Equipment:
 
 Soak: +3
 
@@ -77,9 +77,8 @@ Spells:
     Saving the Apprentice's Time (PeTe 10)
     The Unseen Arm (ReTe 5)
     See the Light of Magic (InVi 30)
-    Demon's Eternal Oblivion (PeVi 20)
-    Sap the Griffon's Strength (PeVi 20)
-    Wind of Mundane Silence (PeVi 50)
+    Unravelling the Fabric of Vim (PeVi 50)
+    Wind of Mundane Silence (PeVi 40)
 
 Description:
     Garrulus is a man with a small frame and a big heart who can't be stopped from talking about magic research. Born in a small and old covenant in the Alps with a blatant Gift, he was raised up to become a magus without being taught anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Leaving the only place he knew, Garrulus was taken to an alien place with unfamiliar people. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place where he is the master.
@@ -102,8 +101,25 @@ Life:
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
 
 Planned creations:
+    Wand of (Form) Null
+        Type:
+            Charged Item
+        Description:
+            An short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a Hermetic (From) effect with level up to 75 + a stress die (no botch).
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total Base:
+            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 = 81
+
     Parma Depravatio
         Type:
             Arcane Ability
-        Descroiption:
-            Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Depravatio, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. One can only protect oneself with Parma Depravatio. Parma Depravatio itself doesn't cause Warping and can't protect anyone with a Might Score. An active Parma Depravatio has an effective spell level equal to five times its score. Only an individual with The Gift can learn Parma Depravatio. Specialties: protection from one supernatural realm.
+        Description:
+            Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Depravatio, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained as the result of a prolonged exposure, they are not reduced unless Parma Depravatio is active during more than half of the time span. One can only protect oneself with Parma Depravatio. Parma Depravatio itself doesn't cause Warping and can't protect anyone with a Might Score. An active Parma Depravatio has an effective spell level equal to five times its score. Only an individual with The Gift can learn Parma Depravatio. Specialties: protection from one supernatural realm.
