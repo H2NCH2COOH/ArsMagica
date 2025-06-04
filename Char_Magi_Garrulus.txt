@@ -105,7 +105,7 @@ Planned creations:
         Type:
             Charged Item
         Description:
-            An short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
         Effect:
             PeVi, R: Voice, D: Mom, T: Ind
             Dispel a Hermetic (From) effect with level up to 75 + a stress die (no botch).
