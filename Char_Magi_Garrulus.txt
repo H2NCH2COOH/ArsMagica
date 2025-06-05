@@ -51,7 +51,7 @@ Arts:
     Cr: 1
     In: 0
     Mu: 0
-    Pe: 15 (4)
+    Pe: 15 (6)
     Re: 1
     An: 0
     Aq: 0
@@ -62,7 +62,7 @@ Arts:
     Im: 0
     Me: 0
     Te: 0
-    Vi: 15 (4)
+    Vi: 15 (6)
 
 Sigil:
     Three stars with silvery light.
@@ -101,6 +101,8 @@ Life:
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Summer: Arcane Discovery, Experiment on Wand of Aquam Null, +7 experiment bonus, Disaster, Complete failure, Special or story event, Side effect, Discovery (+1), 1 Warping Point, 2exp on Pe, 2exp on Vi.
         Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, Modified effect, Discovery x2, 15 Breakthrough Points, 7 Warping Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
+    Year 1222:
+        Winter: Arcane Discovery, Experiment on Wand of Auram Null, +8 experiment bonus, Modified effect (restricted), Discovery (-1), 2exp on Pe, 2exp on Vi.
 
 Creations:
 
