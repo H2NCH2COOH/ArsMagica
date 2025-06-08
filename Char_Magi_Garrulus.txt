@@ -4,11 +4,11 @@ Size: 0
 Age: 26
 Apparent age: 26
 Decrepitude: 0
-Warping Score: 1 (3)
+Warping Score: 1 (8)
 Reputations: None
 Encumbrance: 0
 Confidence Score: 1
-Confidence Points: 3
+Confidence Points: 2
 
 Characteristics:
     Int: +5
@@ -51,7 +51,7 @@ Arts:
     Cr: 1
     In: 0
     Mu: 0
-    Pe: 15 (6)
+    Pe: 15 (8)
     Re: 1
     An: 0
     Aq: 0
@@ -62,7 +62,7 @@ Arts:
     Im: 0
     Me: 0
     Te: 0
-    Vi: 15 (6)
+    Vi: 15 (8)
 
 Sigil:
     Three stars with silvery light.
@@ -103,6 +103,7 @@ Life:
         Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, Modified effect, Discovery x2, 15 Breakthrough Points, 7 Warping Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
     Year 1222:
         Winter: Arcane Discovery, Experiment on Wand of Auram Null, +8 experiment bonus, Modified effect (restricted), Discovery (-1), 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Stabilization on Wand of Auram Null, No extraordinary effects, 15 Breakthrough Points, 5 Warping Point, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
 
 Creations:
 
