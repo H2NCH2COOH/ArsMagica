@@ -1,8 +1,8 @@
 Garrulus ex Bonisagus
 
 Size: 0
-Age: 26
-Apparent age: 26
+Age: 27
+Apparent age: 27
 Decrepitude: 0
 Warping Score: 1 (8)
 Reputations: None
