@@ -51,7 +51,7 @@ Arts:
     Cr: 1
     In: 0
     Mu: 0
-    Pe: 15 (8)
+    Pe: 15 (10)
     Re: 1
     An: 0
     Aq: 0
@@ -62,12 +62,13 @@ Arts:
     Im: 0
     Me: 0
     Te: 0
-    Vi: 15 (8)
+    Vi: 15 (10)
 
 Sigil:
     Three stars with silvery light.
 
 Equipment:
+    Wand of Ignum Null (2 uses left)
 
 Soak: +3
 
@@ -104,8 +105,25 @@ Life:
     Year 1222:
         Winter: Arcane Discovery, Experiment on Wand of Auram Null, +8 experiment bonus, Modified effect (restricted), Discovery (-1), 2exp on Pe, 2exp on Vi.
         Spring: Arcane Discovery, Stabilization on Wand of Auram Null, No extraordinary effects, 15 Breakthrough Points, 5 Warping Point, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Experiment on Wand of Ignum Null, +4 experiment bonus, Discovery (+0), 2exp on Pe, 2exp on Vi.
 
 Creations:
+    Wand of Ignum Null
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a Hermetic Ignum effect with level up to 75 + a stress die (no botch).
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total Base:
+            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + 4 experiment bonus = 85
 
 Planned creations:
     Wand of (Form) Null
