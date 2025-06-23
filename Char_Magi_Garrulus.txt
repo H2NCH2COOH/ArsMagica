@@ -68,6 +68,7 @@ Sigil:
     Three stars with silvery light.
 
 Equipment:
+    Flawed Wand of Auram Null (3 uses left)
     Wand of Ignum Null (2 uses left)
 
 Soak: +3
@@ -108,6 +109,24 @@ Life:
         Summer: Arcane Discovery, Experiment on Wand of Ignum Null, +4 experiment bonus, Discovery (+0), 2exp on Pe, 2exp on Vi.
 
 Creations:
+    Flawed Wand of Auram Null
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a Hermetic Auram effect with level up to 75 + a stress die (no botch).
+            Can't be used during nights.
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total Base:
+            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 8 = 89
+
     Wand of Ignum Null
         Type:
             Charged Item
@@ -123,7 +142,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
         Lab Total Base:
-            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + 4 experiment bonus = 85
+            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 4 = 85
 
 Planned creations:
     Wand of (Form) Null
