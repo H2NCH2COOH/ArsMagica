@@ -4,7 +4,7 @@ Size: 0
 Age: 27
 Apparent age: 27
 Decrepitude: 0
-Warping Score: 1 (8)
+Warping Score: 2 (8)
 Reputations: None
 Encumbrance: 0
 Confidence Score: 1
@@ -51,7 +51,7 @@ Arts:
     Cr: 1
     In: 0
     Mu: 0
-    Pe: 15 (10)
+    Pe: 15 (12)
     Re: 1
     An: 0
     Aq: 0
@@ -62,14 +62,12 @@ Arts:
     Im: 0
     Me: 0
     Te: 0
-    Vi: 15 (10)
+    Vi: 15 (12)
 
 Sigil:
     Three stars with silvery light.
 
 Equipment:
-    Flawed Wand of Auram Null (3 uses left)
-    Wand of Ignum Null (2 uses left)
 
 Soak: +3
 
@@ -102,11 +100,13 @@ Life:
         Winter: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Summer: Arcane Discovery, Experiment on Wand of Aquam Null, +7 experiment bonus, Disaster, Complete failure, Special or story event, Side effect, Discovery (+1), 1 Warping Point, 2exp on Pe, 2exp on Vi.
-        Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, Modified effect, Discovery x2, 15 Breakthrough Points, 7 Warping Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
     Year 1222:
         Winter: Arcane Discovery, Experiment on Wand of Auram Null, +8 experiment bonus, Modified effect (restricted), Discovery (-1), 2exp on Pe, 2exp on Vi.
-        Spring: Arcane Discovery, Stabilization on Wand of Auram Null, No extraordinary effects, 15 Breakthrough Points, 5 Warping Point, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Stabilization on Wand of Auram Null, 15 Breakthrough Points, 5 Warping Points, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
         Summer: Arcane Discovery, Experiment on Wand of Ignum Null, +4 experiment bonus, Discovery (+0), 2exp on Pe, 2exp on Vi.
+        Autumn: Wand of Auram Null and Wand of Ignum Null sale for 2 Vim Vis.
+                Arcane Discovery, Stabilization on Wand of Ignum Null, 15 Breakthrough Points, 10 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
 
 Creations:
     Flawed Wand of Auram Null
