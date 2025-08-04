@@ -1,8 +1,8 @@
 Garrulus ex Bonisagus
 
 Size: 0
-Age: 27
-Apparent age: 27
+Age: 28
+Apparent age: 28
 Decrepitude: 0
 Warping Score: 2 (8)
 Reputations: None
@@ -43,13 +43,13 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 9
+    Magic Theory (Vim): 9 (2)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
 Arts:
     Cr: 1
-    In: 0
+    In: 1
     Mu: 0
     Pe: 15 (12)
     Re: 1
@@ -107,6 +107,8 @@ Life:
         Summer: Arcane Discovery, Experiment on Wand of Ignum Null, +4 experiment bonus, Discovery (+0), 2exp on Pe, 2exp on Vi.
         Autumn: Wand of Auram Null and Wand of Ignum Null sale for 2 Vim Vis.
                 Arcane Discovery, Stabilization on Wand of Ignum Null, 15 Breakthrough Points, 10 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+    Year 1223:
+        Winter: Investigate Goblet of Vis, Lab Total 50 -> Effect level 44, Lab Total 44 -> nothing, 1exp on In, 2exp on Magic Theory.
 
 Creations:
     Flawed Wand of Auram Null
