@@ -3,8 +3,6 @@ Mimi the Cat
 Magic Might: 15 (Animal)
 Season: Summer
 Size: -3
-Decrepitude: 0
-Warping Score: 0
 Reputations: None
 Encumbrance: 0
 Confidence Score: 1
@@ -91,6 +89,3 @@ Powers:
     Level: Base 5, +1' Conc, +1' changing image = 15
 
 Life:
-    Year 1205:
-        Befriended Garrulus.
-    Year 1220:
