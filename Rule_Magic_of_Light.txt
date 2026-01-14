@@ -1,0 +1,117 @@
+Magic of Light
+
+Properties:
+    Light is part of Ignem.
+    Light doesn't have mass or size.
+    Light can't stop.
+    Light can change direction naturally (e.g. reflection and refraction).
+    Light doesn't interact with itself.
+    Almost everything will absorb light to some degree.
+    When light is absorbed, it becomes heat.
+
+Intensity:
+    -3: Moonlight.
+    -2: Candlelight.
+    -1: Torchlight.
+     0: Sunlight on a cloudy day.
+    +1: Sunlight on a clear day.
+    +2: Light that can ignite very flammable things in a flash (+0 damage).
+    +3: Light that can ignite flammable things in a flash (+5 damage).
+    +4: Light that can melt flash in a flash (+10 damage).
+    +5: Light that can melt metal and stone in a flash (+15 damage).
+
+    For ordinary light source (e.g., torchlight, normal CrIg spell), the light produced is going all directions, and the further away from the source, the lower the intensity becomes.
+    For an original intensity of 1, the intensity is 0 at 3-pace away, -1 at 9-pace away, -2 at 27-pace away, and so on.
+    The intensity of sunlight, moonlight, or starlight doesn't drop over distance until acted upon (e.g. reflected off a mirror).
+    If light is focused into a beam using magic, its intensity will not drop over distance.
+    The light from an ordinary light source can be focused into a 15-pace across beam with the same intensity.
+    If magic is used to change the cross-sectional area of a beam of light, reducing the area by a factor of 10 will increase the intensity by 1.
+
+Size of Light as Target:
+    A magical light source has no size.
+    A base individual can produce light of intensity 0, and increasing magnitude increases intensity.
+    A base Group target can contain 10 light sources of intensity 0, or 100 light sources of intensity -1, or 1 light source of intensity +1, etc.
+    Each additional magnitude increases the intensity by 1 or total number by a factor of 10.
+
+    Light itself doesn't have mass or ordinary size.
+    A base individual is a 150-pace across uniform beam of light of intensity 0 in a flash.
+    It is impossible to target light itself with Individual or Part target, it can only be targeted by Group or container targets.
+    A base Group target can target a 150-pace across beam of intensity 1, or a 15-pace across beam of intensity 3, or a 1500-pace across beam of intensity -1, etc.
+    Each additional magnitude increases the intensity by 1 or the cross-sectional area by a factor of 10.
+    Container targets can target light of any intensity without additional magnitudes.
+
+Aiming with Light:
+    Aiming with Light is determined by the cross-sectional area at target's place.
+    A 150-pace across beam provides a bonus of +36 to aiming rolls.
+    Reducing the area by a factor of 10 will reduce the bonus by 6, and vice versa.
+        +36: 150-pace across beam
+        +24: 15-pace across beam
+        +12: 5-foot across beam
+         +6: 18-inch across beam
+          0: 6-inch across beam
+         -6: 2-inch across beam
+
+    A beam of light when aimed, has a range increment of 100 paces.
+
+Creating Light:
+    CrIg spells can't create light itself, only light source.
+
+Light and Other Elements
+    Muto spells can change light into other elements and vise versa.
+    When changing, 1000 base individuals of light is equivalent to 1 base individual in other elements.
+
+    Since light doesn't have Individual target, a spell can't change light into a single object of another element, the result is always a very large number of object.
+    For example, a MuIg(Te) spell that changes light into stone will produce a uniform sheet of very very fine dust.
+    MuIg spells can't affect a magical light source, only on the created light itself.
+
+    When changing another element into light, the entirety is changed at once into a flash of light going all directions, and the intensity will drop as normal over distance.
+    A base individual of an element will change into light of intensity 4, and this changes by 1 for each factor of 10 the target's size changes.
+    An object of 10-times the size of the base individual will change into light of intensity 5, an object of 1/100 the size of the base individual will change into light of intensity 2, etc.
+    If the light produced is absorbed, it changes into heat and will not revert back to the original element when the spell ends.
+
+    If a spell changed light into another element, when that spell ends, the element reverts back into a flash of light going all directions.
+
+Damage Caused by Light
+    Since light causes damage when absorbed, any supernatural protection/immunity that doesn't stop light provides no protection against damage caused by light.
+    Mundane protections like armor can provide normal protection against damage caused by light.
+    Reflective material can provide extra protection against light.
+    Very intense light can melt or even vaporize things, but a single flash can only go about an inch deep.
+
+Extra Guidelines:
+    CrIg 10: Create a light source of intensity +2. Each additional magnitude increases the intensity by 1.
+    MuIg 5: Change light itself into a natural example of another element, with an appropriate requisite.
+    ReIg 3: Change the direction of light.
+    ReIg 10: Make light move in any path.
+    ReIg 10: Ward against light up to intensity +2 (Touch, Ring, Circle). Each additional magnitude increases the intensity by 1.
+
+New Spells:
+    Mirror of Hermes
+        ReIg 15, R: Touch, D: Ring, T: Circle (Dynamic)
+        Cast on the inner circle of a ring, this spell will focus all light entering the ring to a specific point selected at the time of casting.
+        Instead of focusing to a point, this spell can also focus light to a direction, which would create a beam.
+        (Base 3, +1' Touch, +2' Ring, +1' fine control)
+
+    Scorching Ray
+        Cr(Re)Ig 15, R: Touch, D: Mom, T: Ind
+        Create a 6-inch across beam of light of intensity +4 (+10 damage).
+        This spell must be aimed with a range increment of 100 paces.
+        Even though the spell is aimed, magic resistance still provides protection from the beam since it's magically created.
+        (Base 5, +1' Touch, +1' requisite)
+
+    Heaven's Light Upon You
+        ReIg 30, R: Sight, D: Conc, T: Group
+        Focus all sunlight above the caster into a 15-pace across beam of intensity +3 (+5 damage each round).
+        During the spell, sky above the caster up to 500-pace across becomes dark as night.
+        Magic resistance provides no protection from this beam since it's normal sunlight.
+        The caster can move the beam by concentrating.
+        The beam must be aimed with a bonus of +24 and a range increment of 100 paces.
+        (Base 3, +3' Sight, +1' Conc, +2' Group, +1' control)
+
+    Let There Be Light
+        ReIg 20, R: Sight, D: Mom, T: Group
+        Direct all light within range into a 6-inch across beam.
+        Only light from a single source can be targeted with a single casting (e.g., direct sunlight, light from a single torch, a beam of light reflecting between two mirrors).
+        The intensity of the beam is determined by the total light directed, up to +7 (+25 damage, vaporize anything instantly).
+        This spell must be aimed with a range increment of 100 paces.
+        Magic resistance provides no protection if the light directed is not magical.
+        (Base 3, +3' Sight, +2' Group)
