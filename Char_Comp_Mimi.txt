@@ -1,6 +1,6 @@
 Mimi the Cat
 
-Magic Might: 15 (Animal)
+Magic Might: 15 (Vim)
 Season: Summer
 Size: -3
 Reputations: None
@@ -10,46 +10,49 @@ Confidence Points: 3
 
 Characteristics:
     Int: 0
-    Per: +3
-    Str: -9
+    Per: +2
+    Str: -7
     Sta: 0
-    Prs: +1
-    Com: -3
+    Prs: -2
+    Com: -4
     Dex: +3
-    Qik: +9
+    Qik: +6
 
 Personality Traits:
     Curious +3
     Shy +3
-    Talktive -3
+    Talkative -3
 
 Virtues:
     Magic Animal, Magical Covenfolk
-    See in Darkness, Falls Like a Cat, Lightning Reflexes, Greater Benediction (Nine lives)
+    Perfect Balance, Puissant Awareness, Sharp Ears
+    Greater Benediction (Nine lives), Variable Power
     Affinity with Penetration, Puissant Penetration
-    Arcane Lore, Unaffected by The Gift
+    Puissant Stealth
 
 Flaws:
-    Nocturnal, Overconfident (Major)
-    Hunger for Vim Magic, Slow Power x3
+    Nocturnal, Overconfident (Major), Carefree
+    Hunger for Vim Magic, Slow Power, Evil Eye
 
 Qualities:
-    Magical Meditation, Greater Power, Personal Power x5, Improved Might x2
+    Greater Power, Personal Power x4
+    Improved Abilities, Improved Might x2, Vis Mastery
 
 Inferiorities:
-    Acclimation Prone
+    Reduced Attack (Teeth) x2, Reduced Defense (Teeth)
 
 Abilities:
+    Athletics (Jumping): 2
     Awareness (Alertness): 3
-    Brawl (Claws): 3
+    Brawl (Claws): 2
     Concentration (Powers): 3
-    Legerdemain (filching): 3
+    Legerdemain (Filching): 3
     Stealth (Hide): 3
     Penetration (Vim): 12
 
 Combat:
-    Claws: Init +8, Attack +8, Defense +15, Damage -7
-    Teeth: Init +9, Attack +8, Defense +12, Damage -8
+    Claws: Init +5, Attack +8, Defense +12, Damage -5
+    Teeth: Init +6, Attack +4, Defense +7, Damage -6
 
 Soak: 0
 
@@ -63,29 +66,31 @@ Description:
     Mimi is a magical black cat with bright yellow eyes who likes to hide, sleep, and eating spirits.
 
 Powers:
-    0 points, Init -3, Vi, Greater
+    0 points, Init -3, Vi, Greater, Variable
     Pe(MuRe)Vi, R: Sight, D: Mom, T: Ind
-    Drain up to 10 Magic Might Score from target and restore an equal number of Might Points.
+    Drain a number of points of Magic Might Score from target up to the user's Might Score - 5.
+    For each 5 points drained, gain one Confidence Point.
     Level: Base 10, +3' Sight, +2' requisites = 35, +15 reduce cost = 50
 
-    2 points, Init -3, Vi, Personal, Slow
-    InVi, R: Per, D: Sun, T: Smell
-    Smell anything with a Magic Might.
-    Level: Base 5, +2' Sun, +2' Smell, +5 constant effect = 30, +5 reduce cost = 35
-
-    2 points, Init -3, Vi, Personal, Slow
-    InVi, R: Per, D: Sun, T: Smell
-    Smell anything with a Faerie Might.
-    Level: Base 5, +2' Sun, +2' Smell, +5 constant effect = 30, +5 reduce cost = 35
-
-    4 points, Init -4, Vi, Personal, Slow
+    0 points, Init -4, Vi, Personal
     InVi, R: Per, D: Sun, T: Vision
-    See any active Magic.
-    Level: Base 5, +2' Sun, +4' Vision, +5 constant effect = 40
+    See Magic Might Score of 1 or higher.
+    Requires penetration of Magic Resistance first.
+    Level: Base 5, +2' Sun, +4' Vision, +1' constant effect = 40, +20 reduce cost = 60
+
+    1 points, Init -1, Vi, Personal, Slow
+    InVi, R: Per, D: Sun, T: Smell
+    Smell Vis.
+    Level: Base 1, +2' Sun, +2' Smell, +1' constant effect = 10
 
     1 points, Init -1, Im, Personal
     PeIm, R: Per, D: Conc, T: Ind
     Remove the ability to affect touch, smell, hearing, and sight.
     Level: Base 5, +1' Conc, +1' changing image = 15
+
+    1 points, Init -1, An, Personal
+    ReAn, R: Per, D: Mom, T: Ind
+    Transport instantly up to 50 paces.
+    Level: Base 15
 
 Life:
