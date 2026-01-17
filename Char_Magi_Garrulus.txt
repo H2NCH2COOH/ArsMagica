@@ -1,10 +1,10 @@
 Garrulus ex Bonisagus
 
 Size: 0
-Age: 28
-Apparent age: 28
+Age: 29
+Apparent age: 29
 Decrepitude: 0
-Warping Score: 2 (8)
+Warping Score: 3 (8)
 Reputations: None
 Encumbrance: 0
 Confidence Score: 1
@@ -43,7 +43,7 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 9 (2)
+    Magic Theory (Vim): 9 (8)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
@@ -51,7 +51,7 @@ Arts:
     Cr: 1
     In: 1
     Mu: 0
-    Pe: 15 (12)
+    Pe: 16 (2)
     Re: 1
     An: 0
     Aq: 0
@@ -62,7 +62,7 @@ Arts:
     Im: 0
     Me: 0
     Te: 0
-    Vi: 15 (12)
+    Vi: 16 (2)
 
 Sigil:
     Three stars with silvery light.
@@ -79,6 +79,7 @@ Spells:
     See the Light of Magic (InVi 30)
     Unravelling the Fabric of Vim (PeVi 50)
     Wind of Mundane Silence (PeVi 40)
+    Blanking the Light of Magic (PeVi 25)
 
 Description:
     Garrulus is a man with a small frame and a big heart who can't be stopped from talking about magic research. Born in a small and old covenant in the Alps with a blatant Gift, he was raised up to become a magus without being taught anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Leaving the only place he knew, Garrulus was taken to an alien place with unfamiliar people. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place where he is the master.
@@ -109,6 +110,13 @@ Life:
                 Arcane Discovery, Stabilization on Wand of Ignum Null, 15 Breakthrough Points, 10 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
     Year 1223:
         Winter: Investigate Goblet of Vis, Lab Total 50 -> Effect level 44, Lab Total 44 -> nothing, 1exp on In, 2exp on Magic Theory.
+        Spring: Arcane Discovery, Experiment on Wand of Terram Null, +1 experiment bonus, Special (Blanking the Light of Magic), Discovery (+1), 2exp on Pe, 2exp on Vi.
+        Summer: Wand of Terram Null sale for 1 Vim Vis.
+                Integration of the Book of Ops, 1 Insight (MuMe 20), 3exp on Magic Theory.
+        Autumn: Integration of the Osiris Temple Crypt Mural, 1 Insight (InMe 20), 3exp on Magic Theory.
+    Year 1224:
+        Winter: Arcane Discovery, Stabilization on Wand of Terram Null, No benefit, 8 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Stabilization on Wand of Terram Null, Discovery, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
 
 Creations:
     Flawed Wand of Auram Null
@@ -145,6 +153,32 @@ Creations:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
         Lab Total Base:
             Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 4 = 85
+
+    Wand of Terram Null
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a Hermetic Terram effect with level up to 75 + a stress die (no botch).
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total Base:
+            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 1 = 82
+
+    Blanking the Light of Magic
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Touch, D: Sun, T: Circle (Static)
+            Prevents the detection of a magic spell, or of a magic power in an item or being, by InVi magic, unless the level of the InVi spell exceeds 40.
+        Level:
+            Base 10, +1' Touch, +2' Sun = 25
 
 Planned creations:
     Wand of (Form) Null
