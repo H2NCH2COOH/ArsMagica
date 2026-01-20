@@ -1,8 +1,8 @@
 Anulius ex Verditius
 
 Size: 0
-Age: 30
-Apparent age: 30
+Age: 34
+Apparent age: 34
 Decrepitude: 0
 Warping Score: 0
 Reputations: None
@@ -43,13 +43,13 @@ Abilities:
     Bargain (Bulk buy): 1
     Latin (Hermetic): 4
     Code of Hermes (Tribunal procedures): 1
-    House Verditius Lore (Mystery initiation): 2
+    House Verditius Lore (Rules): 2
     Concentration (Casting spells): 4 (2)
     Finesse (Magical craft): 1
     Artes Liberales (Ritual magic): 1
     Philosophiae (Verditius magic): 3
-    Craft Jewelry (Ring): 7 (4)
-    Magic Theory (Enchanting items): 7 (4)
+    Craft Jewelry (Ring): 7 (30)
+    Magic Theory (Enchanting items): 7 (30)
     Parma Magica (Vim): 1
 
 Arts:
@@ -64,18 +64,27 @@ Arts:
     Co: 0
     He: 0
     Ig: 0
-    Im: 0
+    Im: 2
     Me: 0
-    Te: 0
+    Te: 6 (3)
     Vi: 5
 
 Sigil:
     Five concentric rings
 
 Equipments:
-    Collar of Levitation
+    Ring of Levitation
+    Ring of Disk
+    Ring of Uranus
+    Ring of Mystical Manipulation
     Spell Ring of Arcane Disconnection * 2
     Spell Ring of Lifting Wizard's Chores * 2
+    Spell Ring of Magic Revealed * 1
+    Spell Ring of Wizard's Privacy * 1
+    Spell Ring of Wizard's Solitary * 1
+    Spell Ring of Arcane Tunnel * 2
+    Spell Ring of Arcane Connection * 1
+    Spell Ring of Lifting Diviner's Chores * 2
 
 Soak: +3
 
@@ -106,29 +115,52 @@ Life:
     Year 1205-1219:
         Apprenticeship (15 yrs)
     Year 1220:
-        Spring: Study from raw Vis, 13exp in Vi; Setup basic lab.
-        Summer: Build 6 Spell Ring of Arcane Disconnection, 1 used, 3 sold, 2exp in Craft Jewelry, 2exp in Magic Theory.
-        Autumn: Build 2 Spell Ring of Lifting Wizard's Chores, 2exp in Craft Jewelry, 2exp in Magic Theory.
+        Winter: Study from raw Vis, 13exp on Vi; Setup basic lab.
+        Spring: Build 6 Spell Ring of Arcane Disconnection, 1 used, 3 sold, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Summer: Build 1 Spell Ring of Lifting Wizard's Chores, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Build Ring of Dart Master, 2exp on Craft Jewelry, 1exp on Te.
+    Year 1221:
+        Winter: Build Ring of Visages, 2exp on Magic Theory, 1exp on Im.
+        Spring: Build Ring of Crafter's Insight, 2exp on Te.
+        Summer: Build Ring of Disk, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Build 10 Spell Ring of Lifting Wizard's Chores from Lab Text, 8 sold, 2exp on Craft Jewelry, 2exp on Magic Theory.
+    Year 1222:
+        Winter: Failed to build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Spring: Failed to build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Summer: Failed to build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Build Ring of Uranus, 2exp on Craft Jewelry, 2exp on Magic Theory.
+    Year 1223:
+        Winter: Build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Spring: Build 2 Spell Ring of Magic Revealed, 2exp on Im.
+        Summer: Build 2 Spell Ring of Wizard's Privacy, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Build 2 Spell Ring of Wizard's Solitary, 2exp on Craft Jewelry, 2exp on Magic Theory.
+    Year 1224:
+        Winter: Build 2 Spell Ring of Arcane Tunnel, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Spring: Build 1 Spell Ring of Arcane Connection, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Summer: Build 2 Spell Ring of Lifting Diviner's Chores, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Study from summa, 21exp on Te.
 
 Creations:
-    Collar of Levitation
+    Ring of Levitation
         Type:
             Lesser enchantment
         Description:
-            An collar embellished with silver threads and small crystals.
+            A silver ring with an embedded amber.
         Effect:
             ReCo, R: Touch, D: Sun, T: Ind
             Move the wearer slowly in any direction with concentration.
         Trigger:
-            Gently twist both the corners.
+            Command phrase.
         Frequency:
             2 uses per day.
         Level:
-            Base 5, +1' Touch, +2' Sun = 20, +1 Frequency = 21
+            Base 5, +1' Touch, +2' Sun = 20, +1 Frequency, +3 Effect Use (only Anulius) = 24
         Shape and Material Bonuses:
-            Collar (+6 control wearer)
+            Amber (+3 Corpus), Jewelry (+2 move self)
+        Verditius Runes:
+            +4
         Lab total at creation:
-            Re 7 + Co 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 48
+            Re 7 + Co 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 48
         Notes:
             Created and gifted as Anulius's gauntlet.
 
@@ -136,334 +168,63 @@ Creations:
         Type:
             Charged item
         Description:
-            A small glass orb containing a gray liquid sitting on a red gold ring.
+            A red gold ring.
         Effect:
             PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
             Reduce the duration of any Arcane Connections put inside the circle by six steps.
             With side effect of etching Anulius's sigil onto anything affected.
         Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
+            Draw/trace a circle with the ring.
         Level:
             Base 30, +1' Touch, +2' Ring = 45
         Shape and Material Bonuses:
-            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
+            Red gold (+1 Perdo), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 10 (side effect) = 71
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 10 (side effect) = 66
 
     Spell Ring of Lifting Wizard's Chores
         Type:
             Charged item
         Description:
-            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
+            A magnetized iron ring.
         Effect:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             Sustain all Hermetic magic effects that requires concentration up to level 35 within the circle.
         Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
+            Draw/trace a circle with the ring.
         Level:
             Base 45, +1' Touch, +2' Ring = 60
         Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+            Magnet (+2 Rego), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 8 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 70
-
-Planned creations:
-    Spell Ring of Shortcut
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a clear liquid sitting on a magnetized iron ring.
-        Effect:
-            ReCo, R: Touch, D: Ring, T: Circle (Dynamic)
-            Instantly transport any people entering the circle to a fixed point within seven leagues. An Arcane Connection to the destination is required for setting up the circle but not for its usage.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 30, +1' Touch, +2' Ring = 45
-        Shape and Material Bonuses:
-            Apple Wood (+1 Corpus), Amber (+3 Corpus), Yew Wood (+2 Corpus), Magnet (+4 Rego Corpus), Ring (+2 constant effect)
-
-    Spell Ring of Magic Revealed
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a glowing liquid sitting on a silver ring.
-        Effect:
-            In(Cr)Vi(Im), R: Touch, D: Ring, T: Circle (Dynamic)
-            Any active magic except this effect itself in the circle will create a visible aura. The color indicates the Form and the shape indicates the Technique.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 5, +1' Touch, +2' Ring, +2' Techniques and Forms, +2' requisite = 40
-        Shape and Material Bonuses:
-            Cinnamon (+4 Imaginem), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Silver (+2 Intellego), Ring (+2 constant effect)
-
-    Spell Ring of Wizard's Privacy
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a black liquid sitting on a red gold ring.
-        Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Dispel any Hermetic scrying effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance. The circle can't prevent a magical sensor outside from perceiving within, but will dispel it once it enters.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 30, +1' Touch, +2' Ring = 45
-        Shape and Material Bonuses:
-            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
-
-    Spell Ring of Wizard's Solitary
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a yellow liquid sitting on a red gold ring.
-        Effect:
-            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Dispel any Hermetic transportation effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 30, +1' Touch, +2' Ring = 45
-        Shape and Material Bonuses:
-            Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
-
-    Spell Ring of Ward Against Demons
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a crimson liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            All creatures with Infernal Might less than or equal to 30 are unable to enter the circle or harm those within it.
-        Penetration:
-            40
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Arcane Tunnel
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Conc, T: Ind
-            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
-        Penetration:
-            50
-        Trigger:
-            Command word and touching the target with the glass orb while holding the ring.
-        Level:
-            Base 25, +1' Touch, +1' Conc = 35, +25 Penetration = 60
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
-
-    Spell Ring of Arcane Connection
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a blue liquid sitting on a steel ring.
-        Effect:
-            Cr(Mu)Vi(Te), R: Touch, D: Conc, T: Ind
-            This item becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must penetrate target's Magic Resistance and the active magic effect on the target can be detected and dispelled.
-        Penetration:
-            80
-        Trigger:
-            Command word and touching the target with the glass orb while holding the ring.
-        Level:
-            Base 4, +1' Touch, +1' Conc, +2' requisites = 20, +40 Penetration = 60
-        Shape and Material Bonuses:
-            Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim)
-
-    Ring of the Arcane Gate
-        Type:
-            Invested item
-        Description:
-            A tiny wooden miniture of a gate with runes inscribed on it sitting on a magnetized iron ring.
-        Effect 1:
-            ReVi, R: Touch, D: Mom, T: Ind
-            Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
-        Trigger:
-            Specific movement.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 25, +1' Touch = 30, +10 Frequency = 40
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
-        Effect 2:
-            ReVi, R: Touch, D: Mom, T: Ind
-            Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 releases an effect and allows a suppressed tunnel to open for a tiny moment so that the released effect may pass through.
-        Trigger:
-            Linked to effect 1.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 25, +1' Touch = 30, +3 linked trigger, +10 Frequency = 43
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
-        Effect 3:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Suppress all Intangible Tunnel effects up to level 35 within the circle.
-        Trigger:
-            Command word.
-        Frequency:
-            1 use per day.
-        Level:
-            Base 25, +1' Touch, +2' Ring = 40
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-        Vis cost:
-            15 Vi + 13 Re/Vi
-
-    Overseer's Eye
-        Type:
-            Spell
-        Effect:
-            InIm, R: Touch, D: Sun, T: Vision
-            You can see as if you're at target's position.
-        Level:
-            Base 1, +1' Touch, +2' Sun, +4' Vision = 20
-
-    Overseer's Ear
-        Type:
-            Spell
-        Effect:
-            InIm, R: Touch, D: Sun, T: Hearing
-            You can hear as if you're at target's position.
-        Level:
-            Base 1, +1' Touch, +2' Sun, +3' Hearing = 15
-
-    Ring of Disk
-        Type:
-            Lesser enchantment
-        Description:
-            A small disk made of wood, bronze and granite floating on mercury in a small glass orb sitting on a silver ring.
-        Effect:
-            Cr(Mu)Te, R: Touch, D: Conc, T: Ind
-            Create a half-inch thick, 10 paces across steel disk that is magically strengthened so that it can't be damaged by mundane methods or environments. Anulius's sigil is cleary etched on the surface of the disk as five concentric circles spaced evenly from the outermost rim to the center.
-        Trigger:
-            Command word.
-        Frequency:
-            1 use per day.
-        Level:
-            Base 5, +1' Touch, +1' Conc, +1' requisite = 20, +5 device maintain concentration = 25
-        Shape and Material Bonuses:
-            Birch Wood (+1 Creo), Bronze (+3 Terram), Granite (+3 Terram), Mercury (+3 Terram), Silver (+1 Terram)
-        Vis cost:
-            3 Cr/Te
-
-    Ring of Inscription
-        Type:
-            Lesser enchantment
-        Description:
-            A bronze ring with a small glass orb containing mercury and a small magnet held together by silver.
-        Effect:
-            ReTe, R: Touch, D: Mon, T: Ind
-            Harmlessly inscribe any words or shapes onto an inanimate object.
-        Trigger:
-            Command word.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 2, +1' Touch, +2' metal, +1' intricacy = 10, +10 Frequency = 20
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
-        Vis cost:
-            2 Re/Te
-
-    Ring of Indestructibility
-        Type:
-            Lesser enchantment
-        Description:
-            An bronze ring with a small glass orb containing mercury held together by electrum.
-        Effect:
-            MuTe, R: Touch, D: Moon, T: Ind
-            Magically strengthen an inanimate object so that it can't be damaged by mundane methods or environments.
-        Trigger:
-            Command word.
-        Frequency:
-            1 use per day.
-        Level:
-            Base 4, +1' Touch, +3' Moon, +2' metal = 30
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Electrum (+4 Muto Terram), Mercury (+5 Muto)
-        Vis cost:
-            3 Mu/Te
-
-    Ring of Mystical Manipulation
-        Type:
-            Lesser enchantment
-        Description:
-            Two bronze rings with a magnetized iron ring in between held together with silver binding.
-        Effect:
-            ReTe, R: Arc, D: Conc, T: Ind
-            Move an inanimate object the wielder has an Arcane Connection to at will. The heavier the object, the slower it moves. This effect can hold the object in the air at a great height.
-        Trigger:
-            Command word.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 3, +4' Arc, +1' Conc = 20, +10 Frequency = 30
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
-        Vis cost:
-            3 Re/Te
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 5 (no extraordinary effects) = 61
 
     Ring of Dart Master
         Type:
             Lesser enchantment
         Description:
-            Two magnetized iron rings with a glass torus containing mercury in between held together with bronze binding.
+            A bronze ring with a small embedded magnet.
         Effect:
             ReTe, R: Sight, D: Mom, T: Group
             A handful of identical objects the size of about an arrowhead or smaller fly towards a target with enough speed to cause damage. The objects will always hit their target but must penetrate Magic Resistance to actually cause damage. The damage caused by each object depends upon its shape and material, typically from +2 to +6.
         Trigger:
-            Command word.
+            Command phrase.
         Frequency:
             Unlimited
         Level:
             Base 3, +3' Sight, +2' Group = 20, +10 Frequency = 30
         Shape and Material Bonuses:
-            Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
+            Magnet (+4 Rego Terram), Bronze (+3 Terram)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Te 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 9 (special) = 60
         Vis cost:
-            3 Re/Te
-
-    Anulius's Needle
-        Type:
-            Charged item
-        Description:
-            A 2-inch long magnetized steel needle with a small glass orb containing mercury held in an intricate cage made of silver and bronze on the butt.
-        Effect:
-            ReTe, R: Per, D: Mom, T: Ind
-            Propel this item forward with enough force to do +60 damage. This applies the force instantly and the item then moves naturally, thus not affected by Magic Resistance. Not being designed to be used at range, when activated, this item automatically hits anything the point is touching, if not touching anything, it has a range increment of one pace.
-        Trigger:
-            When this item stops abruptly while moving very quickly.
-        Level:
-            Base 60 = 60
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
-
-    Spell Orb of the Mundane
-        Type:
-            Charged item
-        Description:
-            A small glass orb with a red gold band containing a gray liquid.
-        Effect:
-            PeVi, R: Touch, D: Mom, T: Ind
-            Reduce target's Might Score by 15 if its Magic Resistance is penetrated.
-        Penetration:
-            100
-        Trigger:
-            Breaking the glass orb on the target.
-        Level:
-            Base 5, +1' Touch = 10, +50 Penetration = 60
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Frankincense (+3 Perdo Vim), Red gold (+1 Perdo)
+            3 Te
 
     Ring of Visages
         Type:
@@ -474,12 +235,401 @@ Planned creations:
             MuIm, R: Touch, D: Sun, T: Ind
             Make the wielder look and sound like a different person of roughly the same size and shape. Reproducing specific deails (e.g., the look or sound of a specific person) requires a Perception + Finesse stress roll. The wielder can concentrate to change the effect anytime but a new roll might be required.
         Trigger:
-            Command word or environmental.
+            Command phrase or environmental.
         Frequency:
             2 uses per day.
         Level:
             Base 2, +1' Touch, +2' Sun, +2' change under command = 15, +1 Frequency, +3 environmental trigger (sunrise or sunset) = 19
         Shape and Material Bonuses:
             Opal (+2 images), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Mu 7 + Im 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 46
         Vis cost:
-            2 Mu/Im
+            2 Im
+
+    Ring of Crafter's Insight
+        Type:
+            Lesser enchantment
+        Description:
+            A silver ring.
+        Effect:
+            InTe, R: Touch, D: Mom, T: Touch
+            The wearer learns all the natural properties of a touched item.
+        Trigger:
+            Command phrase.
+        Frequency:
+            12 uses per day.
+        Level:
+            Base 10, +1' Touch, +1' Touch = 20, +4 Frequency = 24
+        Shape and Material Bonuses:
+            Silver (+2 Intellego, +1 Terram)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            In 7 + Te 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 49
+        Vis cost:
+            3 Te
+
+    Ring of Disk
+        Type:
+            Lesser enchantment
+        Description:
+            A bronze ring with a small embedded granite orb.
+        Effect:
+            Cr(Mu)Te, R: Touch, D: Conc, T: Ind
+            Create a half-inch thick, 10 paces across steel disk that is magically strengthened so that it becomes nearly unbreakable by mundane methods or environments. Anulius's sigil is cleary etched on the surface of the disk as five concentric circles spaced evenly from the outermost rim to the center.
+        Trigger:
+            Command phrase.
+        Frequency:
+            1 use per day.
+        Level:
+            Base 5, +1' Touch, +1' Conc, +1' requisite = 20, +5 device maintain concentration = 25
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Granite (+3 Terram)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Cr/Mu 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 50
+        Vis cost:
+            3 Te
+
+    Ring of Uranus
+        Type:
+            Lesser enchantment
+        Description:
+            A bronze ring with a small embedded magnet.
+        Effect:
+            ReTe, R: Touch, D: Diam, T: Ind
+            No element of earth (e.g., dirt, stone, metal, gem) may touch the wearer except those that are already worn when this comes in effect.
+        Trigger:
+            Command phrase.
+        Frequency:
+            24 uses per day.
+        Level:
+            Base 5, +1' Touch, +1' Diam, +2' metal = 25, +5 Frequency = 30
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Magnet (+4 Rego Terram)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 11 (modified effect) = 64
+        Vis cost:
+            3 Te
+
+    Ring of Mystical Manipulation
+        Type:
+            Lesser enchantment
+        Description:
+            A silver ring with a small embedded magnet.
+        Effect:
+            ReTe, R: Arc, D: Conc, T: Ind
+            Move an inanimate object the wielder has an Arcane Connection to at will. The heavier the object, the slower it moves. This effect can hold the object in the air at a great height.
+        Trigger:
+            Command phrase.
+        Frequency:
+            Unlimited uses per day.
+        Level:
+            Base 3, +4' Arc, +1' Conc = 20, +10 Frequency = 30
+        Shape and Material Bonuses:
+            Magnet (+4 Rego Terram), Silver (+1 Terram)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 + S.S.B. 2 + past experimentation 10 = 62
+        Vis cost:
+            3 Te
+
+    Spell Ring of Magic Revealed
+        Type:
+            Charged item
+        Description:
+            A silver ring.
+        Effect:
+            In(Cr)Vi(Im), R: Touch, D: Ring, T: Circle (Dynamic)
+            Any active magic except this effect itself in the circle will create a visible aura. The color indicates the Form and the shape indicates the Technique.
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 5, +1' Touch, +2' Ring, +2' Techniques and Forms, +2' requisite = 40
+        Shape and Material Bonuses:
+            Silver (+2 Intellego), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            In/Cr 7 + Im 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 49
+
+    Spell Ring of Wizard's Privacy
+        Type:
+            Charged item
+        Description:
+            A red gold ring.
+        Effect:
+            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Dispel any Hermetic scrying effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance. The circle can't prevent a magical sensor outside from perceiving within, but will dispel it once it enters.
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Red gold (+1 Perdo), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 53
+
+    Spell Ring of Wizard's Solitary
+        Type:
+            Charged item
+        Description:
+            A red gold ring.
+        Effect:
+            PeVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Dispel any Hermetic transportation effect within the circle up to level 50 + a stress die. The circle can't dispel an effect casted within itself unless it overcomes the caster's Magic Resistance.
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Red gold (+1 Perdo), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 53
+
+    Spell Ring of Arcane Tunnel
+        Type:
+            Charged item
+        Description:
+            Two wooden half-rings fused together into one.
+        Effect:
+            ReVi, R: Touch, D: Conc, T: Ind
+            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any Hermetic magic effect up to level 50 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
+            When the tunnel is openned, the sigil of Anulius can be clearly seen on the target as a flash.
+        Penetration:
+            50
+        Trigger:
+            Command phrase.
+        Level:
+            Base 25, +1' Touch, +1' Conc = 35, +25 Penetration = 60
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 6 (side effect) = 66
+
+    Spell Ring of Arcane Connection
+        Type:
+            Charged item
+        Description:
+            Two wooden half-rings fused together into one.
+        Effect:
+            Cr(Mu)Vi(Te), R: Touch, D: Conc, T: Ind
+            This item becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must penetrate target's Magic Resistance and this magic effect is active on the target and can be detected and dispelled.
+            While the effect is active, this item when put down, will float at a height about 1 inch above any surface.
+        Penetration:
+            70
+        Trigger:
+            Command phrase.
+        Level:
+            Base 4, +1' Touch, +1' Conc, +2' requisites = 20, +35 Penetration = 55
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Elder Wood (+1 Vim)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 1 (side effect) = 57
+
+    Spell Ring of Lifting Diviner's Chores
+        Type:
+            Charged item
+        Description:
+            A magnetized iron ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic scrying effects that requires concentration up to level 50 within the circle.
+        Trigger:
+            Draw/trace a circle with ring.
+        Level:
+            Base 40, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Magnet (+2 Rego), Ring (+2 constant effect)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 53
+
+Planned Creations:
+    Spell Ring of (Form) Barrier
+        Type:
+            Charged item
+        Description:
+            A red gold ring.
+        Effect:
+            Pe(InRe)Vi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Any Hermetic (Form) effect up to level 50 + a stress die can't affect anything within the circle.
+            Effects bearing Anulius's sigil is not affected.
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring, +2' requisites = 55
+        Shape and Material Bonuses:
+            Red gold (+1 Perdo), Ring (+2 constant effect)
+
+    Spell Ring of Shortcut
+        Type:
+            Charged item
+        Description:
+            A magnetized iron ring.
+        Effect:
+            ReCo, R: Touch, D: Ring, T: Circle (Dynamic)
+            Instantly transport any people entering the circle to a fixed point within seven leagues. An Arcane Connection to the destination is required for setting up the circle but not for its usage.
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 30, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Magnet (+4 Rego Corpus), Ring (+2 constant effect)
+
+    Spell Ring of Ward Against Demons
+        Type:
+            Charged item
+        Description:
+            A magnetized iron ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            All creatures with Infernal Might less than or equal to 30 are unable to enter the circle or harm those within it.
+        Penetration:
+            30
+        Trigger:
+            Draw/trace a circle with the ring.
+        Level:
+            Base 15, +1' Touch, +2' Ring = 30, +15 Penetration = 45
+        Shape and Material Bonuses:
+            Magnet (+2 Rego), Ring (+2 constant effect)
+
+    Ring of Spying
+        Type:
+            Invested item
+        Description:
+            A silver ring with an embedded clear rock crystal.
+        Effect 1:
+            Effect:
+                InIm, R: Touch, D: Moon, T: Hearing
+                Grant an item the capability to hear.
+            Trigger:
+                Command phrase.
+            Frequency:
+                1 use per day.
+            Level:
+                Base 1, +1' Touch, +3' Moon, +3' Hearing = 25
+            Shape and Material Bonuses:
+                Rock Crystal (+4 clairvoyance), Silver (+2 Intellego)
+        Effect 2:
+            Effect:
+                InIm, R: Touch, D: Moon, T: Vision
+                Grant an item the capability to see.
+            Trigger:
+                Command phrase.
+            Frequency:
+                1 use per day.
+            Level:
+                Base 1, +1' Touch, +3' Moon, +3' Vision = 30
+            Shape and Material Bonuses:
+                Rock Crystal (+4 clairvoyance), Silver (+2 Intellego)
+        Effect 3:
+            Effect:
+                InTe, R: Arc, D: Conc, T: Ind
+                Sense what an item is seeing and hearing.
+            Trigger:
+                Command phrase.
+            Frequency:
+                24 uses per day.
+            Level:
+                Base 20, +4' Arc, +1' Conc = 45, +5 Frequency = 50
+            Shape and Material Bonuses:
+                Rock Crystal (+4 clairvoyance), Silver (+2 Intellego)
+        Effect 4:
+            Effect:
+                CrMe, R: Touch, D: Mom, T: Ind
+                Send the visual and auditory information this item is currently sensing through effect 3 into the target's mind.
+            Trigger:
+                Touching the ring with both thumb and index finger.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 5, +1' Touch = 10, +10 Frequency = 20
+            Shape and Material Bonuses:
+                Rock Crystal (+4 clairvoyance)
+        Capacity:
+            13/18
+        Vis cost:
+            (18 - Craft Jewelry) Vi + 6 In/Im + 5 In/Te + 2 Cr/Me
+
+    Ring of Arcane Gate
+        Type:
+            Invested item
+        Description:
+            A small magnetized iron ring embedded inside the groove of a larger wooden ring.
+            The inner ring can rotate freely.
+        Effect 1:
+            Effect:
+                ReVi, R: Touch, D: Mom, T: Ind
+                Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
+            Trigger:
+                Rotating the inner ring in a specific way.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 25, +1' Touch = 30, +10 Frequency = 40
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Magnet (+2 Rego)
+        Effect 2:
+            Effect:
+                ReVi, R: Touch, D: Mom, T: Ind
+                Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 releases an effect and allows a suppressed tunnel to open for a tiny moment so that the released effect may pass through.
+            Trigger:
+                Linked to effect 1.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 25, +1' Touch = 30, +3 linked trigger, +10 Frequency = 43
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Magnet (+2 Rego)
+        Effect 3:
+            Effect:
+                ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+                Suppress all Intangible Tunnel effects up to level 35 within the circle.
+            Trigger:
+                Draw/trace a circle with the ring.
+            Frequency:
+                1 use per day.
+            Level:
+                Base 25, +1' Touch, +2' Ring = 40
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Capacity:
+            13/14
+        Vis cost:
+            (14 - Craft Jewelry) Vi + 13 Re/Vi
+
+    Ring of Indestructibility
+        Type:
+            Lesser enchantment
+        Description:
+            A bronze ring with an embedded small electrum orb.
+        Effect:
+            MuTe, R: Touch, D: Moon, T: Ind
+            Magically strengthen an inanimate object so that it becomes nearly unbreakable by mundane methods or environments.
+        Trigger:
+            Command phrase.
+        Frequency:
+            1 use per day.
+        Level:
+            Base 4, +1' Touch, +3' Moon, +2' metal = 30
+        Shape and Material Bonuses:
+            Bronze (+3 Terram), Electrum (+4 Muto Terram)
+        Vis cost:
+            3 Mu/Te
