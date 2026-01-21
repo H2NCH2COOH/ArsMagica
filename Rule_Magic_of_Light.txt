@@ -60,7 +60,7 @@ Light and Other Elements
     Muto spells can change light into other elements and vise versa.
     When changing, 1000 base individuals of light is equivalent to 1 base individual in other elements.
 
-    Since light doesn't have Individual target, a spell can't change light into a single object of another element, the result is always a very large number of object.
+    Since light doesn't have Individual target, a spell can't change light into a single object of another element, the result is always a very very large number of object.
     For example, a MuIg(Te) spell that changes light into stone will produce a uniform sheet of very very fine dust.
     MuIg spells can't affect a magical light source, only on the created light itself.
 
@@ -75,13 +75,12 @@ Damage Caused by Light
     Since light causes damage when absorbed, any supernatural protection/immunity that doesn't stop light provides no protection against damage caused by light.
     Mundane protections like armor can provide normal protection against damage caused by light.
     Reflective material can provide extra protection against light.
-    Very intense light can melt or even vaporize things, but a single flash can only go about an inch deep.
 
 Extra Guidelines:
     CrIg 10: Create a light source of intensity +2. Each additional magnitude increases the intensity by 1.
     MuIg 5: Change light itself into a natural example of another element, with an appropriate requisite.
-    ReIg 3: Change the direction of light.
-    ReIg 10: Make light move in any path.
+    PeIg 2: Reduce the intensity of light by 4. Each additional magnitude reduces the intensity further by 4 (This replaces the original ReIg 2/3 guidelines).
+    ReIg 3: Change the direction of light. This can only be used to focus light to a specific point or direction, producing a cone or beam.
     ReIg 10: Ward against light up to intensity +2 (Touch, Ring, Circle). Each additional magnitude increases the intensity by 1.
 
 New Spells:
@@ -98,20 +97,26 @@ New Spells:
         Even though the spell is aimed, magic resistance still provides protection from the beam since it's magically created.
         (Base 5, +1' Touch, +1' requisite)
 
-    Heaven's Light Upon You
+    Behold My Radiance
+        Cr(Re)Ig 30, R: Touch, D: Conc, T: Ind
+        The caster emit light going all directions of intensity +3 (+5 damage).
+        The light produced by this spell will not illuminate the caster even after reflection.
+        (Base 15, +1' Touch, +1' Conc, +1' requisite)
+
+    Heaven's Brilliance Upon You
         ReIg 30, R: Sight, D: Conc, T: Group
-        Focus all sunlight above the caster into a 15-pace across beam of intensity +3 (+5 damage each round).
+        Focus all sunlight above the caster into a 5-pace across beam of intensity +4 (+10 damage each round).
         During the spell, sky above the caster up to 500-pace across becomes dark as night.
         Magic resistance provides no protection from this beam since it's normal sunlight.
         The caster can move the beam by concentrating.
-        The beam must be aimed with a bonus of +24 and a range increment of 100 paces.
+        The beam must be aimed with a bonus of +18 and a range increment of 100 paces.
         (Base 3, +3' Sight, +1' Conc, +2' Group, +1' control)
 
-    Let There Be Light
-        ReIg 20, R: Sight, D: Mom, T: Group
+    Might of Light
+        ReIg 50, R: Sight, D: Mom, T: Group
         Direct all light within range into a 6-inch across beam.
         Only light from a single source can be targeted with a single casting (e.g., direct sunlight, light from a single torch, a beam of light reflecting between two mirrors).
-        The intensity of the beam is determined by the total light directed, up to +7 (+25 damage, vaporize anything instantly).
+        The intensity of the beam is determined by the total light directed, up to +13 (+55 damage, vaporize anything instantly).
         This spell must be aimed with a range increment of 100 paces.
         Magic resistance provides no protection if the light directed is not magical.
-        (Base 3, +3' Sight, +2' Group)
+        (Base 3, +3' Sight, +2' Group, +6' intensity)
