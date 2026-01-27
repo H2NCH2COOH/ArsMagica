@@ -196,10 +196,38 @@ Planned creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
         Lab Total Base:
-            Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 = 81
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 = 83
+
+    Cancel the (Realm) Light
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a supernatural effect of (Realm) Realm with level up to (45 + a stress die (no botch)) / 2.
+        Level:
+            Base 25, +2' Voice = 35
+        Lab Total Base:
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + Inventive Genius 3 + S.S.B. 8 = 66
+
+    Wand of (Realm) Null
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Dispel a supernatural effect of (Realm) Realm with level up to (85 + a stress die (no botch)) / 2.
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 65, +2' Voice = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total Base:
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 7 + Inventive Genius 6 = 80
 
     Parma Metaphysica
         Type:
             Arcane Ability
         Description:
-            Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Metaphysica, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained over a period of time, they are not reduced unless Parma Metaphysica is active for more than half of that time. Parma Metaphysica itself doesn't cause Warping. An active Parma Metaphysica has an effective spell level equal to five times its score. One can only protect oneself with Parma Metaphysica. Only an individual with The Gift can learn Parma Metaphysica. Specialties: protection from one supernatural realm.
+            Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Metaphysica, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained over a period of time, they are not reduced unless Parma Metaphysica is active for more than half of that time. Parma Metaphysica itself doesn't cause Warping. An active Parma Metaphysica has an effective spell level equal to five times its score. One can only protect oneself with Parma Metaphysica. Only an individual with The Gift can learn Parma Metaphysica. Specialties: protection from one supernatural Realm.
