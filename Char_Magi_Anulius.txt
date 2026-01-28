@@ -43,7 +43,7 @@ Abilities:
     Bargain (Bulk buy): 1
     Latin (Hermetic): 4
     Code of Hermes (Tribunal procedures): 1
-    House Verditius Lore (Mystery initiation): 2
+    House Verditius Lore (Rules): 2
     Concentration (Casting spells): 4 (2)
     Finesse (Magical craft): 1
     Artes Liberales (Ritual magic): 1
@@ -79,7 +79,7 @@ Equipments:
     Ring of Uranus
     Ring of Mystical Manipulation
     Spell Ring of Arcane Disconnection * 2
-    Spell Ring of Lifting Wizard's Chores * 11
+    Spell Ring of Lifting Wizard's Chores * 3
     Spell Ring of Magic Revealed * 1
     Spell Ring of Wizard's Privacy * 1
     Spell Ring of Wizard's Solitary * 1
@@ -123,7 +123,7 @@ Life:
         Winter: Build Ring of Visages, 2exp on Magic Theory, 1exp on Im.
         Spring: Build Ring of Inscription, 2exp on Te.
         Summer: Build Ring of Disk, 2exp on Craft Jewelry, 2exp on Magic Theory.
-        Autumn: Build 10 Spell Ring of Lifting Wizard's Chores from Lab Text, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Build 10 Spell Ring of Lifting Wizard's Chores from Lab Text, 8 sold, 2exp on Craft Jewelry, 2exp on Magic Theory.
     Year 1222:
         Winter: Failed to build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
         Spring: Failed to build Ring of Mystical Manipulation, 2exp on Craft Jewelry, 2exp on Magic Theory.
@@ -449,42 +449,49 @@ Planned Creations:
         Type:
             Invested item
         Description:
-            A tiny wooden miniture of a gate with runes inscribed on it sitting on a magnetized iron ring.
+            A small wooden ring embedded inside the groove of a larger wooden ring.
+            The inner ring can rotate freely, and small magnets embedded inside both rings will hold it at one of serval positions.
+            At each position, the inscriptions on both rings will form a different shape.
         Effect 1:
-            ReVi, R: Touch, D: Mom, T: Ind
-            Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
-        Trigger:
-            Specific movement.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 25, +1' Touch = 30, +10 Frequency = 40
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+            Effect:
+                ReVi, R: Touch, D: Mom, T: Ind
+                Create a magical container that last but a second for target Hermetic magic effect up to level 50 the wielder creates in conjunction with the activation of this effect. An Intelligence + Concentration roll against an Ease Factor of 9 is required for the wielder. If it fails, target effect is not created and this effect is not activated. If it botches, target effect botches and this effect is not activated.
+            Trigger:
+                Rotating the inner ring in a specific way.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 25, +1' Touch = 30, +10 Frequency = 40
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Effect 2:
-            ReVi, R: Touch, D: Mom, T: Ind
-            Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 releases an effect and allows a suppressed tunnel to open for a tiny moment so that the released effect may pass through.
-        Trigger:
-            Linked to effect 1.
-        Frequency:
-            Unlimited uses per day.
-        Level:
-            Base 25, +1' Touch = 30, +3 linked trigger, +10 Frequency = 43
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
+            Effect:
+                ReVi, R: Touch, D: Mom, T: Ind
+                Suppress a Hermetic effect up to level 35 that suppresses Intangible Tunnel effects. This effect is triggered as effect 1 releases an effect and allows a suppressed tunnel to open for a tiny moment so that the released effect may pass through.
+            Trigger:
+                Linked to effect 1.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 25, +1' Touch = 30, +3 linked trigger, +10 Frequency = 43
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Effect 3:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Suppress all Intangible Tunnel effects up to level 35 within the circle.
-        Trigger:
-            Command word.
-        Frequency:
-            1 use per day.
-        Level:
-            Base 25, +1' Touch, +2' Ring = 40
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+            Effect:
+                ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+                Suppress all Intangible Tunnel effects up to level 35 within the circle.
+            Trigger:
+                Rotating the inner ring in a specific way.
+            Frequency:
+                1 use per day.
+            Level:
+                Base 25, +1' Touch, +2' Ring = 40
+            Shape and Material Bonuses:
+                Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Capacity:
+            13/16
         Vis cost:
-            15 Vi + 13 Re/Vi
+            (16 - Craft Jewelry) Vi + 13 Re/Vi
 
     Ring of Indestructibility
         Type:
