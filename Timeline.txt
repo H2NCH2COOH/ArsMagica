@@ -1,6 +1,7 @@
 1220 Saga Beginning
 1221 Tribunal
-1227 Tribunal
+1227 Tribunal, Bjornaer Gathering
 1228 Grand Tribunal
 1234 Verditius Contest
 1235 Tribunal
+1239 Bjornaer Gathering
