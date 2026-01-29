@@ -1,10 +1,10 @@
 Evette Vidal
 
 Size: 0
-Age: 20
-Apparent age: 20
+Age: 24
+Apparent age: 24
 Decrepitude: 0
-Warping Score: 1 (5)
+Warping Score: 1
 Reputations: None
 Encumbrance: 0
 Confidence Score: 1
@@ -26,7 +26,7 @@ Personality Traits:
     Compassionate -1
 
 Virtues:
-    Personal Power, Personal Power, Personal Power, Venditor, Unaffected by The Gift, Hermetic Experience
+    Personal Power x3, Venditor, Unaffected by The Gift, Hermetic Experience
 
 Flaws:
     Wanderlust, Craving for Travel, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power
@@ -35,23 +35,25 @@ Abilities:
     Occitan (Mercantile): 5
     Catalonian (Mercantile): 4
     Latin (Hermetic): 4
-    Catalonia Lore (Mercantile): 1
-    Lombardy Lore (Mercantile): 1
-    Provence Lore (Mercantile): 1
+    Catalonia Lore (Mercantile): 3 (3)
+    Lombardy Lore (Mercantile): 3 (3)
+    Provence Lore (Mercantile): 3 (3)
     Tuscany Lore (Mercantile): 1
     Artes Liberales (Arithmetic): 1
     Civil and Canon Law (Mercantile): 1
     Magic Lore (Creatures): 1
-    Order of Hermes Lore (Trading with Mundanes): 1
+    Order of Hermes Lore (Trading with mundanes): 1
     Awareness (Searching): 3
-    Bargain (Hermetic Magi): 4
-    Folk Ken (Hermetic Magi): 4 (4)
+    Bargain (Hermetic magi): 4
+    Folk Ken (Hermetic magi): 4 (10)
     Guile (Bargain): 4
-    Profession Merchant (Hermetic Magi): 4
+    Profession Merchant (Hermetic magi): 4
 
 Soak: -2
 
 Equipments:
+    Ring of Dart Master
+    Ring of Visages
 
 Description:
     Evette was born as the only child of a local merchant family in Marseille. Ever since she was in her cradle, her mother's old pendant was with her. The pendant was passed down from mother to daughter for generations. But unbeknownst to them, the pendant contains powerful magic. Although the power was never used, the pendant still warped the bloodline, and Evette was born with magical powers. She discovered her first power in a very early age, however, the ability to see magic wasn't particularly useful since all that is magical is the old pendant, and all of Evette's expressions of its marvelous hue were regarded as merely her childish affection towards the item. Everything remained ordinary for Evette until the age of 8, when her family received a small cache of trinkets that was presumably part of someone's estate. Among them, Evette found more things that glowed like her pendant. Shortly afterwards, Evette's family was visited by a magus wanting to buy the cache, and Evette's fascination towards the magical ones within caught his attention. Not being put off by his Gift, Evette cooperated with the magus for some investigations and her power was quickly identified. Suprised by such talent, the magus proposed Evette's family to use her talent to find anything magical in the mundane trade and sell to magi. Also found by the magus was Evette's pendant. Intrigued by its hidden power, the magus offered to buy it with a handsome amount of money, and Evette's family agreed. Evette's family became quite successful selling found magical items to magi with the help of the money and Evette's power and Evette received extensive education as a merchant. At the age of 15, Evette's family retired and she continued the trade while travelling around. She met more magi and people related to them, and with the help of them, discovered more magical powers within her self. Fascinated by magic, Evette learnt of the role of Venditor of House Verditius which could be her entry to this mythical world. And finally in the summer of 1220, she heard of a newly setup covenant in Barcelona and set off for her first great adventure.
@@ -82,5 +84,24 @@ Life:
     Year 1205-1219:
         Later life (15 yrs)
     Year 1220:
-        Summer: Entered the service of Anulius as a Venditor, 2xp in Folk Ken.
-        Autumn: Traveling around, 2xp in Folk Ken
+        Winter: Entered the service of Anulius as a Venditor, 2exp on Folk Ken.
+        Spring: Traveling around Provence, 7exp on Provence Lore.
+        Summer: Traveling around Catalonia, 7exp on Catalonia Lore.
+        Autumn: Traveling around Lombardy, 7exp on Lombardy Lore.
+    Year 1221:
+        Winter: Rest in Marseille, 2exp on Folk Ken.
+        Spring: Traveling around Provence, 7exp on Provence Lore.
+        Summer: Traveling around Catalonia, 7exp on Catalonia Lore.
+        Autumn: Traveling around Lombardy, 7exp on Lombardy Lore.
+    Year 1222:
+        Winter: Rest in Marseille, 2exp on Folk Ken.
+        Spring: Traveling around Provence, 7exp on Provence Lore.
+        Summer: Traveling around Catalonia, 7exp on Catalonia Lore.
+        Autumn: Traveling around Lombardy, 7exp on Lombardy Lore.
+    Year 1223:
+        Winter: Rest in Marseille, 2exp on Folk Ken.
+        Spring: Traveling around Provence, 7exp on Provence Lore.
+        Summer: Traveling around Catalonia, 7exp on Catalonia Lore.
+        Autumn: Traveling around Lombardy, 7exp on Lombardy Lore.
+    Year 1224:
+        Winter: Rest in Marseille, 2exp on Folk Ken.
