@@ -1,13 +1,13 @@
 Garrulus ex Bonisagus
 
 Size: 0
-Age: 29
-Apparent age: 29
+Age: 34
+Apparent age: 34
 Decrepitude: 0
-Warping Score: 3 (8)
+Warping Score: 5 (13)
 Reputations: None
 Encumbrance: 0
-Confidence Score: 1
+Confidence Score: 2
 Confidence Points: 2
 
 Characteristics:
@@ -43,15 +43,16 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 9 (8)
+    Magic Theory (Vim): 9 (12)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
+    Parma Metaphysica (Magic): 6
 
 Arts:
     Cr: 1
     In: 1
-    Mu: 0
-    Pe: 16 (2)
+    Mu: 1
+    Pe: 18 (7)
     Re: 1
     An: 0
     Aq: 0
@@ -60,14 +61,18 @@ Arts:
     He: 0
     Ig: 0
     Im: 0
-    Me: 0
+    Me: 1
     Te: 0
-    Vi: 16 (2)
+    Vi: 18 (7)
 
 Sigil:
     Three stars with silvery light.
 
 Equipment:
+    Wand of Magical Annihilation (1 uses)
+    Wand of Magical Annihilation (3 uses)
+    Wand of Infernal Annihilation (3 uses)
+    Wand of Divine Annihilation (4 uses)
 
 Soak: +3
 
@@ -80,6 +85,10 @@ Spells:
     Unravelling the Fabric of Vim (PeVi 50)
     Wind of Mundane Silence (PeVi 40)
     Blanking the Light of Magic (PeVi 25)
+    See the Paths Through the Mentem Void (InMe 20)
+    Break the Magical Core (PeVi 30)
+    Clean Up the Spell (PeVi 30)
+    Refuse the Hermetic Training (PeVi 30)
 
 Description:
     Garrulus is a man with a small frame and a big heart who can't be stopped from talking about magic research. Born in a small and old covenant in the Alps with a blatant Gift, he was raised up to become a magus without being taught anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Leaving the only place he knew, Garrulus was taken to an alien place with unfamiliar people. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place where he is the master.
@@ -101,22 +110,49 @@ Life:
         Winter: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Spring: Study Tractatus on Magic Theory, 17exp on Magic Theory.
         Summer: Arcane Discovery, Experiment on Wand of Aquam Null, +7 experiment bonus, Disaster, Complete failure, Special or story event, Side effect, Discovery (+1), 1 Warping Point, 2exp on Pe, 2exp on Vi.
-        Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Stabilization on Wand of Aquam Null, 15 Breakthrough Points towards Parma Metaphysica, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
     Year 1222:
         Winter: Arcane Discovery, Experiment on Wand of Auram Null, +8 experiment bonus, Modified effect (restricted), Discovery (-1), 2exp on Pe, 2exp on Vi.
-        Spring: Arcane Discovery, Stabilization on Wand of Auram Null, 15 Breakthrough Points, 5 Warping Points, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Stabilization on Wand of Auram Null, 15 Breakthrough Points towards Parma Metaphysica, 5 Warping Points, -1 Confidence Point, Twilight avoided, 2exp on Pe, 2exp on Vi.
         Summer: Arcane Discovery, Experiment on Wand of Ignum Null, +4 experiment bonus, Discovery (+0), 2exp on Pe, 2exp on Vi.
         Autumn: Wand of Auram Null and Wand of Ignum Null sale for 2 Vim Vis.
-                Arcane Discovery, Stabilization on Wand of Ignum Null, 15 Breakthrough Points, 10 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+                Arcane Discovery, Stabilization on Wand of Ignum Null, 15 Breakthrough Points towards Parma Metaphysica, 10 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
     Year 1223:
         Winter: Investigate Goblet of Vis, Lab Total 50 -> Effect level 44, Lab Total 44 -> nothing, 1exp on In, 2exp on Magic Theory.
         Spring: Arcane Discovery, Experiment on Wand of Terram Null, +1 experiment bonus, Special (Blanking the Light of Magic), Discovery (+1), 2exp on Pe, 2exp on Vi.
         Summer: Wand of Terram Null sale for 1 Vim Vis.
                 Integration of the Book of Ops, 1 Insight (MuMe 20), 3exp on Magic Theory.
-        Autumn: Integration of the Osiris Temple Crypt Mural, 1 Insight (InMe 20), 3exp on Magic Theory.
+        Autumn: Integration of Osiris Temple Crypt Mural, 1 Insight (InMe 20), 3exp on Magic Theory.
     Year 1224:
         Winter: Arcane Discovery, Stabilization on Wand of Terram Null, No benefit, 8 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
-        Spring: Arcane Discovery, Stabilization on Wand of Terram Null, Discovery, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Assistance, Creating See the Paths Through the Mentem Void (InMe 20) from Insight from Osiris Temple Crypt Mural, 4 Breakthrough Points towards Magic Realm Magic, 1exp on Me, 2exp on Magic Theory.
+        Summer: Assistance, Creating Open the True Mind (MuMe 20) from Insight from the Book of Ops, 4 Breakthrough Points towards Magic Realm Magic, 1exp on Mu, 2exp on Magic Theory.
+        Autumn: Arcane Discovery, Stabilization on Wand of Terram Null, 15 Breakthrough Points towards Parma Metaphysica, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+    Year 1225:
+        Winter: Arcane Discovery, Experiment on Break the Magical Core, +6 experiment bonus, Side effect, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Experiment on Break the Magical Core, +9 experiment bonus, Side effect, Modified effect, Discovery (-1), 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Stabilization on Break the Magical Core, 6 Breakthrough Points towards Parma Metaphysica, 2 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Experiment on Wand of Magical Annihilation, +1 experiment bonus, No benefit, 2exp on Pe, 2exp on Vi.
+    Year 1226:
+        Winter: Arcane Discovery, Experiment on Wand of Magical Annihilation, +5 experiment bonus, Side effect, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Experiment on Wand of Magical Annihilation, +7 experiment bonus, No benefit, Discovery (+0), 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Stabilization on Wand of Magical Annihilation, 10 Breakthrough Points towards Parma Metaphysica, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Experiment on Wand of Faerie Annihilation, +7 experiment bonus, No benefit, Complete failure, Special, Discovery (-2), 2exp on Pe, 2exp on Vi.
+    Year 1227:
+        Winter: Arcane Discovery, Stabilization on Wand of Faerie Annihilation, 10 Breakthrough Points towards Parma Metaphysica, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Experiment on Wand of Infernal Annihilation, +5 experiment bonus, Special (Clean Up the Spell), Discovery (+1), 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Stabilization on Wand of Infernal Annihilation, 10 Breakthrough Points towards Parma Metaphysica, 4 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Experiment on Wand of Divine Annihilation, +8 experiment bonus, Complete failure, 2exp on Pe, 2exp on Vi.
+    Year 1228:
+        Winter: Arcane Discovery, Experiment on Wand of Divine Annihilation, +9 experiment bonus, Complete failure, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Experiment on Wand of Divine Annihilation, +10 experiment bonus, Special (Refuse the Hermetic Training), Discovery (+1), 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Stabilization on Wand of Divine Annihilation, No benefit, 1 Warping Points, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Stabilization on Wand of Divine Annihilation, Complete failure, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+    Year 1229:
+        Winter: Arcane Discovery, Stabilization on Wand of Divine Annihilation, Complete failure, 6 Warping Points, Twilight avoided, -1 Confidence Point, 2exp on Pe, 2exp on Vi.
+        Spring: Arcane Discovery, Stabilization on Wand of Divine Annihilation, Complete failure, Botch (1), 2 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Summer: Arcane Discovery, Stabilization on Wand of Divine Annihilation, No benefit, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Autumn: Arcane Discovery, Stabilization on Wand of Divine Annihilation, 10 Breakthrough Points towards Parma Metaphysica, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi, +1 Confidence Point, +1 Confidence Score.
 
 Creations:
     Flawed Wand of Auram Null
@@ -134,7 +170,7 @@ Creations:
             Base 65, +2' Voice = 75
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
+        Lab Total at creation:
             Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 8 = 89
 
     Wand of Ignum Null
@@ -151,7 +187,7 @@ Creations:
             Base 65, +2' Voice = 75
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
+        Lab Total at creation:
             Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 4 = 85
 
     Wand of Terram Null
@@ -168,7 +204,7 @@ Creations:
             Base 65, +2' Voice = 75
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
+        Lab Total at creation:
             Pe 18 + Vi 18 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 + experiment bonus 1 = 82
 
     Blanking the Light of Magic
@@ -180,54 +216,139 @@ Creations:
         Level:
             Base 10, +1' Touch, +2' Sun = 25
 
-Planned creations:
-    Wand of (Form) Null
+    See the Paths Through the Mentem Void
         Type:
-            Charged Item
-        Description:
-            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+            Spell
         Effect:
-            PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a Hermetic (From) effect with level up to 75 + a stress die (no botch).
-        Trigger:
-            Trigger Word.
+            InMe, R: Per, D: Conc, T: Vision
+            Allows the caster to recognize the level of all boundaries or vestiges he can see that are associated with Mentem, and to pass through any of them into the Twilight Void.
         Level:
-            Base 65, +2' Voice = 75
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 = 83
+            Base 3, +1' Conc, +4' Vision = 20
 
-    Cancel the (Realm) Light
+    Open the True Mind
+        Type:
+            Spell
+        Effect:
+            MuMe, R: Touch, D: Diam, T: Ind
+            Associate target with Mentem Magical Might, so that it can affect and be affected by Mentem Magic Realm.
+            This includes casting other Mentem Magic Realm spells, traveling through boundaries or vestiges associated with Mentem, and interacting while in the Mentem Twilight Void.
+        Level:
+            Base 10, +1' Touch, +1' Diam = 20
+
+    Break the Magical Core
         Type:
             Spell
         Effect:
             PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a supernatural effect of (Realm) Realm with level up to (45 + a stress die (no botch)) / 2.
+            Reduce target's Magic Might Score by 30.
+            When Might Score is reduced by this spell, silvery smoke erupts from the target.
         Level:
-            Base 25, +2' Voice = 35
-        Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + Inventive Genius 3 + S.S.B. 8 = 66
+            Base 20, +2' Voice = 30
+        Lab Total at creation:
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + Inventive Genius 6 + experiment bonus 9 = 70
 
-    Wand of (Realm) Null
+    Wand of Magical Annihilation
         Type:
             Charged Item
         Description:
             A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
         Effect:
             PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a supernatural effect of (Realm) Realm with level up to (85 + a stress die (no botch)) / 2.
+            Destroy up to 50 points of Magic Might Score, must first penetrate Magic Resistance.
+        Penetration:
+            50
         Trigger:
             Trigger Word.
         Level:
-            Base 65, +2' Voice = 75
+            Base 40, +2' Voice = 50, +25 Penetration = 75
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 7 + Inventive Genius 6 = 80
+        Lab Total at creation:
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 6 + Inventive Genius 6 = 79
+
+    Wand of Infernal Annihilation
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Destroy up to 50 points of Magic Might Score, must first penetrate Magic Resistance.
+        Penetration:
+            50
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 40, +2' Voice = 50, +25 Penetration = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total at creation:
+            Pe 20 + Vi 20 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 6 + Inventive Genius 6 + experiment bonus 5 = 86
+
+    Clean Up the Spell
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Completely remove a spell trace.
+        Level:
+            Base 20, +2' Voice, = 30
+
+    Wand of Divine Annihilation
+        Type:
+            Charged Item
+        Description:
+            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Destroy up to 50 points of Divine Might Score, must first penetrate Magic Resistance.
+        Penetration:
+            50
+        Trigger:
+            Trigger Word.
+        Level:
+            Base 40, +2' Voice = 50, +25 Penetration = 75
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
+        Lab Total at creation:
+            Pe 20 + Vi 20 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 6 + Inventive Genius 6 + experiment bonus 10 = 91
+
+    Refuse the Hermetic Training
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Per, D: Sun, T: Ind
+            Reduce the caster's casting total for Hermetic magic by 30.
+        Level:
+            Base 20, +2' Sun, = 30
 
     Parma Metaphysica
         Type:
             Arcane Ability
         Description:
             Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Metaphysica, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained over a period of time, they are not reduced unless Parma Metaphysica is active for more than half of that time. Parma Metaphysica itself doesn't cause Warping. An active Parma Metaphysica has an effective spell level equal to five times its score. One can only protect oneself with Parma Metaphysica. Only an individual with The Gift can learn Parma Metaphysica. Specialties: protection from one supernatural Realm.
+
+Planned Creations:
+    Arcane Sphere
+        Type:
+            New Spell Target
+        Breakthrough Points:
+            ~30
+        Description:
+            To cast a spell with Arcane Sphere Target, a single individual within Range must be selected as the subject, and every valid target within 1 pace of the subject will be affected by the spell effect. The spell must first penetrate the Magic Resistance of the subject to have any effect, even if the subject will not be affected by the spell itself. Arcane Sphere is a container Target, and can be either static or dynamic. Like other container Targets, each additional magnitude added for size increases the radius of the "sphere" by a factor of 2. For dynamic Arcane Sphere, the "sphere" will keep centered on the subject and move alongside it, which can cause targets to move inside or outside the container. If the subject is damaged or changed, and thus can't be considered an individual, the spell ends. This adds 2 magnitudes to the guideline.
+
+    Vim Unification
+        Type:
+            Spell Guidelines
+        Breakthrough Points:
+            ~100
+        Description:
+            With these knowledges, a magus can invent Vim effects that affect all four realms at the same time. For example, an InVi effect that can detect Might of all realms, a PeVi effect that can dispel supernatural effects of any realm, or a ReVi effect that can ward against all supernatural beings.
+
+    Vis Transmutation
+        Type:
+            Supernatural Ability
+        Breakthrough Points:
+            ~60
+        Description:
+            With this ability, a Gifted person can transform Vim Vis into Vis of another Art. The process takes one season, and requires a Lab for Hermetic Magi or similar setup for other traditions. To perform this process, a pawn of Vis of the desired Art is required as "seed", and a number of pawns of Vim Vis up to the score of this ability can be transformed to the Art of the "seed". For each pawn of Vim Vis transformed, another pawn of Vim Vis is expended in the process, so the end result is two pawns of Vim Vis for one pawn of desired Vis. The "seed" will not be affected in any way by this process, and any special properties of it will not have any effect over the result. The normal limit over the number of pawns of Vis one can use in a single season also applies to this process. This means that the number of pawns a Hermetic Magus can transform in one season can't be more than his Magic Theory score. Specialties: transforming into a specific Art.
