@@ -43,14 +43,14 @@ Abilities:
     Order of Hermes Lore (Bonisagus): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Magic Theory (Vim): 9 (8)
+    Magic Theory (Vim): 9 (12)
     Concentration (Twilight avoidance): 4
     Parma Magica (Vim): 1
 
 Arts:
     Cr: 1
     In: 1
-    Mu: 0
+    Mu: 1
     Pe: 16 (2)
     Re: 1
     An: 0
@@ -60,7 +60,7 @@ Arts:
     He: 0
     Ig: 0
     Im: 0
-    Me: 0
+    Me: 1
     Te: 0
     Vi: 16 (2)
 
@@ -80,6 +80,7 @@ Spells:
     Unravelling the Fabric of Vim (PeVi 50)
     Wind of Mundane Silence (PeVi 40)
     Blanking the Light of Magic (PeVi 25)
+    See the Paths Through the Mentem Void (InMe 20)
 
 Description:
     Garrulus is a man with a small frame and a big heart who can't be stopped from talking about magic research. Born in a small and old covenant in the Alps with a blatant Gift, he was raised up to become a magus without being taught anything unrelated. Everything went well until the ninth year into his apprenticeship, when a Bonisagus Maga came to visit and took Garrulus as her own. Leaving the only place he knew, Garrulus was taken to an alien place with unfamiliar people. Although he finished his apprenticeship with remarkable result, Garrulus never felt at home, and left to find a new place where he is the master.
@@ -113,10 +114,12 @@ Life:
         Spring: Arcane Discovery, Experiment on Wand of Terram Null, +1 experiment bonus, Special (Blanking the Light of Magic), Discovery (+1), 2exp on Pe, 2exp on Vi.
         Summer: Wand of Terram Null sale for 1 Vim Vis.
                 Integration of the Book of Ops, 1 Insight (MuMe 20), 3exp on Magic Theory.
-        Autumn: Integration of the Osiris Temple Crypt Mural, 1 Insight (InMe 20), 3exp on Magic Theory.
+        Autumn: Integration of Osiris Temple Crypt Mural, 1 Insight (InMe 20), 3exp on Magic Theory.
     Year 1224:
         Winter: Arcane Discovery, Stabilization on Wand of Terram Null, No benefit, 8 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
-        Spring: Arcane Discovery, Stabilization on Wand of Terram Null, Discovery, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
+        Spring: Assistance, Creating See the Paths Through the Mentem Void (InMe 20) from Insight from Osiris Temple Crypt Mural, 1exp on Me, 2exp on Magic Theory.
+        Summer: Assistance, Creating Open the True Mind (MuMe 20) from Insight from the Book of Ops, 1exp on Mu, 2exp on Magic Theory.
+        Autumn: Arcane Discovery, Stabilization on Wand of Terram Null, 15 Breakthrough Points, 7 Warping Points, Twilight avoided, 2exp on Pe, 2exp on Vi.
 
 Creations:
     Flawed Wand of Auram Null
@@ -180,51 +183,55 @@ Creations:
         Level:
             Base 10, +1' Touch, +2' Sun = 25
 
-Planned creations:
-    Wand of (Form) Null
+    See the Paths Through the Mentem Void
         Type:
-            Charged Item
-        Description:
-            A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
+            Spell
         Effect:
-            PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a Hermetic (From) effect with level up to 75 + a stress die (no botch).
-        Trigger:
-            Trigger Word.
+            InMe, R: Per, D: Conc, T: Vision
+            Allows the caster to recognize the level of all boundaries or vestiges he can see that are associated with Mentem, and to pass through any of them into the Twilight Void.
         Level:
-            Base 65, +2' Voice = 75
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
-        Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 10 + Inventive Genius 6 = 83
+            Base 3, +1' Conc, +4' Vision = 20
 
-    Cancel the (Realm) Light
+    Open the True Mind
+        Type:
+            Spell
+        Effect:
+            MuMe, R: Touch, D: Diam, T: Ind
+            Associate target with Mentem Magical Might, so that it can affect and be affected by Mentem Magic Realm.
+            This includes casting other Mentem Magic Realm spells, traveling through boundaries or vestiges associated with Mentem, and interacting while in the Mentem Twilight Void.
+        Level:
+            Base 10, +1' Touch, +1' Diam = 20
+
+Planned creations:
+    Break the (Realm) Core
         Type:
             Spell
         Effect:
             PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a supernatural effect of (Realm) Realm with level up to (45 + a stress die (no botch)) / 2.
+            Reduce target's (Realm) Might Score by 25.
         Level:
-            Base 25, +2' Voice = 35
+            Base 15, +2' Voice = 25
         Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + Inventive Genius 3 + S.S.B. 8 = 66
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + Inventive Genius 6 = 61
 
-    Wand of (Realm) Null
+    Wand of (Realm) Annihilation
         Type:
             Charged Item
         Description:
             A short elder wood wand with a red gold tip, a polished basalt orb at the end, and runes inscribed around.
         Effect:
             PeVi, R: Voice, D: Mom, T: Ind
-            Dispel a supernatural effect of (Realm) Realm with level up to (85 + a stress die (no botch)) / 2.
+            Destroy up to 50 points of (Realm) Might Score, must first penetrate Magic Resistance.
+        Penetration:
+            50
         Trigger:
             Trigger Word.
         Level:
-            Base 65, +2' Voice = 75
+            Base 40, +2' Voice = 50, +25 Penetration = 75
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Wand (+4 destroy things at a distance)
         Lab Total Base:
-            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 7 + Inventive Genius 6 = 80
+            Pe 19 + Vi 19 + Int 5 + Magic Theory 12 + S.M.B. 12 + S.S.B. 5 + Inventive Genius 6 = 78
 
     Parma Metaphysica
         Type:
