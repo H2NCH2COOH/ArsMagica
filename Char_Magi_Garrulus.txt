@@ -327,3 +327,16 @@ Creations:
             Arcane Ability
         Description:
             Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Metaphysica, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained over a period of time, they are not reduced unless Parma Metaphysica is active for more than half of that time. Parma Metaphysica itself doesn't cause Warping. An active Parma Metaphysica has an effective spell level equal to five times its score. One can only protect oneself with Parma Metaphysica. Only an individual with The Gift can learn Parma Metaphysica. Specialties: protection from one supernatural Realm.
+
+Planned Creations:
+    Arcane Sphere
+        Type:
+            Minor Hermetic Virtual
+        Description:
+            This virtual provides a new spell Target: Arcane Sphere. To cast a spell with Arcane Sphere Target, a single individual within Range must be selected as the subject, and every valid target within 1 pace of the subject will be affected by the spell effect. The spell must first penetrate the Magic Resistance of the subject to have any effect, even if the subject will not be affected by the spell itself. Arcane Sphere is a container Target, and can be either static or dynamic. Like other container Targets, each additional magnitude added for size increases the radius of the "sphere" by a factor of 2. For dynamic Arcane Sphere, the "sphere" will keep centered on the subject and move alongside it, which can cause targets to move inside or outside the container. If the subject is damaged or changed, and thus can't be considered an individual, the spell ends. This adds 2 magnitudes to the guideline.
+
+    Vis Seeding
+        Type:
+            Supernatural Ability
+        Description:
+            With this ability, a Gifted person can transform Vim Vis into Vis of another Art. The process takes one season, and requires a Lab for Hermetic Magi or similar setup for other traditions. To perform this process, a pawn of Vis of the desired Art is required as "seed", and a number of pawns of Vim Vis up to the score of this ability can be transformed to the Art of the "seed". For each pawn of Vim Vis transformed, another pawn of Vim Vis is expended in the process, so the end result is two pawns of Vim Vis for one pawn of desired Vis. The "seed" will not be affected in any way by this process, and any special properties of it will not have any effect over the result. The normal limit over the number of pawns of Vis one can use in a single season also applies to this process. This means that the number of pawns a Hermetic Magus can transform in one season can't be more than his Magic Theory score. Specialties: transforming into a specific Art.
