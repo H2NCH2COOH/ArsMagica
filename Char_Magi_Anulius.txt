@@ -445,6 +445,67 @@ Planned Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
+    Spell Ring of Lifting Diviner's Chores
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic scrying effects that requires concentration up to level 50 within the circle.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 40, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+
+    Ring of Spying
+        Type:
+            Invested item
+        Description:
+            A polished granite ring with a clear rock crystal held together by gold banding.
+        Effect 1:
+            Effect:
+                Mu(In)Te(Im), R: Touch, D: Conc, T: Ind
+                Grant an item the capability to see and hear.
+            Trigger:
+                Command word.
+            Frequency:
+                2 uses per day.
+            Level:
+                Base 3, +1' Touch, +1' Conc, +2' metal = 15, +1 Frequency = 16
+            Shape and Material Bonuses:
+                Granite (+3 Terram), Rock Crystal (+5 clairvoyance)
+        Effect 2:
+            Effect:
+                InTe, R: Arc, D: Conc, T: Ind
+                Sense what an item is seeing and hearing through effect 1.
+            Trigger:
+                Command word.
+            Frequency:
+                2 uses per day.
+            Level:
+                Base 20, +4' Arc, +1' Conc = 45, +1 Frequency = 46
+            Shape and Material Bonuses:
+                Granite (+3 Terram), Rock Crystal (+5 clairvoyance)
+        Effect 3:
+            Effect:
+                CrMe, R: Touch, D: Mom, T: Ind
+                Send the visual and auditory information this item is currently sensing through effect 2 into the target's mind.
+            Trigger:
+                Touching the ring with both thumb and index finger.
+            Frequency:
+                Unlimited uses per day.
+            Level:
+                Base 5, +1' Touch = 10, +10 Frequency = 20
+            Shape and Material Bonuses:
+                Rock Crystal (+5 clairvoyance)
+        Capacity:
+            9/10
+        Vis cost:
+            (10 - Craft Jewelry) Vi + 2 Mu/Te + 5 In/Te + 2 Cr/Me
+
     Ring of the Arcane Gate
         Type:
             Invested item
