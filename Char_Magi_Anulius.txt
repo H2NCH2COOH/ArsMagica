@@ -48,8 +48,8 @@ Abilities:
     Finesse (Magical craft): 1
     Artes Liberales (Ritual magic): 1
     Philosophiae (Verditius magic): 3
-    Craft Jewelry (Ring): 7 (28)
-    Magic Theory (Enchanting items): 7 (28)
+    Craft Jewelry (Ring): 7 (30)
+    Magic Theory (Enchanting items): 7 (30)
     Parma Magica (Vim): 1
 
 Arts:
@@ -66,7 +66,7 @@ Arts:
     Ig: 0
     Im: 2
     Me: 0
-    Te: 2
+    Te: 6 (3)
     Vi: 5
 
 Sigil:
@@ -85,6 +85,7 @@ Equipments:
     Spell Ring of Wizard's Solitary * 1
     Spell Ring of Arcane Tunnel * 2
     Spell Ring of Arcane Connection * 1
+    Spell Ring of Lifting Diviner's Chores * 2
 
 Soak: +3
 
@@ -137,6 +138,8 @@ Life:
     Year 1224:
         Winter: Build 2 Spell Ring of Arcane Tunnel, 2exp on Craft Jewelry, 2exp on Magic Theory.
         Spring: Build 1 Spell Ring of Arcane Connection, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Summer: Build 2 Spell Ring of Lifting Diviner's Chores, 2exp on Craft Jewelry, 2exp on Magic Theory.
+        Autumn: Study from summa, 21exp on Te.
 
 Creations:
     Collar of Levitation
@@ -176,7 +179,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 3 + experimentation 10 (side effect) = 66
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + experimentation 10 (side effect) = 66
 
     Spell Ring of Lifting Wizard's Chores
         Type:
@@ -193,7 +196,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 3 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 65
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 65
 
     Ring of Dart Master
         Type:
@@ -212,7 +215,7 @@ Creations:
         Shape and Material Bonuses:
             Magnet (+4 Rego Terram), Bronze (+3 Terram), Mercury (+3 Terram)
         Lab total at creation:
-            Re 7 + Te 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 6 + Aura 3 + experimentation 9 (special) + S.S.B. 2 = 62
+            Re 7 + Te 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + experimentation 9 (special) + S.S.B. 2 = 62
         Vis cost:
             3 Te
 
@@ -233,7 +236,7 @@ Creations:
         Shape and Material Bonuses:
             Opal (+2 images), Ring (+2 constant effect)
         Lab total at creation:
-            Mu 7 + Im 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 4 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 46
+            Mu 7 + Im 0 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 46
         Vis cost:
             2 Im
 
@@ -254,7 +257,7 @@ Creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Mercury (+3 Terram), Silver (+1 Terram)
         Lab total at creation:
-            Re 7 + Te 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 49
+            Re 7 + Te 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 49
         Vis cost:
             2 Te
 
@@ -275,7 +278,7 @@ Creations:
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Bronze (+3 Terram), Granite (+3 Terram), Mercury (+3 Terram), Silver (+1 Terram)
         Lab total at creation:
-            Cr/Mu 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 50
+            Cr/Mu 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 50
         Vis cost:
             3 Te
 
@@ -296,7 +299,7 @@ Creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
         Lab total at creation:
-            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 8 + Philosophiae 2 + Inventive Genius 6 + Aura 3 + S.S.B. 2 + experimentation 11 (modified effect) = 66
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + S.S.B. 2 + experimentation 11 (modified effect) = 66
         Vis cost:
             3 Te
 
@@ -317,7 +320,7 @@ Creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
         Lab total at creation:
-            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 8 + Philosophiae 2 + Inventive Genius 3 + Aura 3 + S.S.B. 2 + past experimentation 10 = 62
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 + S.S.B. 2 + past experimentation 10 = 62
         Vis cost:
             3 Te
 
@@ -336,7 +339,7 @@ Creations:
         Shape and Material Bonuses:
             Cinnamon (+4 Imaginem), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Silver (+2 Intellego), Ring (+2 constant effect)
         Lab total at creation:
-            In/Cr 7 + Im 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 49
+            In/Cr 7 + Im 1 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 49
 
     Spell Ring of Wizard's Privacy
         Type:
@@ -353,7 +356,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 53
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 53
 
     Spell Ring of Wizard's Solitary
         Type:
@@ -370,7 +373,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 3 + Aura 3 = 53
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 53
 
     Spell Ring of Arcane Tunnel
         Type:
@@ -390,7 +393,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 7 + Philosophiae 3 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 6 (side effect) = 66
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 6 (side effect) = 66
 
     Spell Ring of Arcane Connection
         Type:
@@ -411,6 +414,23 @@ Creations:
             Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim)
         Lab total at creation:
             Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 1 (side effect) = 61
+
+    Spell Ring of Lifting Diviner's Chores
+        Type:
+            Charged item
+        Description:
+            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
+        Effect:
+            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
+            Sustain all Hermetic scrying effects that requires concentration up to level 50 within the circle.
+        Trigger:
+            Draw/trace a circle with the glass orb while holding the ring.
+        Level:
+            Base 40, +1' Touch, +2' Ring = 45
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
+        Lab total at creation:
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 53
 
 Planned Creations:
     Spell Ring of Shortcut
@@ -437,26 +457,11 @@ Planned Creations:
             ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
             All creatures with Infernal Might less than or equal to 30 are unable to enter the circle or harm those within it.
         Penetration:
-            40
+            30
         Trigger:
             Draw/trace a circle with the glass orb while holding the ring.
         Level:
-            Base 15, +1' Touch, +2' Ring = 30, +20 Penetration = 50
-        Shape and Material Bonuses:
-            Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
-
-    Spell Ring of Lifting Diviner's Chores
-        Type:
-            Charged item
-        Description:
-            A small glass orb containing a silvery liquid sitting on a magnetized iron ring.
-        Effect:
-            ReVi, R: Touch, D: Ring, T: Circle (Dynamic)
-            Sustain all Hermetic scrying effects that requires concentration up to level 50 within the circle.
-        Trigger:
-            Draw/trace a circle with the glass orb while holding the ring.
-        Level:
-            Base 40, +1' Touch, +2' Ring = 45
+            Base 15, +1' Touch, +2' Ring = 30, +15 Penetration = 45
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
 
