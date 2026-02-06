@@ -179,7 +179,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 3 + experimentation 10 (side effect) = 66
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + experimentation 10 (side effect) = 66
 
     Spell Ring of Lifting Wizard's Chores
         Type:
@@ -196,7 +196,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 6 + Aura 3 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 65
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + experimentation 5 (no extraordinary effects) + S.S.B. 4 = 65
 
     Ring of Dart Master
         Type:
@@ -299,7 +299,7 @@ Creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
         Lab total at creation:
-            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 8 + Philosophiae 2 + Inventive Genius 6 + Aura 3 + S.S.B. 2 + experimentation 11 (modified effect) = 66
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + S.S.B. 2 + experimentation 11 (modified effect) = 66
         Vis cost:
             3 Te
 
@@ -320,7 +320,7 @@ Creations:
         Shape and Material Bonuses:
             Bronze (+3 Terram), Magnet (+4 Rego Terram), Silver (+1 Terram)
         Lab total at creation:
-            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 8 + Philosophiae 2 + Inventive Genius 3 + Aura 3 + S.S.B. 2 + past experimentation 10 = 62
+            Re 7 + Te 2 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 + S.S.B. 2 + past experimentation 10 = 62
         Vis cost:
             3 Te
 
@@ -373,7 +373,7 @@ Creations:
         Shape and Material Bonuses:
             Frankincense (+3 Perdo Vim), Ink of Hermes (+3 Vim), Red gold (+1 Perdo), Ring (+2 constant effect)
         Lab total at creation:
-            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 3 + Aura 3 = 53
+            Pe 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 53
 
     Spell Ring of Arcane Tunnel
         Type:
@@ -393,7 +393,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego)
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 7 + Philosophiae 3 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 6 (side effect) = 66
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 6 + Aura 3 + S.S.B. 4 + experimentation 6 (side effect) = 66
 
     Spell Ring of Arcane Connection
         Type:
@@ -430,7 +430,7 @@ Creations:
         Shape and Material Bonuses:
             Elder Wood (+1 Vim), Rowan Wood (+1 Vim), Ink of Hermes (+3 Vim), Magnet (+2 Rego), Ring (+2 constant effect)
         Lab total at creation:
-            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 9 + Philosophiae 1 + Inventive Genius 3 + Aura 3 = 53
+            Re 7 + Vi 5 + Int 5 + Magic Theory 10 + Craft Jewelry 10 + S.M.B. 6 + Philosophiae 4 + Inventive Genius 3 + Aura 3 = 53
 
 Planned Creations:
     Spell Ring of Shortcut
