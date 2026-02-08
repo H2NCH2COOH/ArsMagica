@@ -66,29 +66,29 @@ Description:
     Mimi is a magical black cat with bright yellow eyes who likes to hide, sleep, and eating spirits.
 
 Powers:
-    0 points, Init -3, Vi, Greater, Variable
+    0 points, Init +4, Vi, Greater, Variable
     Pe(MuRe)Vi, R: Sight, D: Mom, T: Ind
-    Drain a number of points of Magic Might Score from target up to the user's Might Score - 5.
+    Drain a number of points of Magic Might Score from target up to the user's Might Score - 10.
     For each 5 points drained, gain one Confidence Point.
-    Level: Base 10, +3' Sight, +2' requisites = 35, +15 reduce cost = 50
+    Level: Base 10, +3' Sight, +2' requisites = 30, +15 reduce cost, +5 increase Init = 50
 
-    0 points, Init -4, Vi, Personal
+    0 points, Init +2, Vi, Personal
     InVi, R: Per, D: Sun, T: Vision
     See Magic Might Score of 1 or higher.
     Requires penetration of Magic Resistance first.
     Level: Base 5, +2' Sun, +4' Vision, +1' constant effect = 40, +20 reduce cost = 60
 
-    1 points, Init -1, Vi, Personal, Slow
+    1 points, Init +5, Vi, Personal, Slow
     InVi, R: Per, D: Sun, T: Smell
     Smell Vis.
     Level: Base 1, +2' Sun, +2' Smell, +1' constant effect = 10
 
-    1 points, Init -1, Im, Personal
+    2 points, Init +4, Im, Personal
     PeIm, R: Per, D: Conc, T: Ind
     Remove the ability to affect touch, smell, hearing, and sight.
     Level: Base 5, +1' Conc, +1' changing image = 15
 
-    1 points, Init -1, An, Personal
+    2 points, Init +4, An, Personal
     ReAn, R: Per, D: Mom, T: Ind
     Transport instantly up to 50 paces.
     Level: Base 15
