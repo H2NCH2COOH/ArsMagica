@@ -21,7 +21,7 @@ Characteristics:
     Qik: -2
 
 Personality Traits:
-    Proactive +3
+    Ambitious +6
     Curios +3
     Compassionate -1
 
@@ -29,7 +29,7 @@ Virtues:
     Personal Power x3, Venditor, Unaffected by The Gift, Hermetic Experience
 
 Flaws:
-    Wanderlust, Craving for Travel, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power
+    Ambitious (Major), Close Family Ties, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power
 
 Abilities:
     Occitan (Mercantile): 5
