@@ -26,7 +26,7 @@ Personality Traits:
     Compassionate -1
 
 Virtues:
-    Personal Power x3, Venditor, Unaffected by The Gift, Hermetic Experience
+    Magic Sensitivity, Personal Power x2, Venditor, Unaffected by The Gift, Hermetic Experience
 
 Flaws:
     Ambitious (Major), Close Family Ties, Magical Fascination, Warped by Magic (Susceptibility to Warping), Restricted Power, Slow Power
@@ -48,6 +48,7 @@ Abilities:
     Folk Ken (Hermetic magi): 4 (10)
     Guile (Bargain): 4
     Profession Merchant (Hermetic magi): 4
+    Magic Sensitivity (Auras): 1
 
 Soak: -2
 
@@ -59,15 +60,10 @@ Description:
     Evette was born as the only child of a local merchant family in Marseille. Ever since she was in her cradle, her mother's old pendant was with her. The pendant was passed down from mother to daughter for generations. But unbeknownst to them, the pendant contains powerful magic. Although the power was never used, the pendant still warped the bloodline, and Evette was born with magical powers. She discovered her first power in a very early age, however, the ability to see magic wasn't particularly useful since all that is magical is the old pendant, and all of Evette's expressions of its marvelous hue were regarded as merely her childish affection towards the item. Everything remained ordinary for Evette until the age of 8, when her family received a small cache of trinkets that was presumably part of someone's estate. Among them, Evette found more things that glowed like her pendant. Shortly afterwards, Evette's family was visited by a magus wanting to buy the cache, and Evette's fascination towards the magical ones within caught his attention. Not being put off by his Gift, Evette cooperated with the magus for some investigations and her power was quickly identified. Suprised by such talent, the magus proposed Evette's family to use her talent to find anything magical in the mundane trade and sell to magi. Also found by the magus was Evette's pendant. Intrigued by its hidden power, the magus offered to buy it with a handsome amount of money, and Evette's family agreed. Evette's family became quite successful selling found magical items to magi with the help of the money and Evette's power and Evette received extensive education as a merchant. At the age of 15, Evette's family retired and she continued the trade while travelling around. She met more magi and people related to them, and with the help of them, discovered more magical powers within her self. Fascinated by magic, Evette learnt of the role of Venditor of House Verditius which could be her entry to this mythical world. And finally in the summer of 1220, she heard of a newly setup covenant in Barcelona and set off for her first great adventure.
 
 Personal Power:
-    InVi, R: Per, D: Conc, T: Vision
-    Cost: 1 Fatigue
-    See active magic and its strength.
-    Level: Base 5, +1' Conc, +4' Vision = 30
-
     CrMe, R: Per, D: Conc, T: Ind
     Cost: 1 Fatigue
-    Restore a memory of an event to a fresh state, as long as a fragment of it remains. The affected memory can be no more extensive than about two minutes.
-    Level: Base 5, +1' Conc = 10
+    Restore a memory of an event to a fresh state, as long as a fragment of it remains. The affected memory can be no more extensive than about one day.
+    Level: Base 10, +1' Conc = 15
 
     ReCo, R: Per, D: Mom, T: Ind
     Cost: 1 Fatigue
