@@ -1,0 +1,423 @@
+|           Adze            |   +2    |           beautify wood structures            |           shape           |
+|           Agate           |   +3    |                      air                      |       material, gem       |
+|           Agate           |   +5    |            protection from storms             |       material, gem       |
+|           Agate           |   +7    |             protection from venom             |       material, gem       |
+|         Alabaster         |   +2    |                   forgiving                   |   material, soft stone    |
+|         Alabaster         |   +4    |                 mental acuity                 |   material, soft stone    |
+|        Alder Wood         |   +1    |                 resist decay                  |      material, wood       |
+|        Alder Wood         |   +2    |                    royalty                    |      material, wood       |
+|        Almond Wood        |   +3    |                  Creo Herbam                  |      material, wood       |
+|           Aloe            |   +3    |                  friendship                   |     material, herbal      |
+|           Amber           |   +3    |             controlling movement              |       material, gem       |
+|           Amber           |   +3    |                    Corpus                     |       material, gem       |
+|         Amethyst          |   +2    |                    hearing                    |       material, gem       |
+|         Amethyst          |   +2    |                    wealth                     |       material, gem       |
+|         Amethyst          |   +3    |                    dreams                     |       material, gem       |
+|         Amethyst          |   +3    |                 versus poison                 |       material, gem       |
+|         Amethyst          |   +4    |                  temperance                   |       material, gem       |
+|         Amethyst          |   +7    |              versus drunkenness               |       material, gem       |
+| Amulet Bearing the Sigils of Angels |   +7    |                 banish demons                 |           shape           |
+| Amulet Bearing the Sigils of Angels |   +7    |              ward against demons              |           shape           |
+|          Anchor           |   +3    |               prevent movement                |           shape           |
+|        Animal Bone        |   +4    |                harm or destroy                |          animals          |
+|        Animal Hide        |   +7    |         turn into appropriate animal          |     material, animal      |
+|        Apple Wood         |   +1    |                    Corpus                     |      material, wood       |
+|        Apple Wood         |   +1    |                   longevity                   |      material, wood       |
+|        Aquamarine         |   +3    |                     water                     |       material, gem       |
+|     Armillary Sphere      |   +5    |                celestial time                 |           shape           |
+|     Armillary Sphere      |   +5    |              display the heavens              |           shape           |
+|           Armor           |   +7    |                protect wearer                 |           shape           |
+|           Arrow           |   +2    |                    aiming                     |           shape           |
+|           Arrow           |   +3    |                   direction                   |           shape           |
+| Artifacts from Pompeii and Herculaneum |   +3    |                   volcanoes                   |    shape and material     |
+|    Ash (Burned Debris)    |   +2    |                burning things                 |         material          |
+|    Ash (Burned Debris)    |   +2    |                     Ignem                     |         material          |
+|    Ash (Burned Debris)    |   +5    |      affect things that have been burned      |         material          |
+|         Ash Wood          |   +2    |                  harm people                  |      material, wood       |
+|        Aspen Wood         |   +2    |                 cure disease                  |      material, wood       |
+|        Aspen Wood         |   +5    |                  cure fever                   |      material, wood       |
+|         Astrolabe         |   +5    |                   astrology                   |           shape           |
+|         Astrolabe         |   +5    |         measure the stars and heavens         |           shape           |
+|         Astrolabe         |   +5    |                  navigation                   |           shape           |
+|           Auger           |   +2    |                 puncture wood                 |           shape           |
+|           Auger           |   +2    |                  shape wood                   |           shape           |
+|            Axe            |   +4    |                 destroy wood                  |           shape           |
+|         Bag/Sack          |   +3    |         moving things into or out of          |           shape           |
+|         Bag/Sack          |   +5    |            trapping things within             |           shape           |
+|          Bandage          |   +4    |                healing wounds                 |           shape           |
+|          Basalt           |   +3    |                     Ignem                     |   material, hard stone    |
+|          Basalt           |   +3    |                     Perdo                     |   material, hard stone    |
+|       Basilisk Eye        |   +8    |              kill at a distance               |     material, animal      |
+|          Basket           |   +2    |                 collect items                 |           shape           |
+|          Basket           |   +3    |             create things within              |           shape           |
+|          Basket           |   +4    |               preserve contents               |           shape           |
+|          Basket           |   +5    |              create food within               |           shape           |
+|            Bed            |   +6    |            affect sleep and dreams            |           shape           |
+|        Beech Wood         |   +3    |                   knowledge                   |      material, wood       |
+|           Bell            |   +5    |                    warning                    |           shape           |
+|          Bellows          |   +4    |                  create wind                  |           shape           |
+|          Bellows          |   +5    |                strengthen fire                |           shape           |
+|      Belt or Girdle       |   +3    |                affect strength                |           shape           |
+|           Beryl           |   +3    |                     water                     |       material, gem       |
+|         Billhook          |   +2    |                    pruning                    |           shape           |
+|        Birch Wood         |   +1    |                     Creo                      |      material, wood       |
+|        Birch Wood         |   +3    |                  childbirth                   |      material, wood       |
+|      Blackthorn Wood      |   +2    |                   dark fay                    |      material, wood       |
+|      Blackthorn Wood      |   +6    |                   guardians                   |      material, wood       |
+|        Bloodstone         |   +4    |               blood and wounds                |       material, gem       |
+|           Boat            |   +3    |                    sailing                    |           shape           |
+|         Bookshelf         |   +3    |              hide things within               |           shape           |
+|         Bookshelf         |   +4    |             protect things within             |           shape           |
+|           Boots           |   +5    |                affect walking                 |           shape           |
+|            Bow            |   +5    |         destroy things at a distance          |           shape           |
+|           Brass           |   +3    |                     Ignem                     |      material, metal      |
+|           Brass           |   +3    |                     music                     |      material, metal      |
+|           Brass           |   +4    |          demons, devils, and angels           |      material, metal      |
+|          Bronze           |   +3    |                    Terram                     |      material, metal      |
+|          Bronze           |   +5    |                   darkness                    |      material, metal      |
+|       Candle, Black       |   +2    |                 summon demons                 |           shape           |
+|  Candle Made of Goat Fat  |   +3    |                 summon demons                 |    shape and material     |
+|     Cappadocian Salt      |   +6    |               purifying effects               |     material, mineral     |
+|    Carving of Behemoth    |   +3    |                  great size                   |           shape           |
+|           Cask            |   +3    |              induce drunkenness               |           shape           |
+|   Catoblepas Esophagus    |   +7    |              kill or harm humans              |     material, animal      |
+|         Cat's Eye         |   +3    |             versus malign Corpus              |       material, gem       |
+|        Cedar Wood         |   +2    |                binding spirits                |      material, wood       |
+|        Cedar Wood         |   +5    | any effect with Mentem and Herbam requisites  |      material, wood       |
+|          Chalice          |   +4    |             detect poison within              |           shape           |
+|          Chalice          |   +5    |         transform or create liquid in         |           shape           |
+|        Chalk, Blue        |   +2    |             wards against demons              |     material, mineral     |
+|        Cherry Wood        |   +4    |                   bloodshed                   |      material, wood       |
+|       Chestnut Wood       |   +3    |                    justice                    |      material, wood       |
+|       Chestnut Wood       |   +4    |                    honesty                    |      material, wood       |
+|      Chimera Tongue       |   +8    |                  create fire                  |     material, animal      |
+|         Cinnabar          |   +3    |                   long life                   |     material, mineral     |
+|         Cinnabar          |   +4    |                   language                    |     material, mineral     |
+|         Cinnabar          |   +4    |                    wealth                     |     material, mineral     |
+|         Cinnabar          |   +5    |                    dragons                    |     material, mineral     |
+|         Cinnamon          |   +2    |               destroying ghosts               |     material, herbal      |
+|         Cinnamon          |   +4    |                   Imaginem                    |     material, herbal      |
+|        Cinquefoil         |   +2    |                 making amends                 |     material, herbal      |
+|        Cinquefoil         |   +3    |               drive away demons               |     material, herbal      |
+|        Cinquefoil         |   +4    |                 resist poison                 |     material, herbal      |
+|        Clam Shell         |   +2    |                  protection                   |     material, animal      |
+|        Clear Glass        |   +4    |                 invisibility                  |     material, mineral     |
+|        Clear Glass        |   +5    |           seeing through something            |     material, mineral     |
+|          Cleaver          |   +2    |                   butchery                    |           shape           |
+|          Cleaver          |   +3    |                 Perdo Animal                  |           shape           |
+|           Cloak           |   +3    |                    flight                     |           shape           |
+|           Cloak           |   +4    |               transform wearer                |           shape           |
+|           Cloak           |   +5    |         alter/suppress wearer's image         |           shape           |
+|       Cloth Shears        |   +2    |                shaping fabrics                |           shape           |
+|           Coin            |   +4    |                 induce greed                  |           shape           |
+|           Coin            |   +4    |             wealth and mercantile             |           shape           |
+|          Collar           |   +6    |                control wearer                 |           shape           |
+|           Comb            |   +5    |                    beauty                     |           shape           |
+|           Comb            |   +7    |                  affect hair                  |           shape           |
+|         Container         |   +5    |          create or transform within           |           shape           |
+|          Copper           |   +2    |                    passion                    |      material, metal      |
+|          Copper           |   +2    |                   sex magic                   |      material, metal      |
+|          Copper           |   +3    |                   bloodshed                   |      material, metal      |
+|          Copper           |   +4    |                   deftness                    |      material, metal      |
+|          Copper           |   +4    |       effects that change its own shape       |      material, metal      |
+|        Coral, Red         |   +10   |                 versus demons                 | material, animal, mineral |
+|           Cross           |   +5    |                 banish demons                 |           shape           |
+|           Cross           |   +5    |      cause damage to Infernal creatures       |           shape           |
+|           Cross           |   +5    |            ward away supernatural             |           shape           |
+|          Crowbar          |   +2    |                 moving stone                  |           shape           |
+|           Crown           |   +2    |                    wisdom                     |           shape           |
+|           Crown           |   +3    |                control people                 |           shape           |
+|           Crown           |   +5    |            gain respect, authority            |           shape           |
+|          Crystal          |   +5    |             water-related effect              |       material, gem       |
+|       Cypress Wood        |   +3    |                  necromancy                   |      material, wood       |
+|       Cypress Wood        |   +3    |                    spirits                    |      material, wood       |
+|       Dagger/Knife        |   +2    |              precise destruction              |           shape           |
+|       Dagger/Knife        |   +3    |            betrayal, assassination            |           shape           |
+|       Dagger/Knife        |   +3    |                   poisoning                   |           shape           |
+|          Diamond          |   +5    |                 versus demons                 |       material, gem       |
+|         Dividers          |   +2    |                   measuring                   |           shape           |
+|          Dogwood          |   +5    |                    pixies                     |     material, herbal      |
+|           Door            |   +5    |                    warding                    |           shape           |
+|          Doorway          |   +5    |            magical transportation             |           shape           |
+|          Doorway          |   +7    |            affect movement through            |           shape           |
+|          Doorway          |   +7    |           magical gates and portals           |           shape           |
+|      Doum Palm Leaf       |   +3    |    controlling instincts and base emotions    |     material, herbal      |
+|           Down            |   +3    |                    silence                    |     material, animal      |
+|        Dragon Eye         |   +8    |           protection against ghosts           |     material, animal      |
+|       Dragon Heart        |   +7    |                   Intellego                   |     material, animal      |
+|       Dragon Teeth        |   +6    |                 invisibility                  |     material, animal      |
+|           Drum            |   +2    |                  cause fear                   |           shape           |
+|           Drum            |   +3    |           create storms and thunder           |           shape           |
+|           Drum            |   +5    |                   deafening                   |           shape           |
+|          Earring          |   +5    |                affect hearing                 |           shape           |
+|        Elder Wood         |   +1    |                      Vim                      |      material, wood       |
+|        Elder Wood         |   +4    |                malicious magic                |      material, wood       |
+|         Electrum          |   +3    |                   deception                   |      material, metal      |
+|         Electrum          |   +3    |                    scrying                    |      material, metal      |
+|         Electrum          |   +4    |                  Muto Terram                  |      material, metal      |
+|         Elm Wood          |   +2    |                death and decay                |      material, wood       |
+|          Emerald          |   +2    |                     calm                      |       material, gem       |
+|          Emerald          |   +4    |            incite love or passion             |       material, gem       |
+|          Emerald          |   +7    |             snakes and dragonkind             |       material, gem       |
+|            Fan            |   +4    |           banish weather phenomena            |           shape           |
+|            Fan            |   +4    |            create or control winds            |           shape           |
+|         Fig Wood          |   +3    |                   gambling                    |      material, wood       |
+|         Fig Wood          |   +3    |                   sex magic                   |      material, wood       |
+|        Fired Clay         |   +4    |         contain or protect from fire          |     material, mineral     |
+|         Fir Wood          |   +1    |               malicious faeries               |      material, wood       |
+|         Fir Wood          |   +3    |                   darkness                    |      material, wood       |
+|           Flail           |   +3    |               harvesting grain                |           shape           |
+|           Floor           |   +7    |            affect movement across             |           shape           |
+|       Frankincense        |   +3    |                    dreams                     |     material, herbal      |
+|       Frankincense        |   +3    |                   Perdo Vim                   |     material, herbal      |
+|          Garnet           |   +2    |                  navigation                   |       material, gem       |
+|          Garnet           |   +2    |           strengthen body and mind            |       material, gem       |
+|          Garnet           |   +2    |                     vigor                     |       material, gem       |
+|          Garnet           |   +3    |              bonds of commitment              |       material, gem       |
+|          Garnet           |   +4    |     cleanse a place of Infernal influence     |       material, gem       |
+|          Garnet           |   +4    |                 repel insects                 |       material, gem       |
+|           Glove           |   +4    |            affect things by touch             |           shape           |
+|           Glove           |   +4    |          manipulation at a distance           |           shape           |
+|           Gold            |   +2    |                    health                     |      material, metal      |
+|           Gold            |   +4    |                 affect wealth                 |      material, metal      |
+|           Gold            |   +4    |                 induce greed                  |      material, metal      |
+|           Gold            |   +4    |                   nobility                    |      material, metal      |
+|           Gold            |   +4    |                     peace                     |      material, metal      |
+|          Granite          |   +2    |                    wealth                     |   material, hard stone    |
+|          Granite          |   +3    |                    Terram                     |   material, hard stone    |
+|      Green Turquoise      |   +4    |                  necromancy                   |       material, gem       |
+|      Griffin Feather      |   +5    |                   strength                    |     material, animal      |
+|      Griffin Feather      |   +6    |                    flying                     |     material, animal      |
+|           Hall            |   +3    |            magical transportation             |           shape           |
+|           Hall            |   +6    |            affect movement through            |           shape           |
+|          Handsaw          |   +3    |             delicately shape wood             |           shape           |
+|            Hat            |   +4    |             affect image of self              |           shape           |
+|          Hatchet          |   +4    |                 destroy wood                  |           shape           |
+|       Hawthorn Wood       |   +3    |                     wards                     |      material, wood       |
+|        Hazel Wood         |   +1    |                 good judgment                 |      material, wood       |
+|        Hazel Wood         |   +3    |                  divination                   |      material, wood       |
+|          Hearth           |   +5    |             destroy things within             |           shape           |
+|          Hearth           |   +7    |             create fire and heat              |           shape           |
+|          Helmet           |   +4    |         affect wearer's mind/emotions         |           shape           |
+|          Helmet           |   +6    |             affect wearer's sight             |           shape           |
+|     Hippogriff Liver      |   +5    |            freedom from restraints            |     material, animal      |
+|     Hippogriff Liver      |   +6    |                    flying                     |     material, animal      |
+|        Holly Wood         |   +2    |                 inflict pain                  |      material, wood       |
+|        Holly Wood         |   +2    |                inflict wounds                 |      material, wood       |
+|       Hornbeam Wood       |   +6    |                   strength                    |      material, wood       |
+|       Hornbeam Wood       |   +6    |           Vim against hostile magic           |      material, wood       |
+|         Horseshoe         |   +2    |                    warding                    |           shape           |
+|         Horseshoe         |   +6    |            affect horse's movement            |           shape           |
+|         Hourglass         |   +3    |               increasing speed                |           shape           |
+|         Hourglass         |   +7    |               timing and alarms               |           shape           |
+|        Human Bone         |   +3    |            destroy the human mind             |     material, animal      |
+|        Human Bone         |   +4    |            destroy the human body             |     material, animal      |
+|        Human Skull        |   +10   | destroy or control ghost of particular skull  |     material, animal      |
+|        Human Skull        |   +4    |              destroy human body               |     material, animal      |
+|        Human Skull        |   +5    |              destroy human mind               |     material, animal      |
+|        Human Skull        |   +5    |           destroy or control ghosts           |     material, animal      |
+|         Hyacinth          |   +2    |                    healing                    |     material, herbal      |
+|        Hydra Teeth        |   +6    |                     Creo                      |     material, animal      |
+|        Hydra Teeth        |   +8    |                 regeneration                  |     material, animal      |
+|       Ink of Hermes       |   +3    |                      Vim                      |     material, herbal      |
+|       Ink of Hermes       |   +5    |                     books                     |     material, herbal      |
+|           Iron            |   +7    |             harm or repel faeries             |      material, metal      |
+|       Iron Shackles       |   +8    |                 bind faeries                  |    shape and material     |
+|           Ivory           |   +5    |                    healing                    |     material, animal      |
+|           Jade            |   +4    |                     Aquam                     |       material, gem       |
+|          Jasper           |   +2    |                    healing                    |       material, gem       |
+|          Jasper           |   +2    |                 versus demons                 |       material, gem       |
+|            Jet            |   +2    |                  protection                   |       material, gem       |
+|            Jet            |   +3    |                   darkness                    |       material, gem       |
+|     Jewelry/Clothing      |   +2    |                   move self                   |           shape           |
+|     Jewelry/Clothing      |   +4    |                 protect self                  |           shape           |
+|     Jewelry/Clothing      |   +4    |                transform self                 |           shape           |
+|           Lamp            |   +4    |                  create fire                  |           shape           |
+|           Lamp            |   +7    |                 produce light                 |           shape           |
+|           Lead            |   +3    |                    hatred                     |      material, metal      |
+|           Lead            |   +3    |    summoning or binding ghosts and sprints    |      material, metal      |
+|           Lead            |   +4    |                     wards                     |      material, metal      |
+|        Lemon Wood         |   +5    |                    hearing                    |      material, wood       |
+|      Leucrota Tongs       |   +6    |              mimic human voices               |     material, animal      |
+|        Lilac Wood         |   +2    |                    travel                     |      material, wood       |
+|        Linden Wood        |   +1    |                 good fortune                  |      material, wood       |
+|        Linden Wood        |   +2    |          protection against weapons           |      material, wood       |
+|       Lion's Blood        |   +2    |                  leadership                   |     material, animal      |
+|       Lion's Blood        |   +3    |                    courage                    |     material, animal      |
+|       Lion's Blood        |   +4    |          protection from wild beasts          |     material, animal      |
+|        Lion's Mane        |   +5    |           strength, courage, pride            |     material, animal      |
+|        Living Tree        | special | Triple the bonus for the type of wood (oak, ash, etc), but not for wood as such. This only applies if the whole living tree is enchanted |    shape and material     |
+|           Lyre            |   +3    |                 create sounds                 |           shape           |
+|           Lyre            |   +5    |                 affect music                  |           shape           |
+|   Magnes Stone (Female)   |   +2    |                 invisibility                  |     material, mineral     |
+|   Magnes Stone (Female)   |   +3    |                 purification                  |     material, mineral     |
+|    Magnes Stone (Male)    |   +3    |                  divination                   |     material, mineral     |
+|    Magnes Stone (Male)    |   +7    |                 control iron                  |     material, mineral     |
+|          Magnet           |   +2    |                     Rego                      |     material, mineral     |
+|          Magnet           |   +4    |                  Rego Corpus                  |     material, mineral     |
+|          Magnet           |   +4    |                  Rego Terram                  |     material, mineral     |
+|         Magnetite         |   +3    |                    Animal                     |     material, mineral     |
+|          Mallet           |   +2    |                   precision                   |           shape           |
+|         Manacles          |   +4    |                    binding                    |           shape           |
+|          Marble           |   +2    |                     cold                      |   material, hard stone    |
+|          Marble           |   +3    |                    beauty                     |   material, hard stone    |
+|          Marble           |   +5    |                     wards                     |   material, hard stone    |
+|           Mask            |   +2    |           affect wearer's breathing           |           shape           |
+|           Mask            |   +2    |             affect wearer's sight             |           shape           |
+|           Mask            |   +3    |                    hiding                     |           shape           |
+|           Mask            |   +7    |                   disguise                    |           shape           |
+|       Mason Chisel        |   +2    |                  shape stone                  |           shape           |
+|           Mast            |   +2    |          protection from temptation           |           shape           |
+|          Mercury          |   +3    |                     Aquam                     |     material, mineral     |
+|          Mercury          |   +3    |               arts and sciences               |     material, mineral     |
+|          Mercury          |   +3    |                    Terram                     |     material, mineral     |
+|          Mercury          |   +5    |                     Muto                      |     material, mineral     |
+|          Mirror           |   +3    |             summon or bind ghosts             |           shape           |
+|          Mirror           |   +5    |                 see the truth                 |           shape           |
+|          Mirror           |   +6    |                display images                 |           shape           |
+|          Mirror           |   +7    |                   illusions                   |           shape           |
+|  Myrmecoleon Exoskeleton  |   +6    |          deprivation and starvation           |     material, animal      |
+|           Myrrh           |   +3    |                    spirits                    |     material, herbal      |
+|         Necklace          |   +4    |         affect breathing and speaking         |           shape           |
+|            Net            |   +5    |                immobilization                 |           shape           |
+|         Oak Wood          |   +7    |            protection from storms             |      material, wood       |
+|            Oar            |   +4    |                affect currents                |           shape           |
+|         Obsidian          |   +5    |                   darkness                    |   material, soft stone    |
+|           Onyx            |   +4    |                   darkness                    |       material, gem       |
+|           Onyx            |   +4    |                     death                     |       material, gem       |
+|           Opal            |   +2    |                    images                     |       material, gem       |
+|           Opal            |   +2    |                  imagination                  |       material, gem       |
+|           Opal            |   +2    |                 invisibility                  |       material, gem       |
+|           Opal            |   +4    |                    memory                     |       material, gem       |
+|           Opal            |   +4    |                    travel                     |       material, gem       |
+|           Opal            |   +6    |                     eyes                      |       material, gem       |
+|     Orange Tree Wood      |   +5    |                     sight                     |      material, wood       |
+|         Palm Wood         |   +3    |                animating wood                 |      material, wood       |
+|         Panpipes          |   +3    |                affect emotions                |           shape           |
+|         Panpipes          |   +5    |               control children                |           shape           |
+|         Panpipes          |   +5    |                    revelry                    |           shape           |
+|         Panpipes          |   +6    |            affect faeries emotions            |           shape           |
+| Panther of Virtue's Hide  |   +6    |           song and melodious sounds           |     material, animal      |
+|           Pearl           |   +5    |          detect or eliminate poisons          |       material, gem       |
+| Pelican of Virtue's Beak  |   +8    |             healing and nurturing             |     material, animal      |
+|          Pepper           |   +2    |                     Perdo                     |     material, herbal      |
+|          Peridot          |   +3    |         protection against nightmares         |       material, gem       |
+|       Phoenix Ashes       |   +11   |         rejuvenation and regeneration         |     material, animal      |
+|        Phylactery         |   +5    |                protect wearer                 |           shape           |
+|           Pick            |   +4    |                 destroy stone                 |           shape           |
+|         Pine Wood         |   +1    |               friendly faeries                |      material, wood       |
+|         Pine Wood         |   +3    |                     light                     |      material, wood       |
+|        Pin Feather        |   +2    |                     Auram                     |     material, animal      |
+|        Pin Feather        |   +5    |                    flight                     |     material, animal      |
+|         Pitchfork         |   +2    |            gathering reaped grain             |           shape           |
+|         Plum Wood         |   +2    |                     blood                     |      material, wood       |
+|        Pure Honey         |   +2    |                 preservation                  |     material, animal      |
+|        Pure Honey         |   +5    |               spiritual travel                |     material, animal      |
+|          Quartz           |   +5    |                 invisibility                  |       material, gem       |
+|           Quill           |   +7    |                   scribing                    |           shape           |
+|         Rat Skull         |   +3    |                 cause disease                 |     material, animal      |
+|         Red Gold          |   +1    |                     Perdo                     |      material, metal      |
+|         Red Gold          |   +4    |                      war                      |      material, metal      |
+|  Remora of Virtue's Fins  |   +7    |         slow or halt a moving object          |     material, animal      |
+|       Rhodocrosite        |   +2    |                   memories                    |     material, mineral     |
+|       Rhodocrosite        |   +3    |                binding wounds                 |     material, mineral     |
+|       Rhodocrosite        |   +3    |                 forgetfulness                 |     material, mineral     |
+|           Ring            |   +2    |                constant effect                |           shape           |
+|       Rock Crystal        |   +3    |                    healing                    |       material, gem       |
+|       Rock Crystal        |   +3    |                      ice                      |       material, gem       |
+|       Rock Crystal        |   +4    |                    clarity                    |       material, gem       |
+|       Rock Crystal        |   +5    |                 clairvoyance                  |       material, gem       |
+|           Room            |   +4    |             create things within              |           shape           |
+|           Room            |   +6    |       affect everything within at once        |           shape           |
+|       Rope or Cord        |   +2    |                 strangulation                 |           shape           |
+|       Rope or Cord        |   +4    |             restraint or binding              |           shape           |
+|        Rowan Wood         |   +1    |                      Vim                      |      material, wood       |
+|        Rowan Wood         |   +4    |      protection against malicious magic       |      material, wood       |
+|           Ruby            |   +2    |                    courage                    |       material, gem       |
+|           Ruby            |   +3    |                 affect blood                  |       material, gem       |
+|           Ruby            |   +3    |                 battle wounds                 |       material, gem       |
+|           Ruby            |   +6    |              fire-related effect              |       material, gem       |
+|           Ruby            |   +6    |               leadership in war               |       material, gem       |
+|            Rug            |   +3    |             affect those upon it              |           shape           |
+|          Saddle           |   +4    |                 affect horse                  |           shape           |
+|          Saddle           |   +7    |                 affect riding                 |           shape           |
+|          Saffron          |   +4    |               physical strength               |     material, herbal      |
+| Salamander of Virtue's Skin |   +8    |                extinguish fire                |     material, animal      |
+|         Sapphire          |   +2    |                   knowledge                   |       material, gem       |
+|         Sapphire          |   +2    |           Perdo Vim against spirits           |       material, gem       |
+|         Sapphire          |   +2    |             versus malign Corpus              |       material, gem       |
+|         Sapphire          |   +3    |                    healing                    |       material, gem       |
+|         Sapphire          |   +3    |                reducing anger                 |       material, gem       |
+|         Sardonyx          |   +2    |             versus malign Corpus              |       material, gem       |
+|          Scales           |   +3    |           weighing goods and money            |           shape           |
+|          Scythe           |   +3    |                    reaping                    |           shape           |
+|          Scythe           |   +3    |             Year-Duration effects             |           shape           |
+|          Scythe           |   +4    |        effects expressly causing death        |           shape           |
+|         Sea Shell         |   +2    |                    the sea                    |     material, animal      |
+|         Sea Shell         |   +3    |                 sea creatures                 |     material, animal      |
+|        Serpentine         |   +3    |      versus infection and animal poison       |   material, soft stone    |
+|         Shackles          |   +6    |         restraint or magical binding          |           shape           |
+|        Sharp Blade        |   +2    |                 shape leather                 |           shape           |
+|      Shearing Shears      |   +2    |                   fleecing                    |           shape           |
+|          Shield           |   +5    |                  protection                   |           shape           |
+|           Ship            |   +5    |                    sailing                    |           shape           |
+|         Ship Sail         |   +4    |                 affect winds                  |           shape           |
+| Siberian Six-Legged Antelope Hoof |   +6    |              speed and quickness              |     material, animal      |
+|          Sickle           |   +2    |                  harvesting                   |           shape           |
+|          Silver           |   +10   |               harm lycanthropes               |      material, metal      |
+|          Silver           |   +1    |                    Terram                     |      material, metal      |
+|          Silver           |   +2    |                   Intellego                   |      material, metal      |
+|          Silver           |   +3    |                protect spirits                |      material, metal      |
+|          Silver           |   +5    |            lycanthropes in general            |      material, metal      |
+|       Small Hammer        |   +2    |                   building                    |           shape           |
+|       Snake Tongue        |   +3    |                   deception                   |     material, animal      |
+|       Snake Tongue        |   +6    |                     lying                     |     material, animal      |
+|           Snip            |   +2    |                  shape metal                  |           shape           |
+|           Spade           |   +4    |             move or destroy earth             |           shape           |
+|         Star Ruby         |   +5    |        conjure/control occult entities        |       material, gem       |
+|          Sulfur           |   +2    |            preserving or decaying             |     material, mineral     |
+|          Sulfur           |   +2    |                sowing discord                 |     material, mineral     |
+|          Sulfur           |   +3    |                binding tongues                |     material, mineral     |
+|          Sulfur           |   +4    |                    demons                     |     material, mineral     |
+|        Sun Scarab         |   +4    |                 detect magic                  |     material, animal      |
+|           Sword           |   +3    |              block single attack              |           shape           |
+|           Sword           |   +4    |         harm human and animal bodies          |           shape           |
+|          Tablet           |   +2    |                command spirits                |           shape           |
+|            Tin            |   +1    |                      law                      |      material, metal      |
+|            Tin            |   +3    |                   weakness                    |      material, metal      |
+|           Tongs           |   +2    |               controlling metal               |           shape           |
+|           Topaz           |   +4    |                  leadership                   |       material, gem       |
+|           Topaz           |   +4    |           strength, courage, pride            |       material, gem       |
+|           Topaz           |   +5    |            controlling wild beast             |       material, gem       |
+|            Toy            |   +4    |               control children                |           shape           |
+|          Trowel           |   +2    |                   building                    |           shape           |
+|        True Purple        |   +10   |                    royalty                    |     material, animal      |
+|        True Purple        |   +5    |                control people                 |     material, animal      |
+|        True Purple        |   +7    |            rulership and authority            |     material, animal      |
+|         Turquoise         |   +4    |                  necromancy                   |       material, gem       |
+|       Unicorn Horn        |   +10   |                 detect poison                 |     material, animal      |
+|       Unicorn Horn        |   +11   |                   fertility                   |     material, animal      |
+|       Unicorn Horn        |   +8    |                    healing                    |     material, animal      |
+|           Vent            |   +7    |         affect air passing through it         |           shape           |
+|      Violet Amethyst      |   +4    |            ascendancy over masses             |       material, gem       |
+|      Violet Amethyst      |   +7    |              versus drunkenness               |       material, gem       |
+|        Walnut Wood        |   +4    |                     mind                      |      material, wood       |
+|        Wand/Staff         |   +2    |                 repel things                  |           shape           |
+|        Wand/Staff         |   +3    |         project bolt or other missile         |           shape           |
+|        Wand/Staff         |   +4    |         control things at a distance          |           shape           |
+|        Wand/Staff         |   +4    |         destroy things at a distance          |           shape           |
+|         Waterskin         |   +5    |             create liquid within              |           shape           |
+|           Whip            |   +4    |         control human or animal body          |           shape           |
+|           Whip            |   +5    |            induce fear in animals             |           shape           |
+|     White Poplar Wood     |   +4    |                     mind                      |      material, wood       |
+|        Willow Wood        |   +1    |                  cure wounds                  |      material, wood       |
+|        Willow Wood        |   +4    |                 restore limb                  |      material, wood       |
+|        Wood (Dead)        |   +3    |              affect living wood               |      material, wood       |
+|        Wood (Dead)        |   +4    |               affect dead wood                |      material, wood       |
+| Wood from a Tree Struck by Lightning |   +2    |                     Auram                     |      material, wood       |
+| Wood from a Twisted Tree in a Field |   +4    |                   disfigure                   |      material, wood       |
+|     Yellow Sandalwood     |   +3    |                binding people                 |     material, herbal      |
+|         Yew Wood          |   +2    |                    corpses                    |      material, wood       |
+|         Yew Wood          |   +2    |                    visions                    |      material, wood       |
+|           Yoke            |   +4    |                control wearer                 |           shape           |
+|           Yoke            |   +5    |          enhance strength of wearer           |           shape           |
