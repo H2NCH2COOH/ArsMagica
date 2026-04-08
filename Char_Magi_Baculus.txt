@@ -1,0 +1,131 @@
+Baculus ex Verditius
+
+Size: 0
+Age: 30
+Apparent age: 30
+Decrepitude: 0
+Warping Score: 0
+Reputations: None
+Encumbrance: 0
+Confidence Score: 1
+Confidence Points: 3
+
+Characteristics:
+    Int: +3
+    Per: +2
+    Str: +1
+    Sta: +3
+    Prs: +2
+    Com:  0
+    Dex: -3
+    Qik: -3
+
+Personality Traits:
+    Proud +6
+    Optimistic +3
+    Lawful -3
+
+Virtues:
+    The Gift, Hermetic Magus, Verditius Magic
+    Affinity with Craft Woodwork, Puissant Craft Woodwork
+    Affinity with Magic Theory, Puissant Magic Theory
+    Inventive Genius, Cyclic Magic (autumn and winter)
+    Masterpiece, Secondary Insight, Book Learner, Independent Study
+
+Flaws:
+    Proud (Major), Crippled,
+    Confraternity Member (Confraternity of Himinis The Mad)
+    Ceremonial Spontaneous Magic, Consumed Casting Tools
+    Spontaneous Casting Tools
+
+Abilities:
+    Sicilian (mercantile): 5
+    Athletics (lifting): 2
+    Awareness (searching): 2
+    Folk Ken (Hermetic Magi): 2
+    Sicily Lore (mercantile): 2
+    Bargain (wood): 1
+    Craft Woodwork (wand): 7
+    Latin (Hermetic): 4
+    Artes Liberales (ritual magic): 1
+    Philosophiae (Verditius rune): 3
+    Code of Hermes (selling magic item): 1
+    Church Lore (structure): 1
+    Magic Lore (_): 0 (1)
+    Civil and Canon Law (_): 0 (1)
+    Concentration (drawing circle): 3
+    Finesse (magic craft): 3
+    Magic Theory (enchanting): 7
+    Parma Magica (Corpus): 1
+
+Arts:
+    Cr: 0
+    In: 0
+    Mu: 0
+    Pe: 5
+    Re: 5
+    An: 0
+    Aq: 0
+    Au: 0
+    Co: 0
+    He: 5
+    Ig: 0
+    Im: 0
+    Me: 0
+    Te: 0
+    Vi: 0
+
+Sigil:
+    Saw dust.
+
+Equipment:
+    The Walking Chair
+
+Soak: 3
+
+Spells:
+    Doublet of Impenetrable Silk (MuAn 15)
+    Circle of Beast Warding (ReAn 5)
+    Cloak of the Duck's Feathers (ReAq 5)
+    Twist the Living Tree (ReHe 25)
+    Stone to Falling Dust (PeTe 20)
+    The Unseen Porter (ReTe 10)
+    Scales of the Magical Weight (InVi 5)
+    Sense the Nature of Vis (InVi 5)
+    Disenchant (PeVi 20)
+    Masking the Odor of Magic (PeVi 10)
+
+Description:
+    As the first child of a ship builder family in Sicily, John was born with nothing beneath his knees. Unable to walk, he was kept at the workshop for most of his childhood. Fortunately, John grew up without other problems, and with nothing else to do, began helping in the workshop. Strapped onto a chair and moving around using two sticks, John shown much talent for woodwork, but considering his disability, he only worked inside on small items. At the age of 15, John was discovered by a Verditius maga named Spesia, and took as her apprentice. Then at the age of 30, John passed his gauntlet by enchanting the Walking Chair and earned his Hermetic name: Baculus.
+
+Life:
+    Year 1190:
+        Born
+    Year 1190-1194:
+        Early childhood (5 yrs)
+    Year 1195-1204:
+        Later life (10 yrs)
+    Year 1205-1220:
+        Apprenticeship (15 yrs)
+
+Creations:
+    The Walking Chair
+        Type:
+            Lesser Enchantment
+        Description:
+            A large wooden chair with a tall back, two sturdy arm rests, and four thick legs with iron feet on their ends. Small magnets and pieces of palm wood are embedded into the seat.
+        Effect:
+            ReHe, R: Per, D: Sun, T: Ind
+            The chair can follow the order of the man sitting on it, and walk while carrying him. It can walk on terrains, also with the same speed, as an ordinary walking man. Without further instructions, it will keep walking without any regard of safety or path finding. It can understand commands like go to a specific nearby place, follow someone, walk on the path, etc.
+        Trigger:
+            Environmental.
+        Frequency:
+            2 uses per day.
+        Level:
+            Base 10, +2' Sun, +3, environmental trigger (sunrise or sunset), +1 Frequency = 24
+        Shape and Material Bonuses:
+            Magnet (+2 Rego), Palm Wood (+3 animating wood)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Re 5 + He 5 + Int 3 + Magic Theory 10 + Craft Woodwork 9 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 48
