@@ -1,0 +1,72 @@
+Colman of Glastonbury
+
+Size: 0
+Age: 27
+Apparent age: 27
+Decrepitude: 0
+Warping Score: 0
+Reputations:
+    Kicked out from Glastonbury Abby, Ecclesiastical & Local, 2.
+Encumbrance: 0
+Confidence Score: 1
+Confidence Points: 3
+
+Characteristics:
+    Int: +5
+    Per: +3
+    Str: -1
+    Sta: -1
+    Prs: -1
+    Com:  0
+    Dex: -1
+    Qik: -1
+
+Personality Traits:
+    Driven +6
+    Pious +3
+    Stubborn +3
+
+Virtues:
+    Greater Benediction (perfect memory), Font of Knowledge, Magic Sensitivity
+    Clear Thinker, Educated, Great Int x2, Perfect Eye for Books
+
+Flaws:
+    Driven (Major), Pious (Minor), Monastic Vows, Failed Monk, Regular
+    Unbearable to Demons
+
+Abilities:
+    Artes Liberales (logic): 2
+    Athletics (running): 1
+    Awareness (searching): 1
+    Brawl (dodging): 2
+    Concentration (reading): 3
+    English (monastery): 5
+    Folk Ken (monks): 3
+    Font of Knowledge (history): 5
+    Latin (ecclesiastical): 5
+    Magic Sensitivity (aura): 3
+    Philosophiae (metaphysics): 2
+    Profession Librarian (cataloging): 2
+    Profession Scribe (copying): 5
+    Theology: Christian (history): 4
+
+Soak: -1
+
+Fatigue Levels:
+    OK, 0, -1, -3, -5, Unconscious
+
+Wound Penalties:
+    -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+
+Equipment:
+
+Description:
+    After the destruction by fire in 1184, Glastonbury Abby recruited many new members for the rebuilding effort, including adopting a number of orphans. Amongst them was Colman. Years passed, Colman was raised as a monk, and trained as a scribe, copying books for the Abby's rebuilt library. Ever since he was little, Colman showed extraordinary memory, remembering all kinds of bits and pieces, including those he was in no way able to know. Colman was immersed in an Arthurian environment for his entire life, mostly because the rebuilt Glastonbury Abby resolved heavily around the discovered tomb of King Arthur, and became very fascinated with the legends. But as he was introduced with more and more knowledge through his scribing work, he became ever more deeper entranced with "The King Who Will Return", and doubt filled his heart. Although the tomb does felt otherworldly for Colman, he refuses to accept that it holds the dead body of King Arthur. And everything the Abby is doing around it, using it to amass earthly fortunes, giving the Excalibur to a foreign King, all seemed desecration to Colman. As years passed, Colman became more and more vocal in his criticism of the Abby's actions, and in the end, resulted in his expulsion. With the involuntary freedom, Colman decided to seek the legends himself, so that he can put things to right.
+
+Life:
+    Year 1193:
+        Born
+    Year 1193-1197:
+        Early childhood (5 yrs)
+    Year 1198-1219:
+        Later life (22 yrs)
