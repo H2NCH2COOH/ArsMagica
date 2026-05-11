@@ -44,6 +44,7 @@ Abilities:
     Awareness (searching): 2
     Folk Ken (Hermetic Magi): 2
     Sicily Lore (mercantile): 2
+    Tintagel Lore (_): 0 (4)
     Bargain (wood): 1
     Craft Woodwork (wand): 7
     Latin (Hermetic): 4
@@ -107,6 +108,9 @@ Life:
         Later life (10 yrs)
     Year 1205-1220:
         Apprenticeship (15 yrs)
+    Year 1220:
+        Spring: Setup laboratory (1/2), 2exp on Tintagel Lore.
+        Summer: Setup laboratory (2/2), 2exp on Tintagel Lore.
 
 Creations:
     The Walking Chair
