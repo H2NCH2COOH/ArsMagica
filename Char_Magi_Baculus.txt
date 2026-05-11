@@ -46,7 +46,7 @@ Abilities:
     Sicily Lore (mercantile): 2
     Tintagel Lore (_): 0 (4)
     Bargain (wood): 1
-    Craft Woodwork (wand): 7
+    Craft Woodwork (wand): 7 (2)
     Latin (Hermetic): 4
     Artes Liberales (ritual magic): 1
     Philosophiae (Verditius rune): 3
@@ -56,7 +56,7 @@ Abilities:
     Civil and Canon Law (_): 0 (1)
     Concentration (drawing circle): 3
     Finesse (magic craft): 3
-    Magic Theory (enchanting): 7
+    Magic Theory (enchanting): 7 (2)
     Parma Magica (Corpus): 1
 
 Arts:
@@ -111,6 +111,7 @@ Life:
     Year 1220:
         Spring: Setup laboratory (1/2), 2exp on Tintagel Lore.
         Summer: Setup laboratory (2/2), 2exp on Tintagel Lore.
+        Autumn: Create 1 Wand of Intangible Veil of Silence and 1 Wand of Invisibility that Fades, 2exp on Craft Woodwork, 2exp on Magic Theory.
 
 Creations:
     The Walking Chair
@@ -133,3 +134,41 @@ Creations:
             +4
         Lab total at creation:
             Re 5 + He 5 + Int 3 + Magic Theory 10 + Craft Woodwork 9 + S.M.B. 10 + Inventive Genius 3 + Aura 3 = 48
+
+    Wand of Intangible Veil of Silence
+        Type:
+            Charged Item
+        Description:
+            A small wand with a red gold tip at one end, and an embedded small polished basalt at the other.
+        Effect:
+            PeIm, R: Touch, S: Ring, T: Special
+            Create a circle that destroys any sound that passes it. Anyone inside cannot hear anything outside and vice versa. The spell lasts as long as the circle remains intact.
+        Trigger:
+            Draw/trace a circle using the tip of the wand.
+        Level:
+            Base 3, +1' Touch, +2' Ring +1' Special (target based on Circle that only affects the boundary instead of everything within) = 15
+        Shape and Material Bonuses:
+            Red Gold (+1 Perdo), Basalt (+3 Perdo)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Pe 5 + Im 0 + Int 3 + Magic Theory 10 + Craft Woodwork 10 + S.M.B. 10 + Inventive Genius 3 - Aura 9 + Cyclic Magic 3 = 35
+
+    Wand of Invisibility that Fades
+        Type:
+            Charged Item
+        Description:
+            A small wand with a red gold tip at one end, and an embedded small polished basalt at the other.
+        Effect:
+            PeIm, R: Touch, S: Conc, T: Ind
+            The wielder becomes completely undetectable to normal sight, regardless of what it does, but still casts a shadow. The wand maintains concentration on this effect except at sunset or sunrise. While this effect is active, anyone who is holding the wand and aware of the effect can concentrate to end it, or help maintain it at sunset or sunrise.
+        Trigger:
+            Command phrase.
+        Level:
+            Base 4, +1' Touch, +1' Conc, +1' changing image, +5 device maintaining concentration = 20
+        Shape and Material Bonuses:
+            Red Gold (+1 Perdo), Basalt (+3 Perdo)
+        Verditius Runes:
+            +4
+        Lab total at creation:
+            Pe 5 + Im 0 + Int 3 + Magic Theory 10 + Craft Woodwork 10 + S.M.B. 10 + Inventive Genius 3 - Aura 9 + Cyclic Magic 3 = 35
