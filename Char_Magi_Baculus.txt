@@ -123,11 +123,11 @@ Creations:
             ReHe, R: Per, D: Sun, T: Ind
             The chair can follow the order of the man sitting on it, and walk while carrying him. It can walk on terrains, also with the same speed, as an ordinary walking man. Without further instructions, it will keep walking without any regard of safety or path finding. It can understand commands like go to a specific nearby place, follow someone, walk on the path, etc.
         Trigger:
-            Environmental.
+            Environmental (sunrise or sunset).
         Frequency:
             2 uses per day.
         Level:
-            Base 10, +2' Sun, +3, environmental trigger (sunrise or sunset), +1 Frequency = 24
+            Base 10, +2' Sun = 20, +3 environmental trigger, +1 Frequency = 24
         Shape and Material Bonuses:
             Magnet (+2 Rego), Palm Wood (+3 animating wood)
         Verditius Runes:
@@ -141,7 +141,7 @@ Creations:
         Description:
             A small wand with a red gold tip at one end, and an embedded small polished basalt at the other.
         Effect:
-            PeIm, R: Touch, S: Ring, T: Special
+            PeIm, R: Touch, D: Ring, T: Special
             Create a circle that destroys any sound that passes it. Anyone inside cannot hear anything outside and vice versa. The spell lasts as long as the circle remains intact.
         Trigger:
             Draw/trace a circle using the tip of the wand.
@@ -160,15 +160,88 @@ Creations:
         Description:
             A small wand with a red gold tip at one end, and an embedded small polished basalt at the other.
         Effect:
-            PeIm, R: Touch, S: Conc, T: Ind
+            PeIm, R: Touch, D: Conc, T: Ind
             The wielder becomes completely undetectable to normal sight, regardless of what it does, but still casts a shadow. The wand maintains concentration on this effect except at sunset or sunrise. While this effect is active, anyone who is holding the wand and aware of the effect can concentrate to end it, or help maintain it at sunset or sunrise.
         Trigger:
             Command phrase.
         Level:
-            Base 4, +1' Touch, +1' Conc, +1' changing image, +5 device maintaining concentration = 20
+            Base 4, +1' Touch, +1' Conc, +1' changing image = 15, +5 device maintaining concentration = 20
         Shape and Material Bonuses:
             Red Gold (+1 Perdo), Basalt (+3 Perdo)
         Verditius Runes:
             +4
         Lab total at creation:
             Pe 5 + Im 0 + Int 3 + Magic Theory 10 + Craft Woodwork 10 + S.M.B. 10 + Inventive Genius 3 - Aura 9 + Cyclic Magic 3 = 35
+
+Planned Creations:
+    Wand of Washing Whenever You Want
+        Type:
+            Lesser Enchantment
+        Description:
+            A short and thick birch wood wand whose tip forms a small claw that holds a clear piece of aquamarine.
+        Effect:
+            CrAq, R: Touch, D: Conc, T: Ind
+            Clean water flows out of the tip of the wand for as long as one concentrates. When this effect ends, any water it created disappears immediately, making it unsuitable for drinking or irrigation, but great for washing. When the effect is active, the water would carry away any filth, and when the effect ends, everything becomes dry again.
+        Trigger:
+            Command word.
+        Frequency:
+            Unlimited uses per day.
+        Level:
+            Base 4, +1' Touch, +1' Conc = 10, +10 Frequency = 20
+        Shape and Material Bonuses:
+            Aquamarine (+3 water), Birch Wood (+1 Creo)
+        Vis Cost:
+            3 Cr/Aq
+
+    Wand of Unseen Crane
+        Type:
+            Lesser Enchantment
+        Description:
+            A short and thin wooden wand with a tiny magnet embedded by a bronze socket on its tip.
+        Effect:
+            ReTe(AnAqCoHeTe), R: Voice, D: Conc, T: Ind
+            Move an inanimate object in any direction as you will. The effect can move very large objects up to size +1. The heavier the object is, the slower it moves.
+        Trigger:
+            Command word.
+        Frequency:
+            Unlimited.
+        Level:
+            Base 3, +2' Voice, +1' Conc, +1' size = 15, +10 Frequency = 25
+        Shape and Material Bonuses:
+            Bronze (+3 Terran), Magnet (+2 Rego), Wand (+4 control things at a distance)
+        Vis Cost:
+            3 Re/Te
+
+    Wand of Portable Fair Wind
+        Type:
+            Lesser Enchantment
+        Description:
+            A sturdy birch wood wand with no decoration at all, to ordinary eyes, it looks just like a small stick that is thinner at one end.
+        Effect:
+            Cr(Re)Au, R: Voice, D: Conc, T: Ind
+            Create a gale that starts 5 paces from the tip of the wand and continuing away from the wand until it dissipates naturally. This wand can only be used in environments that can naturally have such winds. As long as the effect lasts, the wind will not stop, and it will move and change direction to maintain its relation with the wand. Mounting the wand on a ship can keep the sail drawn at all times regardless the direction of the ship, unless against a stronger wind. The wand maintains concentration on the effect.
+        Trigger:
+            Command phrase.
+        Frequency:
+            1 use per day.
+        Level:
+            Base 3, +2' Voice, +1' Conc, +1' requisite = 15, +5 device maintaining concentration = 20
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Wand (+4 controlling things at a distance)
+        Vis Cost:
+            2 Cr/Au
+
+    Wand of Storing Everything in a Circle
+        Type:
+            Charged Item
+        Description:
+            A thin and short wooden wand with a silver tip and an electrum band in the middle.
+        Effect:
+            MuTe(AnAqCoHe) T: Touch, D: Ring, T: Circle (dynamic)
+            Any inanimate object fully inside the circle is reduced to one percent of its original size and weight.
+        Trigger:
+            Draw/trace a circle using the tip of the wand.
+        Level:
+            Base 4, +1' Touch, +2' Ring, +2' metal = 25
+        Shape and Material Bonuses:
+            Electrum (+4 Muto Terram), Silver (+1 Terran)
