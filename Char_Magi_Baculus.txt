@@ -1,8 +1,8 @@
 Baculus ex Verditius
 
 Size: 0
-Age: 30
-Apparent age: 30
+Age: 31
+Apparent age: 31
 Decrepitude: 0
 Warping Score: 0
 Reputations: None
@@ -46,7 +46,7 @@ Abilities:
     Sicily Lore (mercantile): 2
     Tintagel Lore (_): 0 (4)
     Bargain (wood): 1
-    Craft Woodwork (wand): 7 (2)
+    Craft Woodwork (wand): 7 (4)
     Latin (Hermetic): 4
     Artes Liberales (ritual magic): 1
     Philosophiae (Verditius rune): 3
@@ -56,7 +56,7 @@ Abilities:
     Civil and Canon Law (_): 0 (1)
     Concentration (drawing circle): 3
     Finesse (magic craft): 3
-    Magic Theory (enchanting): 7 (2)
+    Magic Theory (enchanting): 7 (4)
     Parma Magica (Corpus): 1
 
 Arts:
@@ -112,6 +112,7 @@ Life:
         Spring: Setup laboratory (1/2), 2exp on Tintagel Lore.
         Summer: Setup laboratory (2/2), 2exp on Tintagel Lore.
         Autumn: Create 1 Wand of Intangible Veil of Silence and 1 Wand of Invisibility that Fades, 2exp on Craft Woodwork, 2exp on Magic Theory.
+        Winter: Create 1 Wand of Portable Fair Wind, 2exp on Craft Woodwork, 2exp on Magic Theory.
 
 Creations:
     The Walking Chair
@@ -173,6 +174,27 @@ Creations:
         Lab total at creation:
             Pe 5 + Im 0 + Int 3 + Magic Theory 10 + Craft Woodwork 10 + S.M.B. 10 + Inventive Genius 3 - Aura 9 + Cyclic Magic 3 = 35
 
+    Wand of Portable Fair Wind
+        Type:
+            Lesser Enchantment
+        Description:
+            A sturdy birch wood wand with no decoration at all, to ordinary eyes, it looks just like a small stick that is thinner at one end.
+        Effect:
+            Cr(Re)Au, R: Voice, D: Conc, T: Ind
+            Create a gale that starts 5 paces from the tip of the wand and continuing away from the wand until it dissipates naturally. This wand can only be used in environments that can naturally have such winds. As long as the effect lasts, the wind will not stop, and it will move and change direction to maintain its relation with the wand. Mounting the wand on a ship can keep the sail drawn at all times regardless the direction of the ship, unless against a stronger wind. The wand maintains concentration on the effect.
+        Trigger:
+            Command phrase.
+        Frequency:
+            1 use per day.
+        Level:
+            Base 3, +2' Voice, +1' Conc, +1' requisite = 15, +5 device maintaining concentration = 20
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Wand (+4 controlling things at a distance)
+        Vis Cost:
+            2 Au
+        Lab total at creation:
+            Cr 0 + Au 0 + Int 3 + Magic Theory 10 + Craft Woodwork 10 + S.M.B. 10 + Inventive Genius 3 + Aura 1 + Cyclic Magic 3 = 40
+
 Planned Creations:
     Wand of Washing Whenever You Want
         Type:
@@ -211,25 +233,6 @@ Planned Creations:
             Bronze (+3 Terran), Magnet (+2 Rego), Wand (+4 control things at a distance)
         Vis Cost:
             3 Re/Te
-
-    Wand of Portable Fair Wind
-        Type:
-            Lesser Enchantment
-        Description:
-            A sturdy birch wood wand with no decoration at all, to ordinary eyes, it looks just like a small stick that is thinner at one end.
-        Effect:
-            Cr(Re)Au, R: Voice, D: Conc, T: Ind
-            Create a gale that starts 5 paces from the tip of the wand and continuing away from the wand until it dissipates naturally. This wand can only be used in environments that can naturally have such winds. As long as the effect lasts, the wind will not stop, and it will move and change direction to maintain its relation with the wand. Mounting the wand on a ship can keep the sail drawn at all times regardless the direction of the ship, unless against a stronger wind. The wand maintains concentration on the effect.
-        Trigger:
-            Command phrase.
-        Frequency:
-            1 use per day.
-        Level:
-            Base 3, +2' Voice, +1' Conc, +1' requisite = 15, +5 device maintaining concentration = 20
-        Shape and Material Bonuses:
-            Birch Wood (+1 Creo), Wand (+4 controlling things at a distance)
-        Vis Cost:
-            2 Cr/Au
 
     Wand of Storing Everything in a Circle
         Type:
