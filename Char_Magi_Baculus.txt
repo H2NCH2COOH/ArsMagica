@@ -190,6 +190,8 @@ Creations:
             Base 3, +2' Voice, +1' Conc, +1' requisite = 15, +5 device maintaining concentration = 20
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Wand (+4 controlling things at a distance)
+        Verditius Runes:
+            +4
         Vis Cost:
             2 Au
         Lab total at creation:
@@ -221,7 +223,7 @@ Planned Creations:
         Description:
             A short and thin wooden wand with a tiny magnet embedded by a bronze socket on its tip.
         Effect:
-            ReTe(AnAqCoHeTe), R: Voice, D: Conc, T: Ind
+            ReTe(AnAqCoHe), R: Voice, D: Conc, T: Ind
             Move an inanimate object in any direction as you will. The effect can move very large objects up to size +1. The heavier the object is, the slower it moves.
         Trigger:
             Command word.
@@ -230,7 +232,7 @@ Planned Creations:
         Level:
             Base 3, +2' Voice, +1' Conc, +1' size = 15, +10 Frequency = 25
         Shape and Material Bonuses:
-            Bronze (+3 Terran), Magnet (+2 Rego), Wand (+4 control things at a distance)
+            Bronze (+3 Terram), Magnet (+2 Rego), Wand (+4 control things at a distance)
         Vis Cost:
             3 Re/Te
 
@@ -247,7 +249,7 @@ Planned Creations:
         Level:
             Base 4, +1' Touch, +2' Ring, +2' metal = 25
         Shape and Material Bonuses:
-            Electrum (+4 Muto Terram), Silver (+1 Terran)
+            Electrum (+4 Muto Terram), Silver (+1 Terram)
 
     Wand of Master Smith in a Circle
         Type:
@@ -262,7 +264,7 @@ Planned Creations:
         Level:
             Base 4, +1' Touch, +2' Ring, +2' metal = 25
         Shape and Material Bonuses:
-            Electrum (+4 Muto Terram), Silver (+1 Terran)
+            Electrum (+4 Muto Terram), Silver (+1 Terram)
 
     Wand of Ionian Weather in a Circle
         Type:
