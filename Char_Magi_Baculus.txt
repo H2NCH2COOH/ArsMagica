@@ -251,6 +251,21 @@ Planned Creations:
         Shape and Material Bonuses:
             Electrum (+4 Muto Terram), Silver (+1 Terram)
 
+    Wand of Master Glassblower in a Circle
+        Type:
+            Charged Item
+        Description:
+            A short and stubby wooden wand with a clear glass bead held at the tip by a cage made of electrum and silver.
+        Effect:
+            MuTe(An) T: Touch, D: Ring, T: Circle (dynamic)
+            Any glass object fully inside the circle is turned into an equal volume of clay. When the clay is removed from the circle, it turns back to its original material but retains the new shape. A craftsman can use this to shape glass into exotic shapes, fix broken pieces, recycle old items.
+        Trigger:
+            Draw/trace a circle using the tip of the wand.
+        Level:
+            Base 3, +1' Touch, +2' Ring = 10
+        Shape and Material Bonuses:
+            Electrum (+4 Muto Terram), Silver (+1 Terram)
+
     Wand of Master Smith in a Circle
         Type:
             Charged Item
@@ -295,3 +310,53 @@ Planned Creations:
             Base 3, +3' Sight, +1' Conc, +2' Group = 25, +5 device maintaining concentration = 30
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Pin Feather (+2 Auram)
+
+    Wand of Lifting the Magical Chores in a Circle
+        Type:
+            Charged Item
+        Description:
+            Two short and thin wood sticks magically twisted together, one of elder wood, the other rowan wood.
+        Effect:
+            ReVi T: Touch, D: Ring, T: Circle (dynamic)
+            This effect sustains all spells that are level 30 or lower and cast by anyone or anything inside the circle, as long as the caster remains inside.
+            Baculus created this effect to be cast on the bottom edge of a shallow round box so he can put wands with concentration duration effects inside to keep them almost permanent.
+        Trigger:
+            Draw/trace a circle using the tip of the wand.
+        Level:
+            Base 35, +1' Touch, +2' Ring = 50
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim)
+
+    Wand of Sighting the Tunnel's End
+        Type:
+            Charged Item
+        Description:
+            A wand made of a thin elder wood shaft going through a rowan wood socket about half its length.
+        Effect:
+            ReVi T: Sight, D: Conc, T: Ind
+            Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any spell up to level 35 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
+        Penetration:
+            2 * X
+        Trigger:
+            Command phrase.
+        Level:
+            Base 10, +3' Sight, +1' Conc = 30, +X Penetration = 30 + X
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Rowan Wood (+1 Vim)
+
+    Wand of Drawing the Mythical Link
+        Type:
+            Charged Item
+        Description:
+            A wooden wand made by connecting three pieces alongside its length, one of birch, one of elder, and one of rowan.
+        Effect:
+            CrVi T: Sight, D: Conc, T: Ind
+            The wand becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must penetrate target's Magic Resistance, remains active on the target for the duration which can be detected and dispelled.
+        Penetration:
+            2 * X
+        Trigger:
+            Command phrase.
+        Level:
+            Base 4, +3' Sight, +1' Conc = 20, +X Penetration = 20 + X
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim)
