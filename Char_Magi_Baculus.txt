@@ -44,7 +44,8 @@ Abilities:
     Awareness (searching): 2
     Folk Ken (Hermetic Magi): 2
     Sicily Lore (mercantile): 2
-    Tintagel Lore (_): 0 (4)
+    Tintagel Lore (mercantile): 1
+    Leadership (_): 0 (3)
     Bargain (wood): 1
     Craft Woodwork (wand): 7 (4)
     Latin (Hermetic): 4
@@ -113,6 +114,9 @@ Life:
         Summer: Setup laboratory (2/2), 2exp on Tintagel Lore.
         Autumn: Create 1 Wand of Intangible Veil of Silence and 1 Wand of Invisibility that Fades, 2exp on Craft Woodwork, 2exp on Magic Theory.
         Winter: Create 1 Wand of Portable Fair Wind, 2exp on Craft Woodwork, 2exp on Magic Theory.
+    Year 1221:
+        Spring: Install Greater Feature (lathe) and Greater Focus (flywheel) (1/2), 1exp on Tintagel Lore, 1exp on Leadership.
+        Summer: Install Greater Feature (lathe) and Greater Focus (flywheel) (2/2), 2exp on Leadership.
 
 Creations:
     The Walking Chair
