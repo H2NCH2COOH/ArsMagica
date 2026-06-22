@@ -219,26 +219,7 @@ Planned Creations:
         Shape and Material Bonuses:
             Aquamarine (+3 water), Birch Wood (+1 Creo)
         Vis Cost:
-            3 Cr/Aq
-
-    Wand of Unseen Crane
-        Type:
-            Lesser Enchantment
-        Description:
-            A short and thin wooden wand with a tiny magnet embedded by a bronze socket on its tip.
-        Effect:
-            ReTe(AnAqCoHe), R: Voice, D: Conc, T: Ind
-            Move an inanimate object in any direction as you will. The effect can move very large objects up to size +1. The heavier the object is, the slower it moves.
-        Trigger:
-            Command word.
-        Frequency:
-            Unlimited.
-        Level:
-            Base 3, +2' Voice, +1' Conc, +1' size = 15, +10 Frequency = 25
-        Shape and Material Bonuses:
-            Bronze (+3 Terram), Magnet (+2 Rego), Wand (+4 control things at a distance)
-        Vis Cost:
-            3 Re/Te
+            2 Cr/Aq
 
     Wand of Storing Everything in a Circle
         Type:
@@ -246,7 +227,7 @@ Planned Creations:
         Description:
             A thin and short wooden wand with a silver tip and an electrum band in the middle.
         Effect:
-            MuTe(AnAqCoHe) T: Touch, D: Ring, T: Circle (dynamic)
+            MuTe(AnAqCoHe), T: Touch, D: Ring, T: Circle (dynamic)
             Any inanimate object fully inside the circle is reduced to one percent of its original size and weight.
         Trigger:
             Draw/trace a circle using the tip of the wand.
@@ -261,7 +242,7 @@ Planned Creations:
         Description:
             A short and stubby wooden wand with a clear glass bead held at the tip by a cage made of electrum and silver.
         Effect:
-            MuTe(An) T: Touch, D: Ring, T: Circle (dynamic)
+            MuTe(An), T: Touch, D: Ring, T: Circle (dynamic)
             Any glass object fully inside the circle is turned into an equal volume of clay. When the clay is removed from the circle, it turns back to its original material but retains the new shape. A craftsman can use this to shape glass into exotic shapes, fix broken pieces, recycle old items.
         Trigger:
             Draw/trace a circle using the tip of the wand.
@@ -276,7 +257,7 @@ Planned Creations:
         Description:
             A short and stubby wooden wand with two bands around it in the middle, one made of silver, the other made of electrum.
         Effect:
-            MuTe(An) T: Touch, D: Ring, T: Circle (dynamic)
+            MuTe(An), T: Touch, D: Ring, T: Circle (dynamic)
             Any metal object fully inside the circle is turned into an equal volume of wax. When the wax is removed from the circle, it turns back to its original material but retains the new shape. A craftsman can use this to sculpt objects, fuse two pieces by heat, melt the wax and create thin coats or fill elaborate shapes.
         Trigger:
             Draw/trace a circle using the tip of the wand.
@@ -291,7 +272,7 @@ Planned Creations:
         Description:
             A very short birch wood wand with a duck pin feather fixed at the tip.
         Effect:
-            CrAu(Ig) T: Touch, D: Ring, T: Ind
+            CrAu(Ig), T: Touch, D: Ring, T: Ind
             Create a breeze of warm fresh air that continually moves within the circle, keeping the air breathable, and the temperature warm and comfortable.
         Trigger:
             Draw/trace a circle using the tip of the wand.
@@ -306,7 +287,7 @@ Planned Creations:
         Description:
             A long and twisting birch wood wand with a pin feather core.
         Effect:
-            CrAu T: Sight, D: Conc, T: Group
+            CrAu, T: Sight, D: Conc, T: Group
             Creates a small but severe rainstorm, including lightning and winds. The storm gathers and breaks in a few seconds, and dissipates with similar speed. The wand maintains concentration on this effect.
         Trigger:
             Command phrase.
@@ -321,7 +302,7 @@ Planned Creations:
         Description:
             Two short and thin wood sticks magically twisted together, one of elder wood, the other rowan wood.
         Effect:
-            ReVi T: Touch, D: Ring, T: Circle (dynamic)
+            ReVi, T: Touch, D: Ring, T: Circle (dynamic)
             This effect sustains all spells that are level 30 or lower and cast by anyone or anything inside the circle, as long as the caster remains inside.
             Baculus created this effect to be cast on the bottom edge of a shallow round box so he can put wands with concentration duration effects inside to keep them almost permanent.
         Trigger:
@@ -337,7 +318,7 @@ Planned Creations:
         Description:
             A wand made of a thin elder wood shaft going through a rowan wood socket about half its length.
         Effect:
-            ReVi T: Sight, D: Conc, T: Ind
+            ReVi, T: Sight, D: Conc, T: Ind
             Create a magical tunnel from this item to a target. The tunnel has two ends, one on the target and one on this item. Any spell up to level 35 can go through the tunnel. The tunnel ends are intangible and must be sensed by magical means first to be used. An effect targeting one end will be treated as if it's targeting the thing the other end is on. The effective range from a source to a tunnel end is the range from the source to the thing the end is on. Any effect going through the tunnel still needs to penetrate Magic Resistance normally.
         Penetration:
             2 * X
@@ -354,7 +335,7 @@ Planned Creations:
         Description:
             A wooden wand made by connecting three pieces alongside its length, one of birch, one of elder, and one of rowan.
         Effect:
-            CrVi T: Sight, D: Conc, T: Ind
+            CrVi, T: Sight, D: Conc, T: Ind
             The wand becomes a temporary Arcane Connection to a target. This Arcane Connection cannot be fixed in a laboratory, and does not itself give a bonus to Penetration. This effect must penetrate target's Magic Resistance, remains active on the target for the duration which can be detected and dispelled.
         Penetration:
             2 * X
@@ -364,3 +345,54 @@ Planned Creations:
             Base 4, +3' Sight, +1' Conc = 20, +X Penetration = 20 + X
         Shape and Material Bonuses:
             Birch Wood (+1 Creo), Elder Wood (+1 Vim), Rowan Wood (+1 Vim)
+
+    Wand of Baculus's Instruments
+        Type:
+            Invested Item
+        Description:
+            A birch wood wand that is perfectly 10-inch long and half-inch across with a 1-inch-wide silver band at its exact middle.
+        Effect 1:
+            Effect:
+                ReTe(AnAqCoHe), R: Voice, D: Sun, T: Ind
+                Move an inanimate object in any direction as you will. This effect can move very large objects up to size +1. The heavier the object is, the slower it moves. The object is held still at its current position and orientation unless controlled by your active concentration, or until the effect ends. Each activation of this effect works independently, and each must be controlled separately.
+            Trigger:
+                Command word.
+            Frequency:
+                Unlimited.
+            Level:
+                Base 3, +2' Voice, +2' Sun, +1' size = 20, +10 Frequency = 30
+        Effect 2:
+            Effect:
+                PeVi, R: Voice, D: Mom, T: Ind
+                Dispel one Hermetic Terram effect of level 20 + stress die (no botch) or lower.
+            Trigger:
+                Command word.
+            Frequency:
+                Unlimited.
+            Level:
+                Base 4, +2' Voice = 10, +10 Frequency = 20
+        Effect 3:
+            Effect:
+                CrIg, R: Touch, D: Mom, T: Ind
+                Ignite something flammable (like dry wood or charcoal).
+            Trigger:
+                Command word.
+            Frequency:
+                24 uses per day.
+            Level:
+                Base 4, +1' Touch = 5, +5 Frequency = 10
+        Effect 4:
+            Effect:
+                CrTe(AnHe), R: Touch, D: Conc, T: Group
+                Create a grand set of hand held tools that can satisfy crafts of many sizes and materials: from tiny gemstones to huge metal hinges. The tools are of legendary quality and in perfect condition, but would disappear when the effect ends.
+                The tools are suitable to be used in a Hermetic laboratory and would provide Flawless Tools virtue (free, -1 Upkeep, +2 Items).
+            Trigger:
+                Command word.
+            Frequency:
+                1 use per day.
+            Level:
+                Base 5, +1' Touch, +1' Conc, +2' Group, +2' complexity = 35, +5 device maintaining concentration = 40
+        Shape and Material Bonuses:
+            Birch Wood (+1 Creo), Silver (+1 Terram), Wand (+4 control things at a distance, +4 destroy things at a distance)
+        Vis Cost:
+            10 Vim, 3 Re/Te, 2 Pe/Vi, 1 Cr/Ig, 4 Cr/Te
