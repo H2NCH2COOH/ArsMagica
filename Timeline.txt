@@ -1,7 +1,32 @@
-1220 Saga Beginning
+1191 Bjornaer Gathering
+1192 Flambeau Tournament
+1193 Tribunal
+1195 Grand Tribunal
+1196 Flambeau Tournament
+1198 Verditius Competition, Tremere Decennial Meeting
+1200 Tribunal, Flambeau Tournament
+1203 Bjornaer Gathering
+1204 Flambeau Tournament
+1207 Tribunal
+1208 Flambeau Tournament, Tremere Decennial Meeting
+1212 Flambeau Tournament
+1214 Tribunal
+1215 Bjornaer Gathering
+1216 Verditius Competition, Flambeau Tournament
+1217 Tremere Decennial Meeting
+1220 Saga Beginning, Flambeau Tournament
 1221 Tribunal
-1227 Tribunal, Bjornaer Gathering
+1224 Flambeau, Tournament
+1227 Tribunal, Bjornaer Gathering, Flambeau Tournament, Tremere Decennial Meeting
 1228 Grand Tribunal
-1234 Verditius Contest
+1232 Flambeau Tournament
+1234 Verditius Competition
 1235 Tribunal
+1236 Flambeau Tournament
+1238 Tremere Decennial Meeting
 1239 Bjornaer Gathering
+1240 Flambeau Tournament
+1242 Tribunal
+1244 Flambeau Tournament
+1248 Flambeau Tournament, Tremere Decennial Meeting
+1249 Tribunal
