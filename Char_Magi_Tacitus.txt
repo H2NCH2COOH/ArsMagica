@@ -50,7 +50,7 @@ Abilities:
     Profession Scribe (Copying): 2 (6)
     Concentration (Avoiding Twilight): 4
     Penetration (Pe): 1
-    Magic Theory (Experimentation): 10 (20)
+    Magic Theory (Experimentation): 10 (23)
     Parma Magica (Vim): 1
     Parma Metaphysica (Magic): 6
 
@@ -84,7 +84,7 @@ Longevity Ritual:
 
 Belongings:
     Money: 78.80 Mythic Pound
-    Vis: 5 Vim
+    Vis: 1 Vim
     PARMAM METAPHYSICAM: Lab text for breakthrough of Parma Metaphysica, PeVi 500
 
 Soak: +3
@@ -260,6 +260,9 @@ Life:
                 Send the copy of PARMAM METAPHYSICAM to Colentes Arcanorum, -1 Mythic Pound cost.
                 -0.75 Mythic Pound on laboratory maintenance.
                 Aging total: 0.
+    Year 1236:
+        Spring: Create the Mystical Shear, +10 experiment bonus, No extraordinary effects, 3exp on Magic Theory, -1 Mythic Pound cost, -4 Vim Vis cost.
+                +1 Mythic Pound on allowance.
 
 Creations:
     Wand of Mundane Silence
@@ -411,6 +414,27 @@ Creations:
             Arcane Ability
         Description:
             Protection from Warping. This is a special ritual that takes about two minutes to perform, and lasts until the next sunrise or sunset. While under the protection of Parma Metaphysica, anytime a number of Warping Points are gained, reduce that number by the score of this ability. This may reduce the number to zero. For Warping Points gained over a period of time, they are not reduced unless Parma Metaphysica is active for more than half of that time. Parma Metaphysica itself doesn't cause Warping. An active Parma Metaphysica has an effective spell level equal to five times its score. One can only protect oneself with Parma Metaphysica. Only an individual with The Gift can learn Parma Metaphysica. Specialties: protection from one supernatural Realm.
+
+    The Mystical Shear
+        Type:
+            Lesser Enchantment
+        Description:
+            A 1-inch-wide, 5-inch-long, 1/4-inch-thick piece of elder wood embedded with a small round basalt rock, a small red gold star, and a piece of frankincense, polished to a smooth surface, with arcane symbols written across.
+        Effect:
+            PeVi, R: Touch, D: Mom, T: Ind
+            Reduce the duration of an Arcane Connection. Connections lasting less than years will expire immediately; ones lasting years will expire in hours; ones lasting decades will expire in days; fixed Arcane Connections will expire in weeks. Does not work on connections that naturally have Indefinite duration.
+        Trigger:
+            Trigger phrase.
+        Frequency:
+            Unlimited.
+        Level:
+            Base 20, +1' Touch = 25, +10 Frequency = 35
+        Shape and Material Bonuses:
+            Elder Wood (+1 Vim), Ink of Hermes (+3 Vim), Basalt (+3 Perdo), Red Gold (+1 Perdo), Frankincense (+3 Perdo Vim)
+        Lab Total at creation:
+            Pe 12 + Vi 12 + Int 5 + Magic Theory 12 + Aura 3 + S.M.B. 11 + Inventive Genius 6 + experiment bonus 10 + lab bonus 10 = 81
+        Vis Cost:
+            4 Vim
 
 Planned Creations:
     Vis Fundamentalis
