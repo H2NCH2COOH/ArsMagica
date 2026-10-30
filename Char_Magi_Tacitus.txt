@@ -5,7 +5,8 @@ Age: 36
 Apparent age: 34
 Decrepitude: 0
 Warping Score: 5 (24)
-Reputations: None
+Reputations:
+    Mysterious new member of Durenmar, Hermetic, +1
 Encumbrance: 0
 Confidence Score: 1
 Confidence Points: 3
@@ -39,6 +40,7 @@ Abilities:
     High German (Swiss): 5
     Latin (Hermetic): 4
     Folk Ken (Magi): 1
+    Intrigue (Plotting): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
     Order of Hermes Lore (Bonisagus): 1
@@ -83,8 +85,8 @@ Longevity Ritual:
     Side effect: Also prevents hair loss.
 
 Belongings:
-    Money: 78.80 Mythic Pound
-    Vis: 1 Vim
+    Money: 63.80 Mythic Pound
+    Vis: 2 Vim
     PARMAM METAPHYSICAM: Lab text for breakthrough of Parma Metaphysica, PeVi 500
 
 Soak: +3
@@ -99,26 +101,16 @@ Spells:
 
 Laboratory:
     Size: 0 (0)
-    Refinement: 4
-    Upkeep: -2
-    Safety: 6
+    Refinement: 0
+    Upkeep: 0
+    Safety: +1
     Health: 0
-    Aesthetics: +5
-    General Quality: -1
+    Aesthetics: +1
+    General Quality: 0
     Specializations:
-        Experimentation +9
-        Vi +2
     Virtues:
-        Greater Feature (Antechamber)
-        Greater Feature (Cauldron)
-        Lesser Feature (Monolith)
-        Lesser Feature (Orb)
-        Extensive Stores
-        Highly Organized
+        Superior Construction
     Flaws:
-        Greater Focus (Antechamber)
-        Missing Equipment (Familiar, Teaching)
-        Undecorated
 
 Life:
     Year 1200:
@@ -263,6 +255,11 @@ Life:
     Year 1236:
         Spring: Create the Mystical Shear, +10 experiment bonus, No extraordinary effects, 3exp on Magic Theory, -1 Mythic Pound cost, -4 Vim Vis cost.
                 +1 Mythic Pound on allowance.
+        Summer: Receive a message from Colentes Arcanorum, commanded to move to Durenmar as soon as possible.
+                Leave the Mystical Shear and 10 Mythic Pound as parting gift to the host, and receive 1 Vim Vis in return.
+                Move to Durenmar with belongings, helped by 5 mercenaries, -5 Mythic Pound cost.
+                Join Durenmar after being investigated by the Colentes and the Quaesitor, and vow to keep Parma Metaphysica a secret until the Colentes reach a decision at the next Tribunal, 5exp on Intrigue.
+                Receive a living quarter and a newly put up basic laboratory in the Tower of Notatus.
 
 Creations:
     Wand of Mundane Silence
