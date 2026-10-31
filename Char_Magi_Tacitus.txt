@@ -1,7 +1,7 @@
 Tacitus ex Bonisagus
 
 Size: 0
-Age: 36
+Age: 37
 Apparent age: 34
 Decrepitude: 0
 Warping Score: 5 (24)
@@ -60,7 +60,7 @@ Abilities:
 Arts:
     Cr: 4 (2)
     In: 2
-    Mu: 1
+    Mu: 4 (4)
     Pe: 12
     Re: 3
     An: 0
@@ -263,6 +263,8 @@ Life:
                 Join Durenmar after being investigated by the Colentes and the Quaesitor, and vow to keep Parma Metaphysica a secret until the Colentes reach a decision at the next Tribunal, 5exp on Intrigue.
                 Receive a living quarter and a newly put up basic laboratory in the Tower of Notatus.
         Autumn: Increase laboratory Refinement, 2exp on Durenmar Lore.
+        Winter: Study from a summa on Muto, Level 15, Quality 13, 13exp on Muto.
+                Aging total: -3.
 
 Creations:
     Wand of Mundane Silence
