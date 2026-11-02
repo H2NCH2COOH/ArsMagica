@@ -1,7 +1,7 @@
 Tacitus ex Bonisagus
 
 Size: 0
-Age: 37
+Age: 38
 Apparent age: 34
 Decrepitude: 0
 Warping Score: 5 (24)
@@ -43,7 +43,7 @@ Abilities:
     Intrigue (Plotting): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Durenmar Lore (_): 0 (4)
+    Durenmar Lore (Politics): 1 (3)
     Order of Hermes Lore (Bonisagus): 1
     Code of Hermes (History): 1
     Dominion Lore (Metaphysica): 1
@@ -53,7 +53,7 @@ Abilities:
     Profession Scribe (Copying): 2 (6)
     Concentration (Avoiding Twilight): 4
     Penetration (Pe): 1
-    Magic Theory (Experimentation): 10 (23)
+    Magic Theory (Experimentation): 10 (29)
     Parma Magica (Vim): 1
     Parma Metaphysica (Magic): 6
 
@@ -99,6 +99,7 @@ Spells:
     Demon's Eternal Oblivion (PeVi 40)
     Wind of Mundane Silence (PeVi 40)
     Aegis of the Hearth (ReVi 30, Mastery 1, Magic Resistance)
+    Blunting the Magical Edge (PeVi 30, Mastery 1, Penetration)
 
 Laboratory:
     Size: 0 (0)
@@ -106,16 +107,19 @@ Laboratory:
     Upkeep: +2
     Safety: +5
     Health: 0
-    Aesthetics: +1
-    General Quality: +2
+    Aesthetics: +3
+    General Quality: 0
     Specializations:
+        Experimentation +7
         Vis Extraction +1
     Virtues:
         Superior Construction
         Superior Equipment
         Highly Organized
         Extensive Stores
+        Greater Feature (Antechamber)
     Flaws:
+        Greater Focus (Antechamber)
 
 Life:
     Year 1200:
@@ -268,6 +272,13 @@ Life:
         Autumn: Increase laboratory Refinement, 2exp on Durenmar Lore.
         Winter: Build Extensive Stores, 2exp on Durenmar Lore.
                 Aging total: -3.
+    Year 1237:
+        Spring: Receive an order from Prima Murion on dealing with powerful hostile magical effects.
+                Build Greater Feature (Antechamber) and Greater Focus (Antechamber) 1/2, 2exp on Durenmar Lore.
+        Summer: Build Greater Feature (Antechamber) and Greater Focus (Antechamber) 2/2, 2exp on Durenmar Lore.
+        Autumn: Experiment on Blunting the Magical Edge, No benefit, Discovery (+3), 3exp on Magic Theory.
+        Winter: Stabilize on Blunting the Magical Edge, Complete failure, 3exp on Magic Theory.
+                Aging total: -4.
 
 Creations:
     Wand of Mundane Silence
@@ -440,6 +451,17 @@ Creations:
             Pe 12 + Vi 12 + Int 5 + Magic Theory 13 + Aura 3 + S.M.B. 11 + Inventive Genius 6 + experiment bonus 10 + lab bonus 10 = 82
         Vis Cost:
             4 Vim
+
+    Blunting the Magical Edge
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Voice, D: Mom, T: Ind
+            Reduce the Penetration of a magic effect by 30 if its Penetration is lower than this spell's Penetration.
+        Level:
+            Base 20, +2' Touch = 30
+        Lab Total at creation:
+            Pe 12 + Vi 12 + Int 5 + Magic Theory 13 + Aura 7 + Inventive Genius 6 + lab bonus 7 = 62
 
 Planned Creations:
     Vis Fundamentalis
