@@ -1,12 +1,13 @@
 Tacitus ex Bonisagus
 
 Size: 0
-Age: 40
-Apparent age: 34
+Age: 41
+Apparent age: 35
 Decrepitude: 0
 Warping Score: 5 (24)
 Reputations:
     Mysterious new member of Durenmar, Hermetic, 1
+    Bonisagus House Acclaim, 2 (5)
 Encumbrance: 0
 Confidence Score: 1
 Confidence Points: 3
@@ -43,14 +44,14 @@ Abilities:
     Intrigue (Plotting): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Durenmar Lore (Politics): 1 (7)
+    Durenmar Lore (Politics): 2 (3)
     Order of Hermes Lore (Bonisagus): 1
     Code of Hermes (History): 1
     Dominion Lore (Metaphysica): 1
     Faerie Lore (Metaphysica): 1
     Infernal Lore (Metaphysica): 1
     Magic Lore (Metaphysica): 1
-    Profession Scribe (Copying): 2 (6)
+    Profession Scribe (Copying): 2 (8)
     Concentration (Avoiding Twilight): 4
     Penetration (Pe): 1
     Magic Theory (Experimentation): 10 (47)
@@ -103,15 +104,15 @@ Spells:
     Magical Silence (PeVi 35, Mastery 1, Penetration)
 
 Laboratory:
-    Size: 0 (-2)
-    Refinement: +3
+    Size: 0 (0)
+    Refinement: +4
     Upkeep: +2
-    Safety: +7
+    Safety: +8
     Health: 0
-    Aesthetics: +3
+    Aesthetics: +5
     General Quality: 0
     Specializations:
-        Experimentation +7
+        Experimentation +10
         Vis Extraction +1
     Virtues:
         Superior Construction
@@ -119,6 +120,7 @@ Laboratory:
         Highly Organized
         Extensive Stores
         Greater Feature (Antechamber)
+        Greater Feature (Summoning Circle)
     Flaws:
         Greater Focus (Antechamber)
 
@@ -292,6 +294,13 @@ Life:
         Autumn: Experiment on Peeling the Deceiving Glamour, +7 experiment bonus, No benefit, Abandoned, 3exp on Magic Theory.
         Winter: Experiment on Peeling the Deceiving Glamour, +1 experiment bonus, Special (Complete failure), Abandoned, 3exp on Magic Theory.
                 Aging total: -3.
+    Year 1240:
+        Spring: Increase laboratory Refinement, 2exp on Durenmar Lore.
+        Summer: Build Greater Feature (Summoning Circle) 1/2, 2exp on Durenmar Lore.
+        Autumn: Build Greater Feature (Summoning Circle) 2/2, 2exp on Durenmar Lore.
+        Winter: Compile lab text on Blunting the Magical Edge and Magical Silence, 2exp on Profession Scribe.
+                Give both lab texts to Prima Murion, 20 Bonisagus House Acclaim Points.
+                Aging total: 4.
 
 Creations:
     Wand of Mundane Silence
