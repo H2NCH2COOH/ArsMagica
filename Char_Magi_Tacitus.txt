@@ -1,7 +1,7 @@
 Tacitus ex Bonisagus
 
 Size: 0
-Age: 39
+Age: 40
 Apparent age: 34
 Decrepitude: 0
 Warping Score: 5 (24)
@@ -43,7 +43,7 @@ Abilities:
     Intrigue (Plotting): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Durenmar Lore (Politics): 1 (5)
+    Durenmar Lore (Politics): 1 (7)
     Order of Hermes Lore (Bonisagus): 1
     Code of Hermes (History): 1
     Dominion Lore (Metaphysica): 1
@@ -53,7 +53,7 @@ Abilities:
     Profession Scribe (Copying): 2 (6)
     Concentration (Avoiding Twilight): 4
     Penetration (Pe): 1
-    Magic Theory (Experimentation): 10 (38)
+    Magic Theory (Experimentation): 10 (47)
     Parma Magica (Vim): 1
     Parma Metaphysica (Magic): 6
 
@@ -103,10 +103,10 @@ Spells:
     Magical Silence (PeVi 35, Mastery 1, Penetration)
 
 Laboratory:
-    Size: 0 (-1)
-    Refinement: +2
+    Size: 0 (-2)
+    Refinement: +3
     Upkeep: +2
-    Safety: +6
+    Safety: +7
     Health: 0
     Aesthetics: +3
     General Quality: 0
@@ -286,6 +286,12 @@ Life:
         Autumn: Experiment on Peeling the Deceiving Glamour, Disaster (2), 3exp on Magic Theory.
         Winter: Experiment on Peeling the Deceiving Glamour, +2 experiment bonus, Modified effect (Magical Silence), Discovery (-1), 3exp on Magic Theory.
                 Aging total: -4.
+    Year 1239:
+        Spring: Increase laboratory Refinement, 2exp on Durenmar Lore.
+        Summer: Stabilize on Magical Silence, 7 Breakthrough Points towards Vim Solam, 3exp on Magic Theory.
+        Autumn: Experiment on Peeling the Deceiving Glamour, +7 experiment bonus, No benefit, Abandoned, 3exp on Magic Theory.
+        Winter: Experiment on Peeling the Deceiving Glamour, +1 experiment bonus, Special (Complete failure), Abandoned, 3exp on Magic Theory.
+                Aging total: -3.
 
 Creations:
     Wand of Mundane Silence
