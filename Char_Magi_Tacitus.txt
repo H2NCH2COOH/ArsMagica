@@ -1,7 +1,7 @@
 Tacitus ex Bonisagus
 
 Size: 0
-Age: 38
+Age: 39
 Apparent age: 34
 Decrepitude: 0
 Warping Score: 5 (24)
@@ -43,7 +43,7 @@ Abilities:
     Intrigue (Plotting): 1
     Artes Liberales (Ceremonial magic): 1
     Philosophiae (Ceremonial magic): 1
-    Durenmar Lore (Politics): 1 (3)
+    Durenmar Lore (Politics): 1 (5)
     Order of Hermes Lore (Bonisagus): 1
     Code of Hermes (History): 1
     Dominion Lore (Metaphysica): 1
@@ -53,7 +53,7 @@ Abilities:
     Profession Scribe (Copying): 2 (6)
     Concentration (Avoiding Twilight): 4
     Penetration (Pe): 1
-    Magic Theory (Experimentation): 10 (29)
+    Magic Theory (Experimentation): 10 (38)
     Parma Magica (Vim): 1
     Parma Metaphysica (Magic): 6
 
@@ -100,12 +100,13 @@ Spells:
     Wind of Mundane Silence (PeVi 40)
     Aegis of the Hearth (ReVi 30, Mastery 1, Magic Resistance)
     Blunting the Magical Edge (PeVi 30, Mastery 1, Penetration)
+    Magical Silence (PeVi 35, Mastery 1, Penetration)
 
 Laboratory:
-    Size: 0 (0)
-    Refinement: +1
+    Size: 0 (-1)
+    Refinement: +2
     Upkeep: +2
-    Safety: +5
+    Safety: +6
     Health: 0
     Aesthetics: +3
     General Quality: 0
@@ -278,6 +279,12 @@ Life:
         Summer: Build Greater Feature (Antechamber) and Greater Focus (Antechamber) 2/2, 2exp on Durenmar Lore.
         Autumn: Experiment on Blunting the Magical Edge, No benefit, Discovery (+3), 3exp on Magic Theory.
         Winter: Stabilize on Blunting the Magical Edge, Complete failure, 3exp on Magic Theory.
+                Aging total: -4.
+    Year 1238:
+        Spring: Increase laboratory Refinement, 2exp on Durenmar Lore.
+        Summer: Stabilize on Blunting the Magical Edge, 6 Breakthrough Points towards Vim Solam, 3exp on Magic Theory.
+        Autumn: Experiment on Peeling the Deceiving Glamour, Disaster (2), 3exp on Magic Theory.
+        Winter: Experiment on Peeling the Deceiving Glamour, +2 experiment bonus, Modified effect (Magical Silence), Discovery (-1), 3exp on Magic Theory.
                 Aging total: -4.
 
 Creations:
@@ -462,6 +469,17 @@ Creations:
             Base 20, +2' Touch = 30
         Lab Total at creation:
             Pe 12 + Vi 12 + Int 5 + Magic Theory 13 + Aura 7 + Inventive Genius 6 + lab bonus 7 = 62
+
+    Magical Silence
+        Type:
+            Spell
+        Effect:
+            PeVi, R: Touch, D: Sun, T: Room
+            Anyone or anything within must subtract 10 from its Casting Total when creating a supernatural effect of Magic Realm. If the effect does not have a Casting Total, subtract from Penetration instead. If the effect does not have Casting Total or Penetration, it is not affected. This spell must penetrate to take effect.
+        Level:
+            Base 10, +1' Touch, +2' Sun, +2' Room = 35
+        Lab Total at creation:
+            Pe 12 + Vi 12 + Int 5 + Magic Theory 13 + Aura 7 + S.S.B. 6 + Inventive Genius 6 + lab bonus 7 + experiment bonus 2 = 70
 
 Planned Creations:
     Vis Fundamentalis
